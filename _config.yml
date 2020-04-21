@@ -22,12 +22,10 @@ logo: logo_seal_small.png # add logo name
 logo-ecole: logo_epita_small.png # add logo name 
 title: SEAL Research Team - Sense, Explore, Analyse and Learn
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'
+  Blog pour le SEAL Research Team - Sense, Explore, Analyse and Learn.
 # Produces a cleaner folder structure when using categories
 # permalink: /:year/:month/:title.html
+permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -47,8 +45,6 @@ website: https://dwayne.example.com # you website
 # Social link
 google_url:    # add url link
 twitter_url:   # add url link
-# twitter_username: jekyllrb
-# github_username:  jekyll
 instagram_url: # add url link
 pinterest_url: # add url link
 dribbble_url:  # add url link
@@ -59,10 +55,6 @@ discus_identifier: mr-brown # add your discus identifier.  Not your username.  T
 
 # Tracker
 analytics:
-
-# Old Paginate
-# paginate: 12
-# paginate_path: /page:num/
 
 # Pagination Settings
 pagination:
@@ -75,10 +67,8 @@ pagination:
   sort_reverse: true
 
 # Build settings
-# theme: minima
 markdown: kramdown
 plugins:
-#  - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-sitemap
 
