@@ -3523,7 +3523,7 @@ template {
 }
 
 .highlighter-rouge {
-  color: #e74b3c;
+  color: #0090fc; /*#e74b3c;*/
   font-weight: 400;
   border: 1px solid #607D8B;
   -webkit-border-radius: 3px;
@@ -3578,8 +3578,8 @@ template {
 
 /* Comment.Special */
 .highlight .gd {
-  background-color: #fcc;
-  border: 1px solid #c00;
+  background-color: rgba(0, 144, 252, 0.75); /*#fcc;*/
+  border: 1px solid #0090fc; /*#c00;*/
 }
 
 /* Generic.Deleted */
@@ -3865,7 +3865,7 @@ p {
 blockquote {
   font-size: 1.2rem;
   font-style: italic;
-  border-left: 3px solid #c25b6c;
+  border-left: 3px solid #0090fc; /*#c25b6c;*/
   padding-left: 2rem;
   margin: 0 0 1.75rem;
   color: #333333;
@@ -4055,7 +4055,7 @@ cite {
   display: block;
   width: 40px;
   margin-top: 0.3rem;
-  border-top: 3px solid #c25b6c;
+  border-top: 3px solid #0090fc; /*#c25b6c;*/
 }
 
 .chapters .chapter_inner .chapter_title {
@@ -4111,7 +4111,7 @@ cite {
   font-size: 0.9rem;
   text-align: center;
   text-transform: uppercase;
-  background-color: #c0334a;
+  background-color: #0090fc; /*#c0334a;*/
   cursor: pointer;
   -webkit-border-radius: 2.5rem;
           border-radius: 2.5rem;
@@ -4125,11 +4125,11 @@ cite {
 }
 
 .newsletter form .subscribe_btn:hover {
-  background-color: rgba(192, 51, 74, 0.75);
+  background-color: rgba(0, 144, 252, 0.75); /*rgba(192, 51, 74, 0.75);*/
 }
 
 .newsletter form .subscribe_btn:active {
-  background-color: rgba(192, 51, 74, 0.5);
+  background-color: rgba(0, 144, 252, 0.5); /*rgba(192, 51, 74, 0.5);*/
 }
 
 .pagination {
@@ -4189,7 +4189,7 @@ cite {
 
 .top:hover {
   color: #ffffff;
-  background-color: #c0334a;
+  background-color:  #0090fc; /*#c0334a;*/
   opacity: .8;
 }
 
@@ -4235,7 +4235,7 @@ cite {
 }
 
 .social_footer a:hover {
-  background-color: #c0334a;
+  background-color: #0090fc; /*#c0334a;*/
   color: #ffffff;
 }
 
@@ -4253,13 +4253,13 @@ cite {
 
 .copyright a {
   text-decoration: none;
-  color: #c0334a;
+  color: #0090fc; /*#c0334a;*/
   -webkit-transition: all .35s ease-in-out;
   transition: all .35s ease-in-out;
 }
 
 .copyright a:hover {
-  color: rgba(192, 51, 74, 0.75);
+  color: rgba(0,144,252,0.75);/*rgba(192, 51, 74, 0.75);*/
 }
 
 .post_wrapper, .entry_content {
@@ -4304,14 +4304,14 @@ cite {
   font-size: 1.1rem;
   margin: 0;
   color: #ffffff;
-  background-color: rgba(210, 84, 105, 0.4);
+  background-color: rgba(0, 144, 252, 0.4); /*rgba(210, 84, 105, 0.4);*/
 }
 
 .post header .post_title {
   padding: 1rem;
   font-size: 2rem;
   margin: 0;
-  background-color: rgba(192, 51, 74, 0.4);
+  background-color: rgba(0, 144, 252, 0.4); /*rgba(192, 51, 74, 0.4);*/
   color: #ffffff;
 }
 
@@ -4344,7 +4344,7 @@ cite {
 }
 
 .post_footer a:hover {
-  background-color: #d25469;
+  background-color: #0090fc; /*#d25469;*/
   color: #ffffff;
 }
 
@@ -4496,18 +4496,18 @@ cite {
 #tags .tags li {
   float: left;
   margin: 0 0.5rem 0.5rem 0;
-  border: 1px solid #c0334a;
+  border: 1px solid #0090fc;/*#c0334a;*/
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
-  background-color: #d25469;
-  -webkit-box-shadow: 0 2px 0 #c0334a;
-          box-shadow: 0 2px 0 #c0334a;
+  background-color: #0090fc; /*#d25469;*/
+  -webkit-box-shadow: 0 2px 0 #0090fc; /*#c0334a;*/
+          box-shadow: 0 2px 0 #0090fc; /*#c0334a;*/
   -webkit-transition: all .35s;
   transition: all .35s;
 }
 
 #tags .tags li:hover {
-  background-color: rgba(192, 51, 74, 0.75);
+  background-color: rgba(0, 144, 252, 0.75);/*rgba(192, 51, 74, 0.75);*/
 }
 
 #tags .tags a {
@@ -4524,11 +4524,11 @@ cite {
 }
 
 #tags .tag_list a {
-  color: #c0334a;
+  color: #0090fc; /*#c0334a;*/
 }
 
 #tags .tag_list a:hover {
-  color: rgba(192, 51, 74, 0.75);
+  color: rgba(0, 144, 252, 0.75); /*rgba(192, 51, 74, 0.75);*/
 }
 
 #tags .back_to_home {
@@ -4607,7 +4607,7 @@ cite {
 }
 
 .about .about_social .social_footer a:hover {
-  color: #c0334a;
+  color: #0090fc; /*#c0334a;*/
 }
 
 .contact {
@@ -4665,7 +4665,7 @@ cite {
 }
 
 .container_contact .form input:focus, .container_contact .form textarea:focus {
-  background-color: rgba(191, 127, 127, 0.6);
+  background-color: rgba(0, 144, 252, 0.6); /*rgba(191, 127, 127, 0.6);*/
 }
 
 .container_contact .form .form_btn {
@@ -4684,7 +4684,7 @@ cite {
 }
 
 .container_contact .form .form_btn:hover {
-  background-color: rgba(191, 127, 127, 0.6);
+  background-color: rgba(0, 144, 252, 0.6); /*rgba(191, 127, 127, 0.6);*/
   color: #ffffff;
 }
 
