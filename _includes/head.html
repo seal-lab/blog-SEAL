@@ -1,6 +1,10 @@
 <head>
 	<meta charset="utf-8">
-	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
+	{% if page.layout == 'main' %}
+	<title>{{site.title}}</title>
+	{% else %}
+	<title>{{page.title}} - {{site.title}}</title>
+	{% endif %}
 	<meta name="description" content="{{ page.description }}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
