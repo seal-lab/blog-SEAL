@@ -46,9 +46,6 @@ website: https://dwayne.example.com # you website
 # twitter_url: # Future
 facebook_url: https://www.facebook.com/sealresearch/
 
-# Disqus
-discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
-
 # Tracker
 analytics:
 
