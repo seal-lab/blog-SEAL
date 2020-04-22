@@ -20,7 +20,7 @@
 
 logo: logo_seal_small.png # add logo name
 logo-ecole: logo_epita_small.png # add logo name 
-title: SEAL Research Team - Sense, Explore, Analyse and Learn
+title: SEAL Research Team - Blog
 description: >- # this means to ignore newlines until "baseurl:"
   Blog pour le SEAL Research Team - Sense, Explore, Analyse and Learn.
 # Produces a cleaner folder structure when using categories
@@ -30,7 +30,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains # add banner video. Add your video file to the folder video
+video: banner # add banner video. Add your video file to the folder video
 banner-title: # add banner title
 banner-desc: # add banner description
 
