@@ -3852,7 +3852,16 @@ body {
   -webkit-font-smoothing: antialiased;
   background-color: #262626;
   margin: 0;
+  text-align:justify;
 }
+
+body ul, li {
+  font-size: 1.1rem;
+  line-height: 1.75rem;
+  color: #525c65;
+  font-weight: 400;	
+}
+
 
 p {
   font-size: 1.1rem;
@@ -3864,7 +3873,8 @@ p {
 
 blockquote {
   font-size: 1.2rem;
-  font-style: italic;
+  font-style: oblique;
+  font-weight: 550;
   border-left: 3px solid #0090fc; /*#c25b6c;*/
   padding-left: 2rem;
   margin: 0 0 1.75rem;
@@ -3872,7 +3882,9 @@ blockquote {
 }
 
 blockquote p {
-  color: #333333;
+    font-style: oblique;
+    font-weight: 550;
+  color: #1D4356;/*#333333;*/
   font-size: 1.2rem;
 }
 

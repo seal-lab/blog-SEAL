@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Concours ERL 2019 &#x266F;O1"
+img: ERL_2019/erl_contest.jpg # Add image post (optional)
+date: 2019-07-14 10:00:00 +0100
+description: Des épitéens participent à l'un des plus prestigieux concours européen de robotique d'exploration ! (Équipe SEAL &#x40;ERL2019, &#x266F;O1)
+categories: [Concours]
+tags: [Underwater robot, Ground robot, ERL Contest]
+---
+
+
+# Des épitéens participent à l'un des plus prestigieux concours européen de robotique d'exploration !
+ 
+**Cinq étudiants** de l'équipe de recherche SEAL participent jusqu'au vendredi 19 juillet à **La Spezia** en Italie à une manche de l'un des plus prestigieux concours européen de robotique d'exploration : l'**European Robotics League - Emergency Robots** (ERL - ER). 
+
+> Cette manche porte sur la collaboration entre des robots terrestres et sous-marins.
+
+![image](/assets/img/ERL_2019/flags.jpg){: style="float:left; padding-right:15px; margin-right:15px; width:35%;"}
+* **Le lieu** : la base militaire de l'OTAN (CMRE — Centre for Maritime Research and Experimentation). 
+* **Le scénario** : un bateau a perdu le contrôle lors de son entrée dans le port. Il a endommagé un pipeline sous-marin (le premier robot doit repérer les dégâts et identifier le pipeline endommagé) et la valve terrestre alimentant le pipeline en question doit être coupée pour stopper la propagation des produits dangereux (mission du second robot).
+ 
+Une **cartographie post-accident** doit être réalisée pour analyser les dégâts et orienter les décisions stratégiques de **gestion de crise** (c'est sur ce dernier type d'épreuves que se concentre notre équipe). 
+ 
+Et bien entendu, les robots doivent agir seuls, en **totale autonomie**, en découvrant leur environnement et en évitant les nombreux obstacles. 
+
+![image](/assets/img/ERL_2019/students_team.jpg){: style="float:none; display: block; margin-left:auto; margin-right:auto; padding:15px; width:80%;"}
+**Bonne chance à notre équipe !**{: style="display: block; text-align:center;"}
+
+	
+
+*&#x21E8; Lire la suite* : [Concours ERL 2019 &#x266F;O2]({% post_url 2019-07-15-concours-erl-2019-02 %})
+
+<!-- *&#x2192; Lire la suite* : [Concours ERL 2019 &#x266F;O2]({% post_url 2019-07-14-concours-erl-2019-01 %}) -->
