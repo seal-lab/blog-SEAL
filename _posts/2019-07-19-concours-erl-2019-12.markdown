@@ -1,0 +1,52 @@
+---
+layout: post
+title: "Concours ERL 2019 &#x266F;12"
+img: ERL_2019/students_team_02.jpg # Add image post (optional)
+date: 2019-07-19 15:00:00 +0100
+description:  Remise des prix  (SEAL&#x40;ERL2019, &#x266F;11)
+categories: [Concours]
+tags: [Underwater robot, Ground robot, ERL Contest]
+---
+
+
+# SEAL&#x40;ERL -  Remise des prix 
+ 
+La **présentation orale** devant le jury complet, dernière étape du **challenge**, s'est très bien passée et a dû nous rapporter pas mal de **points**. 
+
+> Et voici enfin le verdict tant attendu : roulement de moteurs, bips en trompette des ESC... 
+
+L'équipe SEAL a le plaisir de vous annoncer qu'elle est arrivée **3e** dans **trois des cinq classements** : pour le **single domaine land**, pour le **double domain sea+land** et pour le **land global** !!!! 
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/prix_01.jpg){: style="width:33%;"} ![image](/assets/img/ERL_2019/prix_02.jpg){: style="width:33%;"} ![image](/assets/img/ERL_2019/prix_03.jpg){: style="width:33%;"}<br/> 
+{: refdef}
+
+Nous avons également eu l'**honneur** de recevoir le **prix spécial** de la réputée organisation internationale à but non lucratif : **RoboNation** (anciennement fondation AUVSI) qui soutient le développement de la robotique, notamment à travers l'**éducation**. 
+
+> Ces 4 prix font de l'équipe SEAL la 2e équipe la plus récompensée du concours !
+
+Les juges ont particulièrement apprécié l'**esprit créatif** et **challenger** de notre équipe qui essayait tous les jours d'apporter des améliorations même avec les moyens du bord (spatule power). Ils ont aussi été impressionnés par l'**agilité** dont nous avons fait preuve pour passer d'un robot à l'autre (seule équipe "dual domain") et enchaîner les **épreuves terre/eau** ainsi que par nos **choix techniques** qui, bien que les premiers résultats n'en soient encore qu'à leurs balbutiements, s'avèrent très **prometteurs**.
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/team_resultats_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/team_resultats_02.jpg){: style="width:49%;"}<br/> 
+{: refdef}
+
+> Bravo aux 5 étudiants de l'équipe SEAL et à leurs concurrents ! 
+
+Merci à nos **partenaires** pour nous avoir fourni du matériel : **Fischer Connectors** et l'**UPEM** (Université Paris-Est Marne-la-Vallée). Et merci à l'équipe organisatrice du challenge et à tous les juges !
+
+
+{:refdef: style="text-align: center;"}
+**L'aventure vous a plu ?**<br/>**L'équipe SEAL de l'Épita recrute des étudiants dès la première année d'école d'ingénieur.**<br/> **Alors, pourquoi pas vous dans quelques années ?**
+{: refdef}
+
+
+
+
+*&#x21E6; Voir le post précédent* : [Concours ERL 2019 &#x266F;11]({% post_url 2019-07-19-concours-erl-2019-11 %})
+
+
+<!-- *&#x2192; Découvrir l'édition 2020* : [Concours ERL 2020 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->
+<!-- *&#x2192; Revivre l'édition 2019* : [Concours ERL 2019 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->

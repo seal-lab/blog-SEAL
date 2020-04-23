@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Concours ERL 2019 &#x266F;02"
+img: ERL_2019/tente_seal_travail.jpg # Add image post (optional)
+date: 2019-07-14 10:00:00 +0100
+description: Arrivée au concours européen de robotique d'exploration ERL (SEAL&#x40;ERL2019, &#x266F;02)
+categories: [Concours]
+tags: [Underwater robot, Ground robot, ERL Contest]
+---
+
+
+# Arrivée au concours européen de robotique d'exploration ERL
+ 
+Arrivée sur place, l'équipe découvre ses **concurrents** et les **arènes de jeux**. La tâche s'annonce ardue. 
+Dans l'arène marine, même dans les meilleures conditions, il y a des **vagues**, du **courant** et la **visibilité** est réduite (4/5 mètres maximum). L'arène terrestre, elle, est divisée en deux : une à l'**extérieur** et une en **intérieur**. 
+
+> Du point de vue technologique, les difficultés portent sur la localisation (pour la navigation autonome) des robots et la transmission de données vers le centre de contrôle : dans l'eau comme à l'intérieur, il n'y a pas de GPS ni de WiFi (ou autre communication non filaire). 
+
+Notre équipe est le **challenger** de cette édition car elle y participe pour la première fois, sa **moyenne d'âge** est la plus basse (et de loin : les autres équipes sont composées de doctorants, post-doctorants et professionnels) et ses robots sont les plus **petits** (nombre de capteurs limité, mais plus d'agilité), les moins coûteux (il faut donc compenser par un code très performant) et construits de zéro (certains véhicules roulants notamment sont achetés clé en main et possèdent déjà beaucoup de fonctionnalités qui permettent de passer facilement aux tâches très haut niveau).
+
+| ![image](/assets/img/ERL_2019/epita_ryujin_sous-marin.jpg){: style="width:100%;"} | ![image](/assets/img/ERL_2019/epita_robot_terrestre.jpg){: style="width:100%;"} |
+
+**Les deux robots, sous-marin et terrestre, présentés par notre équipe**{: style="display: block; text-align:center;"}
+
+
+> C'est aussi la seule équipe à présenter deux robots : un sous-marin et un terrestre. Mais à coeur vaillant…
+
+Nos **principaux concurrents** sont : University of Applied Science of Kiel (Allemagne), University of Firenze (Italie), University of Bath (Angleterre), University of Sciences and Technologies of Wroclaw (Pologne), Telerob Company (Allemagne), etc.
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/concurrent_sous-marin_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/concurrent_sous-marin_02.jpg){: style="width:49%;"}
+**Deux robots sous-marins présentés par des équipes concurrentes**
+{: refdef}
+
+	
+{:refdef: style="text-align: center;"}
+![My Image](/assets/img/ERL_2019/concurrent_terrestre_01.jpg){: style="width:67.5%;"} ![My Image](/assets/img/ERL_2019/concurrent_terrestre_02.jpg){: style="width:30%;"}
+**Deux robots terrestres présentés par des équipes concurrentes**
+{: refdef}
+
+Challenger certes, mais après avoir passé la barre très stricte de la **sélection** : seules les équipes les plus performantes peuvent venir à La Spezia pour affronter les épreuves *in situ*. Être présent ici est déjà une **belle victoire**.
+
+
+
+	
+
+*&#x21E8; Lire la suite* : [Concours ERL 2019 &#x266F;03]({% post_url 2019-07-15-concours-erl-2019-03 %}) <br/>
+*&#x21E6; Voir le post précédent* : [Concours ERL 2019 &#x266F;01]({% post_url 2019-07-13-concours-erl-2019-01 %})
+
+<!-- *&#x2192; Découvrir l'édition 2020* : [Concours ERL 2020 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->
+<!-- *&#x2192; Revivre l'édition 2019* : [Concours ERL 2019 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->

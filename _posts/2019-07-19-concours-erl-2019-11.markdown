@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Concours ERL 2019 &#x266F;11"
+img: ERL_2019/grand_challenge_day_2.jpg # Add image post (optional)
+date: 2019-07-18 15:00:00 +0100
+description:  Grand Challenge - Day 2 sea+land  (SEAL&#x40;ERL2019, &#x266F;11)
+categories: [Concours]
+tags: [Underwater robot, Ground robot, ERL Contest]
+---
+
+
+# SEAL&#x40;ERL -  Grand Challenge - Day 2 sea+land 
+ 
+C'est le **run final** aujourd'hui ! À nouveau dans le cadre du **Grand Challenge**, les deux robots sont lancés **simultanément** dans leurs arènes respectives, cette fois-ci devant les invités (officiels et journalistes). 
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/grand_challenge_land_ready_03.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_land_ready_04.jpg){: style="width:49%;"}<br/> 
+**Derniers préparatifs avant le run final**<br/>
+{: refdef}
+
+
+> Nos deux robots ont réitéré à peu près les performances de la veille, avec des bugs en moins et d'autres en plus : c'est les joies de la robotique de terrain ! 
+
+
+Quelques **variantes** : le robot terrestre n'a pas été rattrapé par sa spatule ce coup-ci et a **plongé** dans le **vide** (en retombant sur ses roues, un vrai chat !), il passe sans problème sous les **barrières** (adieu obstacles : spatule flexible !) et le travail de la nuit a permis d'améliorer la réception du **retour vidéo**. 
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/grand_challenge_land_run_05.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_land_run_06.jpg){: style="width:49%;"}<br/> 
+![image](/assets/img/ERL_2019/grand_challenge_land_run_07.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_land_run_08.jpg){: style="width:49%;"}<br/> 
+**“Mabouya Spatula Rover” dans l’arène extérieure puis dans le bas de l’arène intérieure**<br/>
+{: refdef}
+
+
+
+> Il n'a cependant pas réussi à nouveau à trouver le mannequin (la victime). 
+
+
+Ryu, lui, a eu des problèmes de **capteurs** (boussole et baromètre). RAS dans la **piscine** mais **hors de contrôle** dans le **port** : est-ce le moteur du zodiaque qui perturbe ??? Pas mal d'autres concurrents aquatiques galèrent aussi...
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/grand_challenge_underwater_ready_02.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_underwater_run_03.jpg){: style="width:49%;"}<br/> 
+**Dernier bain !**<br/>
+{: refdef}
+
+En tout cas, **quelques points** ont été gagnés, maintenant il faut attendre les **délibérations du jury** et les annonces des **résultats**.
+
+
+*&#x21E8; Lire la suite* : [Concours ERL 2019 &#x266F;12]({% post_url 2019-07-19-concours-erl-2019-12 %}) <br/>
+*&#x21E6; Voir le post précédent* : [Concours ERL 2019 &#x266F;10]({% post_url 2019-07-18-concours-erl-2019-10 %})
+
+
+<!-- *&#x2192; Découvrir l'édition 2020* : [Concours ERL 2020 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->
+<!-- *&#x2192; Revivre l'édition 2019* : [Concours ERL 2019 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->

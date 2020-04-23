@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Concours ERL 2019 &#x266F;04"
+img: ERL_2019/ryujin_safety_check.jpg # Add image post (optional)
+date: 2019-07-15 13:00:00 +0100
+description: Underwater vehicle's safety check&#58; check!(SEAL&#x40;ERL2019, &#x266F;04)
+categories: [Concours]
+tags: [Underwater robot, ERL Contest]
+---
+
+
+# SEAL&#x40;ERL - Underwater vehicle's safety check: check!
+ 
+L'équipe SEAL a le **plaisir** de vous annoncer que son robot sous-marin, **Ryujin**, a passé **victorieusement** le **test** et a commencé aujourd'hui sa **première ronde** dans les profondeurs abyssales (-3000.... millimètres) du **port** (arène aquatique).
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/underwater_safety_check_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/underwater_safety_check_02.jpg){: style="width:49%;"}<br/> 
+**Ryujin sous l’oeil des juges lors du safety check**
+{: refdef}
+
+
+	
+{:refdef: style="text-align: center;"}
+![My Image](/assets/img/ERL_2019/first_underwater_run_01.jpg){: style="width:49%;"} ![My Image](/assets/img/ERL_2019/first_underwater_run_02.jpg){: style="width:27.5%;"}<br/>
+![My Image](/assets/img/ERL_2019/first_underwater_run_03.jpg){: style="width:24.5%;"} ![My Image](/assets/img/ERL_2019/first_underwater_run_04.jpg){: style="width:49%;"} ![My Image](/assets/img/ERL_2019/first_underwater_run_05.jpg){: style="width:24.5%;"}<br/>
+**Parés à partir en mer pour le premier run !**
+{: refdef}
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/first_underwater_run_06.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/first_underwater_run_07.jpg){: style="width:49%;"}<br/> 
+![image](/assets/img/ERL_2019/first_underwater_run_08.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/first_underwater_run_09.jpg){: style="width:49%;"}<br/> 
+**Ryu dans le grand bain :-)**
+{: refdef}
+
+Mais des **problèmes** apparaissent. Il faut dire que les **composants numériques** supportent très mal la **chaleur torride** qui s'est abattue sur nous et qui a presque doublée en quelques heures. Humains et prototypes **surchauffent** !
+
+
+
+
+*&#x21E8; Lire la suite* : [Concours ERL 2019 &#x266F;05]({% post_url 2019-07-15-concours-erl-2019-05 %}) <br/>
+*&#x21E6; Voir le post précédent* : [Concours ERL 2019 &#x266F;03]({% post_url 2019-07-15-concours-erl-2019-03 %})
+
+<!-- *&#x2192; Découvrir l'édition 2020* : [Concours ERL 2020 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->
+<!-- *&#x2192; Revivre l'édition 2019* : [Concours ERL 2019 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->

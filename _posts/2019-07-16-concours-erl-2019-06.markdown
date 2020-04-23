@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Concours ERL 2019 &#x266F;06"
+img: ERL_2019/first_points.jpg # Add image post (optional)
+date: 2019-07-16 16:00:00 +0100
+description:  Des points de gagnés !(SEAL&#x40;ERL2019, &#x266F;06)
+categories: [Concours]
+tags: [Ground robot, ERL Contest]
+---
+
+
+# SEAL&#x40;ERL - Des points de gagnés !
+ 
+Notre robot terrestre a participé à **2 runs** en une journée. L'équipe a engrangé ses **premiers points** et des **sueurs froides** : le robot a roulé sur un **obstacle**, fait un **tonneau**, est retombé sur ses roues et a continué sa mission. Les juges ont été **impressionnés**.
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/second_ground_run_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/second_ground_run_02.jpg){: style="width:49%;"}<br/> 
+![image](/assets/img/ERL_2019/second_ground_run_03.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/second_ground_run_04.jpg){: style="width:49%;"}<br/> 
+**On est entré dans l’arène extérieure !**
+{: refdef}
+
+
+
+
+*&#x21E8; Lire la suite* : [Concours ERL 2019 &#x266F;07]({% post_url 2019-07-16-concours-erl-2019-07 %}) <br/>
+*&#x21E6; Voir le post précédent* : [Concours ERL 2019 &#x266F;05]({% post_url 2019-07-15-concours-erl-2019-05 %})
+
+
+<!-- *&#x2192; Découvrir l'édition 2020* : [Concours ERL 2020 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->
+<!-- *&#x2192; Revivre l'édition 2019* : [Concours ERL 2019 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->

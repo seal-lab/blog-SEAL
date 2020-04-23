@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Concours ERL 2019 &#x266F;10"
+img: ERL_2019/grand_challenge_day_1_land.jpg # Add image post (optional)
+date: 2019-07-18 15:00:00 +0100
+description:  Grand Challenge - Day 1 land  (SEAL&#x40;ERL2019, &#x266F;10)
+categories: [Concours]
+tags: [Ground robot, ERL Contest]
+---
+
+
+# SEAL&#x40;ERL -  Grand Challenge - Day 1 land 
+ 
+Toujours pour le **Grand Challenge**, mais côté **terrestre**, afin de régler le problème de communication, une **spatule** de cuisine a été montée avec succès sur le robot terrestre pour rehausser l'antenne. 
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/grand_challenge_land_ready_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_land_ready_02.jpg){: style="width:49%;"}<br/> 
+**Installation de la spatule-antenne : on capte mieux !**<br/>
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/grand_challenge_land_run_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_land_run_02.jpg){: style="width:49%;"}<br/> 
+**Petit tour dans l'arène extérieure : la position des éléments change tous les jours**<br/>
+{: refdef}
+
+
+> De nouveaux **points** ont été engrangés : le robot a pu explorer l'**arène intérieure** ! Et réaliser de nouvelles **cascades** : pendu au dessus du vide, retenu par la spatule pfiou ! 
+
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/grand_challenge_land_run_03.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_land_run_04.jpg){: style="width:49%;"}<br/> 
+**Première entrée du robot dans l’arène intérieure : Spatula Power !**<br/>
+{: refdef}
+
+Il ne reste plus que le run du **deuxième jour** du Grand Challenge pour marquer des points, encore une nuit bien chargée...
+
+
+
+*&#x21E8; Lire la suite* : [Concours ERL 2019 &#x266F;11]({% post_url 2019-07-19-concours-erl-2019-11 %}) <br/>
+*&#x21E6; Voir le post précédent* : [Concours ERL 2019 &#x266F;09]({% post_url 2019-07-18-concours-erl-2019-09 %})
+
+
+<!-- *&#x2192; Découvrir l'édition 2020* : [Concours ERL 2020 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->
+<!-- *&#x2192; Revivre l'édition 2019* : [Concours ERL 2019 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->

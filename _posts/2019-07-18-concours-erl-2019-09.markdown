@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Concours ERL 2019 &#x266F;09"
+img: ERL_2019/grand_challenge_day_1_sea.jpg # Add image post (optional)
+date: 2019-07-18 12:00:00 +0100
+description:  Grand Challenge - Day 1 sea  (SEAL&#x40;ERL2019, &#x266F;09)
+categories: [Concours]
+tags: [Underwater robot, ERL Contest]
+---
+
+
+# SEAL&#x40;ERL -  Grand Challenge - Day 1 sea 
+ 
+Nous arrivons aux phases finales : le "**Grand Challenge**" pendant lequel les **deux robots** sont en action **simultanément** (ce qui divise en deux notre équipe et nous rend la tâche complexe).
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/grand_challenge_underwater_ready_01_.jpg){: style="width:60%;"}<br/> 
+**Ready for the run of the Grand Challenge !**
+{: refdef}  
+
+
+Côté **sous-marin**, les problèmes de cap et de motorisation de la veille ont été résolu ! Ryu est de nouveau à l'eau. Mais pendant le run un nouveau **problème moteur** est apparu, il reste 15h pour trouver une solution…
+  
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/grand_challenge_underwater_run_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_underwater_run_02.jpg){: style="width:49%;"}<br/> 
+**Ryu en autonomie suffisament proche de la surface pour qu'on puisse le voir**<br/>
+*(avant le problème moteur)*
+{: refdef}
+
+
+
+*&#x21E8; Lire la suite* : [Concours ERL 2019 &#x266F;10]({% post_url 2019-07-18-concours-erl-2019-10 %}) <br/>
+*&#x21E6; Voir le post précédent* : [Concours ERL 2019 &#x266F;08]({% post_url 2019-07-17-concours-erl-2019-08 %})
+
+
+<!-- *&#x2192; Découvrir l'édition 2020* : [Concours ERL 2020 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->
+<!-- *&#x2192; Revivre l'édition 2019* : [Concours ERL 2019 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->

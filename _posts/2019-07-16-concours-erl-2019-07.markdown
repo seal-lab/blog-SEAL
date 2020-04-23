@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Concours ERL 2019 &#x266F;07"
+img: ERL_2019/ryujin_autonomie.jpg # Add image post (optional)
+date: 2019-07-16 18:00:00 +0100
+description:  Premier run sous-marin en autonomie (SEAL&#x40;ERL2019, &#x266F;07)
+categories: [Concours]
+tags: [Underwater robot, ERL Contest]
+---
+
+
+# SEAL&#x40;ERL -  Premier run sous-marin en autonomie
+ 
+Côté sous-marin, Ryujin a participé à **1 run** en totale **autonomie**. Mais la **boussole** était perturbée et le cap **dérivait** : le robot a vite tourné en rond... Et à la fin du run, il y a eu un problème **moteur**. 
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/second_underwater_run_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/second_underwater_run_02.jpg){: style="width:49%;"}<br/> 
+**Deuxième run sous-marin : premiers pas en autonomie**
+{: refdef}
+
+
+On va voir si le travail de nuit suffira à résoudre ces problème. En tout cas, on est la seule équipe à challenger les **deux arènes** et l'enchaînement des épreuves est ardu !  
+
+
+*&#x21E8; Lire la suite* : [Concours ERL 2019 &#x266F;08]({% post_url 2019-07-17-concours-erl-2019-08 %}) <br/>
+*&#x21E6; Voir le post précédent* : [Concours ERL 2019 &#x266F;06]({% post_url 2019-07-16-concours-erl-2019-06 %})
+
+
+<!-- *&#x2192; Découvrir l'édition 2020* : [Concours ERL 2020 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->
+<!-- *&#x2192; Revivre l'édition 2019* : [Concours ERL 2019 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->

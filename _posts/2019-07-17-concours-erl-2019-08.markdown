@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Concours ERL 2019 &#x266F;08"
+img: ERL_2019/impitoyable_environnement.jpg # Add image post (optional)
+date: 2019-07-17 15:00:00 +0100
+description:  Impitoyable environnement  (SEAL&#x40;ERL2019, &#x266F;08)
+categories: [Concours]
+tags: [Underwater robot, ERL Contest]
+---
+
+
+# SEAL&#x40;ERL -  Impitoyable environnement 
+ 
+La concentration en **sel** extrêmement élevée des piscines sur le quai due à l'évaporation, ainsi que la **chaleur** ambiante et la **pression** qui règne au fond du port mettent à rude épreuve le matériel : moteurs cassés, problèmes d'étanchéité, etc. Et quand il n'y a plus de *spare*...
+
+> Des équipes ont dû **abandonner** la compétition : la complexité de l'environnement sous-marin ne pardonne pas. 
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/team_work_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/team_work_02.jpg){: style="width:49%;"}<br/> 
+**Il n’y a pas de pause à ERL : work, work, work !**
+{: refdef}
+
+Conclusion, sur le terrain, le **home made** paye : nous avons conçu nos moteurs pour qu'ils puissent tourner même à très haute salinité et pour qu'ils soient réparables en toute circonstance !
+  
+{:refdef: style="text-align: center;"}
+![image](/assets/img/ERL_2019/tests_05.jpg){: style="width:60%;"}<br/> 
+**Ryu, calibré pour la mer morte !**
+{: refdef}  
+
+
+*&#x21E8; Lire la suite* : [Concours ERL 2019 &#x266F;09]({% post_url 2019-07-18-concours-erl-2019-09 %}) <br/>
+*&#x21E6; Voir le post précédent* : [Concours ERL 2019 &#x266F;07]({% post_url 2019-07-16-concours-erl-2019-07 %})
+
+
+<!-- *&#x2192; Découvrir l'édition 2020* : [Concours ERL 2020 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->
+<!-- *&#x2192; Revivre l'édition 2019* : [Concours ERL 2019 &#x266F;O1]({% post_url 2019-07-13-concours-erl-2019-01 %}) -->
