@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Concours ERL 2019 &#x266F;O1"
+title: "Concours ERL 2019 &#x266F;01"
 img: ERL_2019/erl_contest.jpg # Add image post (optional)
 date: 2019-07-14 10:00:00 +0100
-description: Des épitéens participent à l'un des plus prestigieux concours européen de robotique d'exploration ! (Équipe SEAL &#x40;ERL2019, &#x266F;O1)
+description: Des épitéens participent à l'un des plus prestigieux concours européen de robotique d'exploration ! (SEAL&#x40;ERL2019, &#x266F;01)
 categories: [Concours]
 tags: [Underwater robot, Ground robot, ERL Contest]
 ---

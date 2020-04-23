@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Concours ERL 2019 &#x266F;O2"
+title: "Concours ERL 2019 &#x266F;02"
 img: ERL_2019/tente_seal_travail.jpg # Add image post (optional)
 date: 2019-07-15 10:00:00 +0100
-description: Arrivée au concours européen de robotique d'exploration ERL (Équipe SEAL &#x40;ERL2019, &#x266F;O2)
+description: Arrivée au concours européen de robotique d'exploration ERL (SEAL&#x40;ERL2019, &#x266F;02)
 categories: [Concours]
 tags: [Underwater robot, Ground robot, ERL Contest]
 ---
@@ -44,7 +44,7 @@ Challenger certes, mais après avoir passé la barre très stricte de la **séle
 
 	
 
-*&#x21E8; Lire la suite* : [Concours ERL 2019 &#x266F;O3]({% post_url 2019-07-14-concours-erl-2019-01 %}) <br/>
+*&#x21E8; Lire la suite* : [Concours ERL 2019 &#x266F;O3]({% post_url 2019-07-16-concours-erl-2019-03 %}) <br/>
 *&#x21E6; Voir le post précédent* : [Concours ERL 2019 &#x266F;O1]({% post_url 2019-07-14-concours-erl-2019-01 %})
 
 <!-- *&#x2192; Lire la suite* : [Concours ERL 2019 &#x266F;O2]({% post_url 2019-07-14-concours-erl-2019-01 %}) -->
