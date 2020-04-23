@@ -4613,16 +4613,19 @@ cite {
     margin-top:-1em;
 }
 
-.about .about_legend {
-  text-align:center;
-}
 
-.about p {
+
+.about .about_title p {
   margin-left: auto; 
   margin-right: auto;
   width: 95%;
-  text-align:left;
+  text-align: justify; /*text-align:left;*/
   font-size: 0.98rem;
+  
+}
+
+.about .about_title .about_images p {
+  text-align:center;
 }
 
 .about blockquote {
