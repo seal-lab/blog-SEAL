@@ -4070,6 +4070,16 @@ cite {
 
 .chapters .chapter_inner .chapter_number, .chapters .chapter_inner .chapter_title {
   color: #ffffff;
+  text-shadow:
+    /* Outline */
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000,  
+    -2px 0 0 #000000,
+    2px 0 0 #000000,
+    0 2px 0 #000000,
+    0 -2px 0 #000000;
 }
 
 .chapters .chapter_inner .chapter_number {
@@ -4462,6 +4472,16 @@ cite {
   bottom: 10%;
   left: 2.5%;
   color: white;
+  text-shadow:
+    /* Outline */
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000,  
+    -2px 0 0 #000000,
+    2px 0 0 #000000,
+    0 2px 0 #000000,
+    0 -2px 0 #000000;
   font-size: 1rem;
 }
 
