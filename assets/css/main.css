@@ -4074,14 +4074,14 @@ cite {
   color: #ffffff;
   text-shadow:
     /* Outline */
-    -1px -1px 0 #000000,
-    1px -1px 0 #000000,
-    -1px 1px 0 #000000,
-    1px 1px 0 #000000,  
-    -2px 0 0 #000000,
-    2px 0 0 #000000,
-    0 2px 0 #000000,
-    0 -2px 0 #000000;
+    -1px -1px 0 #262626,
+    1px -1px 0 #262626,
+    -1px 1px 0 #262626,
+    1px 1px 0 #262626,
+    -2px 0 0 #262626,
+    2px 0 0 #262626,
+    0 2px 0 #262626,
+    0 -2px 0 #262626;
 }
 
 .chapters .chapter_inner .chapter_number {
