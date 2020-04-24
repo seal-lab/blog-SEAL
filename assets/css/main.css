@@ -98,7 +98,9 @@ pre {
  * 2. Remove gaps in links underline in iOS 8+ and Safari 8+.
  */
 a {
+  color: #0090fc;
   background-color: transparent;
+  text-decoration: none; /* Retire le sous-lignage */
   /* 1 */
   -webkit-text-decoration-skip: objects;
   /* 2 */
