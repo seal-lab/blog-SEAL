@@ -4359,7 +4359,7 @@ cite {
 
 .author_post .author_image {
   float: left;
-  display: inline-block;
+  display: block;
 /*  -webkit-border-radius: 50%;
           border-radius: 50%;*/
   width: 100px;
@@ -4389,7 +4389,7 @@ cite {
 
 .author .author_image {
   float: left;
-  display: inline-block;
+  display: block;
 /*  -webkit-border-radius: 50%;
           border-radius: 50%;*/
   width: 100px;
