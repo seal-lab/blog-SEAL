@@ -31,7 +31,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: banner # add banner video. Add your video file to the folder video
-banner-title: # add banner title
+banner-title: >- # add banner title
+  "Sense, Explore, Analyse & Learn"
 banner-desc: # add banner description
 
 # Author settings
