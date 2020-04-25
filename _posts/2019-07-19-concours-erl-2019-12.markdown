@@ -7,8 +7,6 @@ description:  Remise des prix  (SEAL&#x40;ERL2019, &#x266F;11)
 categories: [Concours]
 tags: [Underwater robot, Ground robot, ERL Contest]
 ---
-
-
 # SEAL&#x40;ERL -  Remise des prix 
  
 La **présentation orale** devant le jury complet, dernière étape du **challenge**, s'est très bien passée et a dû nous rapporter pas mal de **points**. 
