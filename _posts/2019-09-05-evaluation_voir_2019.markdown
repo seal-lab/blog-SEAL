@@ -21,7 +21,7 @@ Le cours **VOIR** (Vision par Ordinateur) de la majeure **GISTRE** (Génie Infor
 **La voiture à l'issue du module Télédétection et le kit du matériel à rajouter pour la vision** 
 {: refdef}
 
-Pour l'occasion, les **plots** de couleurs utilisés pour marquer la trajectoire sont un peu plus gros (et plus nombreux), mais cette fois-ci le tracé de la trajectoire finale est **inconnu**. 20 portes à passer, un point la porte ! Ok, ok, il y a aussi un rapport à rendre ;-). 
+Pour l'occasion, les **plots** de couleurs utilisés pour marquer la trajectoire sont un peu plus gros (et plus nombreux), mais cette fois-ci le tracé de la trajectoire finale est **inconnu**. 20 portes à passer, un point la porte ! Ok, ok, il y a aussi un rapport à rendre 😉. 
 
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/VOIR_2019/voiture_voir.jpg){: style="width:49%;"} ![image](/assets/img/VOIR_2019/eval_voir.jpg){: style="width:49%;"}<br/> 
