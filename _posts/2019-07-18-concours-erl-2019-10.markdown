@@ -15,7 +15,7 @@ Toujours pour le **Grand Challenge**, mais côté **terrestre**, afin de régler
 
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/ERL_2019/grand_challenge_land_ready_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_land_ready_02.jpg){: style="width:49%;"}<br/> 
-**Installation de la spatule-antenne : on capte mieux !**<br/>
+**Installation de la spatule-antenne : on capte mieux 🤩!**<br/>
 {: refdef}
 
 {:refdef: style="text-align: center;"}
@@ -24,7 +24,7 @@ Toujours pour le **Grand Challenge**, mais côté **terrestre**, afin de régler
 {: refdef}
 
 
-> De nouveaux **points** ont été engrangés : le robot a pu explorer l'**arène intérieure** ! Et réaliser de nouvelles **cascades** : pendu au dessus du vide, retenu par la spatule pfiou ! 
+> De nouveaux **points** ont été engrangés : le robot a pu explorer l'**arène intérieure** ! Et réaliser de nouvelles **cascades** : pendu au dessus du vide, retenu par la spatule pfiou 😱! 
 
 
 

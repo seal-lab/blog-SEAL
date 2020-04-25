@@ -31,10 +31,10 @@ L'équipe SEAL a le **plaisir** de vous annoncer que son robot sous-marin, **Ryu
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/ERL_2019/first_underwater_run_06.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/first_underwater_run_07.jpg){: style="width:49%;"}<br/> 
 ![image](/assets/img/ERL_2019/first_underwater_run_08.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/first_underwater_run_09.jpg){: style="width:49%;"}<br/> 
-**Ryu dans le grand bain :-)**
+**Ryu dans le grand bain 😋**
 {: refdef}
 
-Mais des **problèmes** apparaissent. Il faut dire que les **composants numériques** supportent très mal la **chaleur torride** qui s'est abattue sur nous et qui a presque doublée en quelques heures. Humains et prototypes **surchauffent** !
+Mais des **problèmes** apparaissent. Il faut dire que les **composants numériques** supportent très mal la **chaleur torride** qui s'est abattue sur nous et qui a presque doublée en quelques heures. Humains et prototypes **surchauffent** 😓!
 
 
 

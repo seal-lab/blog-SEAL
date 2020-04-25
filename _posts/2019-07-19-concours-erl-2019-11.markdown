@@ -23,7 +23,7 @@ C'est le **run final** aujourd'hui ! À nouveau dans le cadre du **Grand Challen
 > Nos deux robots ont réitéré à peu près les performances de la veille, avec des bugs en moins et d'autres en plus : c'est les joies de la robotique de terrain ! 
 
 
-Quelques **variantes** : le robot terrestre n'a pas été rattrapé par sa spatule ce coup-ci et a **plongé** dans le **vide** (en retombant sur ses roues, un vrai chat !), il passe sans problème sous les **barrières** (adieu obstacles : spatule flexible !) et le travail de la nuit a permis d'améliorer la réception du **retour vidéo**. 
+Quelques **variantes** : le robot terrestre n'a pas été rattrapé par sa spatule ce coup-ci et a **plongé** dans le **vide** (en retombant sur ses roues, un vrai chat 😼!), il passe sans problème sous les **barrières** (adieu obstacles : spatule flexible !) et le travail de la nuit ☕😴 a permis d'améliorer la réception du **retour vidéo**. 
 
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/ERL_2019/grand_challenge_land_run_05.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_land_run_06.jpg){: style="width:49%;"}<br/> 
@@ -36,7 +36,7 @@ Quelques **variantes** : le robot terrestre n'a pas été rattrapé par sa spatu
 > Il n'a cependant pas réussi à nouveau à trouver le mannequin (la victime). 
 
 
-Ryu, lui, a eu des problèmes de **capteurs** (boussole et baromètre). RAS dans la **piscine** mais **hors de contrôle** dans le **port** : est-ce le moteur du zodiaque qui perturbe ??? Pas mal d'autres concurrents aquatiques galèrent aussi...
+Ryu, lui, a eu des problèmes de **capteurs** (boussole et baromètre). RAS dans la **piscine** mais **hors de contrôle** dans le **port** : est-ce le moteur du zodiaque qui perturbe 😫??? Pas mal d'autres concurrents aquatiques galèrent aussi...
 
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/ERL_2019/grand_challenge_underwater_ready_02.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_underwater_run_03.jpg){: style="width:49%;"}<br/> 

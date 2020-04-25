@@ -23,7 +23,7 @@ Une **cartographie post-accident** doit être réalisée pour analyser les dég�
  
 Et bien entendu, les robots doivent agir seuls, en **totale autonomie**, en découvrant leur environnement et en évitant les nombreux obstacles. 
 
-![image](/assets/img/ERL_2019/students_team_01_.jpg){: style="float:none; display: block; margin-left:auto; margin-right:auto; padding:15px; width:80%;"}
+![image](/assets/img/ERL_2019/students_team_01.jpg){: style="float:none; display: block; margin-left:auto; margin-right:auto; padding:15px; width:80%;"}
 **Bonne chance à notre équipe !**{: style="display: block; text-align:center;"}
 
 	

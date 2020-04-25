@@ -11,7 +11,7 @@ tags: [Underwater robot, ERL Contest]
 
 # SEAL&#x40;ERL -  Premier run sous-marin en autonomie
  
-Côté sous-marin, Ryujin a participé à **1 run** en totale **autonomie**. Mais la **boussole** était perturbée et le cap **dérivait** : le robot a vite tourné en rond... Et à la fin du run, il y a eu un problème **moteur**. 
+Côté sous-marin, Ryujin a participé à **1 run** en totale **autonomie**. Mais la **boussole** était perturbée et le cap **dérivait** : le robot a vite tourné en rond... Et à la fin du run, il y a eu un problème **moteur** 😖 
 
 
 {:refdef: style="text-align: center;"}
@@ -20,7 +20,7 @@ Côté sous-marin, Ryujin a participé à **1 run** en totale **autonomie**. Mai
 {: refdef}
 
 
-On va voir si le travail de nuit suffira à résoudre ces problème. En tout cas, on est la seule équipe à challenger les **deux arènes** et l'enchaînement des épreuves est ardu !  
+On va voir si le travail de nuit suffira à résoudre ces problèmes 🧐 En tout cas, on est la seule équipe à challenger les **deux arènes** et l'enchaînement des épreuves est ardu !  
 
 
 *&#x21E8; Lire la suite* : [Concours ERL 2019 &#x266F;08]({% post_url 2019-07-17-concours-erl-2019-08 %}) <br/>

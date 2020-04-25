@@ -21,7 +21,7 @@ Après la **tempête** (orage, cascade de pluie et froid), qui a découragé les
 {: refdef}
 
 
-> Ça carbure pour préparer les robots : ça code, ça compile, ça cross-compile même, ça monte, ça démonte, ça teste en piscine ou sur le parking. 
+> Ça carbure pour préparer les robots : ça code, ça compile, ça cross-compile même, ça monte, ça démonte, ça teste en piscine ou sur le parking 🤯 
  
 
 **Objectifs n°1** : passer les "**safety checks**" impitoyables d'un jury international trié sur le volet pour que les robots puissent avoir accès aux arènes de jeu !

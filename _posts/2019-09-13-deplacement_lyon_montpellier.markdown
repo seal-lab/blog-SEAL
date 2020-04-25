@@ -15,7 +15,7 @@ C'est la **semaine de la recherche** à l'Épita. À cette occasion, les équipe
 
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/Lyon_Montpellier_09_2019/presentation_recherche_paris_lyon.jpg){: style="width:60%;"}<br/>
-**SEAL&#x40;Lyon**
+**SEAL&#x40;Lyon 😊**
 {: refdef}
 
 > L'objectif est de donner de la perspective aux étudiants par rapport aux technologies et aux disciplines scientifiques qu'ils abordent à l'école et pourquoi pas de créer des vocations pour la recherche.
@@ -38,11 +38,11 @@ La mer est un peu **agitée** et il n'est pas garanti que l'on trouve les sujets
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/Lyon_Montpellier_09_2019/bureau_01.jpg){: style="width:49%;"}
 ![image](/assets/img/Lyon_Montpellier_09_2019/bureau_02.jpg){: style="width:49%;"}<br/>
-**Un bureau un peu particulier ^^**
+**Un bureau un peu particulier 🙃**
 {: refdef}
 
 
-> ![image](/assets/img/Lyon_Montpellier_09_2019/poisson_vache.jpg){: style="float:right; padding-left:15px; margin-left:15px; width:15%;"} Petite mention spéciale pour le petit poisson vache (<em>lactoria cornuta</em>) du Seaquarium, très curieux et très intrigué par notre montage ! 
+> ![image](/assets/img/Lyon_Montpellier_09_2019/poisson_vache.jpg){: style="float:right; padding-left:15px; margin-left:15px; width:15%;"} Petite mention spéciale pour le petit poisson vache (<em>lactoria cornuta</em>) du Seaquarium, très curieux et très intrigué par notre montage 🐠! 
 
 
 On se rend également sur un de nos autres lieux de mission dans la région pour tester, cette fois-ci, la **qualité** des prises de vues en présence d'un **éclairage artificiel** pour analyser les améliorations à apporter aux **paramètres** de prises de vues pour être capable de reconstruire en 3D des **grottes**.

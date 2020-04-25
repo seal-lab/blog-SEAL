@@ -21,7 +21,7 @@ Le cours **VOIR** (Vision par Ordinateur) de la majeure **GISTRE** (Génie Infor
 **La voiture à l'issue du module Télédétection et le kit du matériel à rajouter pour la vision** 
 {: refdef}
 
-Pour l'occasion, les **plots** de couleurs utilisés pour marquer la trajectoire sont un peu plus gros (et plus nombreux), mais cette fois-ci le tracé de la trajectoire finale est **inconnu**. 20 portes à passer, un point la porte ! Ok, ok, il y a aussi un rapport à rendre 😉. 
+Pour l'occasion, les **plots** de couleurs utilisés pour marquer la trajectoire sont un peu plus gros (et plus nombreux), mais cette fois-ci le tracé de la trajectoire finale est **inconnu**. 20 portes à passer, un point la porte ! Ok, ok, il y a aussi un rapport à rendre 😉
 
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/VOIR_2019/voiture_voir.jpg){: style="width:49%;"} ![image](/assets/img/VOIR_2019/eval_voir.jpg){: style="width:49%;"}<br/> 
@@ -31,7 +31,7 @@ Pour l'occasion, les **plots** de couleurs utilisés pour marquer la trajectoire
 
 Les étudiants ont eu à disposition des **vidéos** de différentes trajectoires effectuées pour s'**entrainer** à la détection et peaufiner leurs solutions algorithmiques. Le tout doit pouvoir tourner en quasi **temps-réel** sur une **Raspberry Pi**. On leur a aussi laisser quelques plots pour qu'ils puissent tester leurs asservissements.
 
-> Et aujourd'hui, c'est le jour J : c'est parti pour un créneau de 3 heures dans la cours de l'Épita. Heureusement, il ne pleut pas ! ... Mais ce n'est pas un hasard hein, c'est de la compétence organisationnelle ^^.
+> Et aujourd'hui, c'est le jour J : c'est parti pour un créneau de 3 heures dans la cours de l'Épita. Heureusement, il ne pleut pas ! ... Mais ce n'est pas un hasard hein, c'est de la compétence organisationnelle 😏
 
 
 
@@ -40,4 +40,4 @@ Les étudiants ont eu à disposition des **vidéos** de différentes trajectoire
 </center>
 
 
-<br/> Les **performances** proposées par les équipes sont vraiment pas mal, si on passe sur l'oubli de nombreux groupes de **recharger** les **piles** (c'est ça aussi de finir de travailler la nuit pour le lendemain matin :o) : heureusement qu'on avait prévu un peu de **spare** ! 
+<br/> Les **performances** proposées par les équipes sont vraiment pas mal, si on passe sur l'oubli de nombreux groupes de **recharger** les **piles** 🙄 (c'est ça aussi de finir de travailler la nuit pour le lendemain matin 😜) : heureusement qu'on avait prévu un peu de **spare** 👌! 
