@@ -2,3 +2,11 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
