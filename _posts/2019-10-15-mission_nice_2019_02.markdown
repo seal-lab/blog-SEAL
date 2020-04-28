@@ -1,0 +1,75 @@
+---
+layout: post
+title: "Mission Nice 2019 &#x266F;02"
+img: Nice_10_2019/mission_nice_mercredi.jpg # Add image post (optional)
+date: 2019-10-15 22:00:00 +0100
+description: Trois jours de mission à Nice (&#x266F;02)
+categories: [Recherche]
+tags: [Surface robot, Sensors, Research]
+--- 
+
+
+# Deuxième jour de mission à Nice
+
+On part **tôt** 😪 ce matin pour une virée sous-marine. On récupère blocs et plombs, puis on fait un état des lieux de la situation. Bien que le temps se soit dégagé, le **vent** reste fort et la **houle**, très marquée, ne laisse aucune orientation **abritée**. 
+
+> On cherche veinement un lieu de mise à l'eau : plan A, B, C, D, E... 😟 On va finir par être à court de lettres ! Ça bastonne de partout, et le temps file...
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/houle_01.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/houle_02.jpg){: style="width:49%;"}<br/>
+**La petite brume blanche sur la plage, c'est les remous. C'est joli, mais pas très praticable...**
+{: refdef}
+
+
+> Impossible de trouver un bout de rocher donnant accès à un peu de fond directement sans qu'il ne soit battu par les déferlentes. Du coup, Ryu restera dans le coffre, car nous ne pouvons pas mener des tests avec le sous-marin dans ces conditions. 
+
+Au bout de **plusieures heures** à arpenter la côte, on finit par trouver une plage à peu près **épargnée**. On ne sait pas quel fond on va y trouver (ni quelle profondeur) mais on espère au moins pouvoir y faire une série d'acquisition pour la **calibration**. De toute manière le **fenêtre temporelle** est en train de se fermer : c'est maintenant ou jamais. 
+
+> Là encore, malgré l'apparence calme, les remous sont puissants avec une houle de fond non négligeable et la mise à l'eau a été sportive 😂 Et sous l'eau : zéro visibilité... 
+
+De la **posidonnie** morte partout en **suspension** qui tourbillonne dans tous les sens (avec nous aussi car on est brassé par le ressac) heureusement qu'on est dans moins d'1 m d'eau car on y perdrai le haut du bas. En s'éloignant un peu du bord, la **visibilité** s'améliore ! Ouf. D'une part on va pouvoir s'orienter et ne pas se perdre, d'autre part ça laisse une chance pour les **prises de vues**...
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/lieu_plongee_mardi.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_mardi_01.jpg){: style="width:49%;"}<br/>
+**L'apparence trompeuse... Heureusement, en avançant un peu, on arrive à voir un petit peu plus loin que le bout de son masque**
+{: refdef}
+
+On **explore** un peu la zone pour voir où se poser. Il n'y a pas beaucoup de **fond** < 5 m, donc on ressent les mouvements de la surface. Et il y a pas mal de **bateaux**, ce n'est pas terrible terrible. On opte pour se mettre à l'abri d'un voilier ancré qui n'a pas l'intention de bouger pour effectuer les acquisitions d'étalonnage. 
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/coque.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_mardi_02.jpg){: style="width:49%;"}<br/>
+**Sous l'oeil de la coque du voilier acquisition à différentes distances de la mire d'étalonnage**
+{: refdef}
+
+On est en plein dans un **herbier de posidonnies**, alors les **castognoles** (<em>Chromis chromis</em>) et les **girelles** (<em>Coris julis</em>) virevoltent de partout. Ils sont assez **curieux** et très **attirés** par les couleurs claires du damier de calibration... 
+
+> Retrouver précisément les intersections du damier avec des occultations partielles, poissons-oblige 🐟, ça fait un beau sujet de traitement d'images non 😅? 
+
+En tout cas, la **librairie** de base d'**OpenCV** ne traite pas ces cas 🙄 On est bon pour retenter un séquence calibration demain... si on trouve mieux 😒
+
+Après cette première plongée, il reste un peu de temps avant le coucher du soleil. On avale un bout rapidement et on décide de refaire un **test** avec le **catamaran** pour essayer différents **scénarios** afin de valider ou invalider nos hypothèses par rapport aux problèmes rencontrés la veille. 
+
+
+> Vu la direction du vent du soir, on opte pour le même lieu de test que la veille, qui devrait être en partie abrité.  
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/catamaran_deploiement_05.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/catamaran_deploiement_06.jpg){: style="width:49%;"}<br/>
+![image](/assets/img/Nice_10_2019/catamaran_deploiement_07.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/catamaran_deploiement_08.jpg){: style="width:49%;"}<br/>
+**Il serait peut-être temps de rentrer, non 👻? La prochaine fois on prend les frontales et il faut qu'on pense à rajouter des loupiotes à Kraken, comme celles de Ryu 😁**
+{: refdef}
+
+
+Demain, on a prévu une journée full **sous-marine**. Ryu restera au camps de base à cause des déferlantes, mais on a repéré un lieu potentiel pour les autres tests que l'on souhaite effectuer : nouvelle séquence pour l'étalonnage (il vaut mieux assurer !), qualité des prises de vues et équipement d'une zone.
+
+
+
+*&#x21E8; Lire la suite* : [Mission Nice 2019 &#x266F;03]({% post_url 2019-10-16-mission_nice_2019_03 %})<br/>
+*&#x21E6; Voir le post précédent* : [Mission Nice 2019 &#x266F;01]({% post_url 2019-10-14-mission_nice_2019_01 %})
+
+
+
+
+
+
+

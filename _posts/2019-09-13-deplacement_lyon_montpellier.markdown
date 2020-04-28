@@ -42,7 +42,7 @@ La mer est un peu **agitée** et il n'est pas garanti que l'on trouve les sujets
 {: refdef}
 
 
-> ![image](/assets/img/Lyon_Montpellier_09_2019/poisson_vache.jpg){: style="float:right; padding-left:15px; margin-left:15px; width:15%;"} Petite mention spéciale pour le petit poisson vache (<em>lactoria cornuta</em>) du Seaquarium, très curieux et très intrigué par notre montage 🐠! 
+> ![image](/assets/img/Lyon_Montpellier_09_2019/poisson_vache.jpg){: style="float:right; padding-left:15px; margin-left:15px; width:15%;"} Petite mention spéciale pour le petit poisson vache (<em>Lactoria cornuta</em>) du Seaquarium, très curieux et très intrigué par notre montage 🐠! 
 
 
 On se rend également sur un de nos autres lieux de mission dans la région pour tester, cette fois-ci, la **qualité** des prises de vues en présence d'un **éclairage artificiel** pour analyser les améliorations à apporter aux **paramètres** de prises de vues pour être capable de reconstruire en 3D des **grottes**.

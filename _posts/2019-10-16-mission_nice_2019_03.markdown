@@ -1,0 +1,94 @@
+---
+layout: post
+title: "Mission Nice 2019 &#x266F;03"
+img: Nice_10_2019/mission_nice_jeudi.jpg # Add image post (optional)
+date: 2019-10-16 22:00:00 +0100
+description: Trois jours de mission à Nice (&#x266F;03)
+categories: [Recherche]
+tags: [Sensors, Research]
+--- 
+
+
+# Troisième jour de mission à Nice
+
+Dernier jour de mission ce jeudi. Comme on l'a anticipé, l'état de la **mer** reste inchangé. On n'emporte donc que les **capteurs sous-marins**, le robot, lui, reste au camp de base. Deux **plongées** de prévues au programme : la première a pour objectif principal de refaire une séquence d'**étalonnage** puis s'il reste du temps (de l'air) tester la **qualité** des prises de vues plus en profondeur si la visibilité n'est pas trop mauvaise, la seconde plongée se concentrera sur l'**équipement** d'une zone. 
+
+  
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/lieu_plongee_jeudi_matin.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_01.jpg){: style="width:49%;"}<br/>
+**Voici le lieu de plongée de ce matin. Ça parait calme hein 🙄🌴? Parés à plonger 👌👎!**
+{: refdef}
+
+> La houle de fond est toujours aussi puissante ! On passera sur les conditions de mise à l'eau, le tout étant de ne pas s'ettoufer de rire dans le détendeur devant le comique de la situation... 🤣 
+
+La zone est un **tombant**, d'abord progressif puis à ça descend **à pic**. Les conditions de visibilité ne sont pas trop mal, les acquisitions du matin devraient donner quelque chose ! On s'installe à 6-8 mètres de profondeur, un peu en mode dahu dans la pente, pour réaliser les prises de vue d'**étalonnage** à plusieurs distances du damier.
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/plongee_jeudi_02.jpg){: style="width:56%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_03.jpg){: style="width:42.5%;"}<br/>
+**On est encore dans un herbier de posidonnies, mais la configuration de la pente fait que les poissons 🐟passent un peu moins fréquemment devant le damier**
+{: refdef}
+
+
+Après ces acquisitions, on continue à descendre le long du **tombant**. La partie à pic est creusée de multiples **cavités** et **grottes** sous-marines dont les paroies sont tapissées de **corail**. C'est parfait pour faire nos tests de **qualité** d'acquisition 📷 En effet, il est prévu que notre banc caméra soit utilisé courant juin pour une mission profonde sur l'étude des coraux !
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/plongee_jeudi_04.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_05.jpg){: style="width:49%;"}<br/>
+**Le long du tombant et à l'entrée d'une grotte 😮**
+{: refdef}
+
+Sur le **rendu** des images dans des conditions d'éclairage **artificiel non homogène** 🔦 avec particules en suspension, c'est pas trop mal. 
+
+> Mais il y a encore des réglages à faire, car il y a beaucoup (trop) d'images floues ! Et le robot, même s'il peut aller doucement, sera quand même en déplacement...
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/plongee_jeudi_06.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_07.jpg){: style="width:49%;"}<br/>
+**Exemple de rendu des images : une image nette et un joli flou artistique 🧐**
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/plongee_jeudi_08.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_09.jpg){: style="width:49%;"}<br/>
+**Fin de la plongée du matin 😉👍**
+{: refdef}
+
+
+Pour la deuxième plongée, on change de lieu, car pour tester l'**équipement** de zone, on va éviter le tombant qui est un cas très **particulier**. Blocs regonflés, estomacs remplis : c'est reparti ! 
+
+> Par contre les nuages ont envahi le ciel ☁️ ce qui va nous priver de l'essentiel de la luminosité sous l'eau, les prises de vue ne vont pas donner grand chose 🙁 C'est donc surtout la procédure et la manipulation que l'on va tester.
+
+On **explore** rapidement les alentours pour trouver un espace avec un peu de **relief** sans trop s'éloigner de notre point de départ. Les fonds sont peu profonds (< 4 m), il va falloir faire avec les **remous** de surface. On sélectionne une zone avec quelques **rochers** qui fera l'affaire pour le test et on procède à l'équipement.
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/plongee_jeudi_10.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_11.jpg){: style="width:49%;"}<br/>
+![image](/assets/img/Nice_10_2019/plongee_jeudi_12.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_13.jpg){: style="width:49%;"}<br/>
+**Installation des mires, mesure de leur profondeur et des distances entre les mires (3 mesures par mires)**
+{: refdef}
+ 
+Toutes ces mesures forment ce qu'on appelle la **vérité terrain**, on pourra ensuite les **comparer** aux mesures réalisés sur les **produits finis** après le traitement des images (mosaïques, reconstructions 3D) pour estimer leur **précision** et leur **fiabilité** 🧐
+ 
+> Il y a encore quelques points à améliorer pour accélérer la procédure, mais le résultat est pas mal 😎 On a réalisé la phase d'acquistion avant la phase de mesure pour profiter un maximum de la luminosité qui baisse à vue d'oeil 😏 
+ 
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/plongee_jeudi_14.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_15.jpg){: style="width:49%;"}<br/>
+**Campagne d'acquisition sur la zone équipée des mires**
+{: refdef}
+ 
+  
+Fin de la deuxième plongée et donc fin de cette mission à Nice 😭: on remballe dans la nuit à la lueur du lampadaire 🌙 La journée n'est pas terminée 😴: il faut encore tout repacker pour le train de demain.  
+
+> Et le test de la caméra 360° dans tout ça ? Et bah c'est pas mal du tout, à part un problème de buée qui arrive au bout d'un peu plus de 30 min qu'il faudra qu'on règle, on est plutôt content.
+
+
+Voici une vidéo qui donne un aperçu du rendu de la caméra 360° 
+
+
+
+*&#x21E6; Voir le post précédent* : [Mission Nice 2019 &#x266F;02]({% post_url 2019-10-15-mission_nice_2019_02 %})
+
+
+
+
+
+
+
+

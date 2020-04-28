@@ -1,0 +1,73 @@
+---
+layout: post
+title: "Mission Nice 2019 &#x266F;01"
+img: Nice_10_2019/mission_nice_mardi.jpg # Add image post (optional)
+date: 2019-10-14 15:00:00 +0100
+description: Trois jours de mission à Nice (&#x266F;01)
+categories: [Recherche]
+tags: [Surface robot, Sensors, Research]
+--- 
+
+
+# Premier jour de mission à Nice
+
+On est partis par le **train** 🚄 avec 100 Kg de matériel sur le dos 💪 direction **Nice** pour une mission de **3 jours**. 
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/voyage_01.jpg){: style="width:29%;"} ![image](/assets/img/Nice_10_2019/voyage_02.jpg){: style="width:29%;"}<br/>
+**1 robot sous-marin, 1 catamaran, les charges utiles, les mires et le matos de plongée : faire des robots légers, compacts et démontables ce n'est pas qu'un choix, c'est aussi une nécessité !**
+{: refdef}
+
+
+Les **objectifs principaux** sont les suivants : prendre des images sous-marines de mires pour pouvoir **calibrer** les caméras de notre nouveau banc synchronisé, tester la **qualité** des images prises par le nouveau banc en environnement sous-marin, réaliser l'**équipement** d'une zone et faire une **campagne d'acquisition**, tester la nouvelle architecture système du **catamaran** et du **sous-marin** en conditions réelles, tester le rendu de notre nouvelle **caméra 360** en environnement sous-marin.  
+
+
+Dernière de la **saison** pour la partie sous-marine, cette sortie terrain est prévue depuis plusieurs mois mais à l'approche des dates, la **météo** s'annonce peu clémente 🌩 Il va falloir faire avec, ce sont les **aléas** du métier... Et malheureusement, la première journée démarre très mal 😨
+
+> C'est le déluge 😱 l'orage gronde ⛈ les éclairs se déchaînent ⚡️ le vent tourbillone 💨 et la mer est démontée 🌊 On a tenté de remonter dans l'arrière pays pour trouver des plans d'eau plus calmes pour tester le catamaran, mais là encore tout bouillone, tout déborde 😖
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/orage_01.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/orage_02.jpg){: style="width:49%;"}<br/>
+**Route coupée par un éboulement en cours de dégagement devant nous 😳 les cours d'eau placides se sont transformés en torrents furieux et envahissent les voies de circulation 😓**
+{: refdef}
+
+En fin d'après-midi, l'orage s'éloigne et le vent, toujours très fort, a dégagé le ciel : on profite de cette **accalmie** inattendue pour tester le **catamaran**, mais le plus dur reste de trouver un endroit où le mettre à l'eau **en sécurité**...
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/catamaran_cheminement_01.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/catamaran_cheminement_02.jpg){: style="width:49%;"}<br/>
+**On valide le catamaran en mode jetpack pour se déplacer ! Par contre ça bastonne tout le long de la côte...**
+{: refdef}
+
+On fini par trouver une zone à peu près abritée et où la houle n'est pas trop forte : hop à l'eau le petit 💦! On rencontre pas mal de problèmes de connexion avec le robot, la liaison est très instable et parfois il reboot de manière inexpliquée et ne veut plus rien savoir. 
+
+> Il va falloir enquêter sur les raisons de ces redémarrages (tirage moteurs qui entraine une sous-alimentation de la carte-mère ?) et surtout stabiliser la communication ! Mise à part ces petites soucis, le pilotage est opérationnel ! 
+
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/catamaran_deploiement_01.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/catamaran_deploiement_02.jpg){: style="width:49%;"}<br/>
+**Test de pilotage, dans la mer cette fois-ci 😊**
+{: refdef}
+
+
+Les changements apportés depuis le dernier [test terrain]({% post_url 2019-10-10-tests_catamaran_jouy %}) sur la réalisation de **trajectoires automatiques** ne semblent pas avoir résolu les problèmes... Pire, il y a un nouveau **comportement anormal** 😵! 
+
+> Dès que l'on passe en mode automatique, ne serait-ce que pour maintenir la position courante, le catamaran se met à tourner en rond 🤪 Pourtant, lorsqu'il est en mode manuel, le cap mesuré est stable 🤔 Il va falloir creuser ! 
+
+{:refdef: style="text-align: center;"}
+![image](/assets/img/Nice_10_2019/catamaran_deploiement_03.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/catamaran_deploiement_04.jpg){: style="width:49%;"}<br/>
+**Le petit Kraken remonte bien la houle et le vent ! Son utilisation marine est validée 👌**
+{: refdef}
+
+Retour au camp de base. On va voir ce qui peut être résolu durant la nuit tout en préparant la **mission sous-marine**. 
+
+*&#x21E8; Lire la suite* : [Mission Nice 2019 &#x266F;02]({% post_url 2019-10-15-mission_nice_2019_02 %})
+
+
+
+
+
+
+
+

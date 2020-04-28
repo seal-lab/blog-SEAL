@@ -46,6 +46,9 @@ Sur les trajectoires automatiques, il va falloir retravailler car les tests n'on
 > On arrive au bout des batteries ! Fin de l'essai terrain 😉
 
 
+*&#x21E8; Voir* : [la mission à Nice 2019]({% post_url 2019-10-14-mission_nice_2019_01 %})<br/>
+
+
 
 
 
