@@ -4588,11 +4588,19 @@ cite {
   text-align: center;
 }
 
-.about .about_images {
+.about_images {
   margin-top:-1em;
+  width: auto;
+  display: inline-block;
 }
 
-.about .about_title .about_images p {
+.about_images img {
+  width: 70%;
+  max-width: 300px;
+  display: inline-block;
+}
+
+.about_images p {
   text-align: center;
 }
 
