@@ -38,7 +38,7 @@ On **explore** un peu la zone pour voir où se poser. Il n'y a pas beaucoup de *
 
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/Nice_10_2019/coque.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_mardi_02.jpg){: style="width:49%;"}<br/>
-**Sous l'oeil de la coque du voilier acquisition à différentes distances de la mire d'étalonnage**
+**Sous l'&oelig;il de la coque du voilier acquisition à différentes distances de la mire d'étalonnage**
 {: refdef}
 
 On est en plein dans un **herbier de posidonnies**, alors les **castognoles** (<em>Chromis chromis</em>) et les **girelles** (<em>Coris julis</em>) virevoltent de partout. Ils sont assez **curieux** et très **attirés** par les couleurs claires du damier de calibration... 

@@ -66,7 +66,7 @@ On **explore** rapidement les alentours pour trouver un espace avec un peu de **
  
 Toutes ces mesures forment ce qu'on appelle la **vérité terrain**, on pourra ensuite les **comparer** aux mesures réalisés sur les **produits finis** après le traitement des images (mosaïques, reconstructions 3D) pour estimer leur **précision** et leur **fiabilité** 🧐
  
-> Il y a encore quelques points à améliorer pour accélérer la procédure, mais le résultat est pas mal 😎 On a réalisé la phase d'acquistion avant la phase de mesure pour profiter un maximum de la luminosité qui baisse à vue d'oeil 😏 
+> Il y a encore quelques points à améliorer pour accélérer la procédure, mais le résultat est pas mal 😎 On a réalisé la phase d'acquistion avant la phase de mesure pour profiter un maximum de la luminosité qui baisse à vue d'&oelig;il 😏 
  
 {:refdef: style="text-align: center;"}
 ![image](/assets/img/Nice_10_2019/plongee_jeudi_14.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_15.jpg){: style="width:49%;"}<br/>

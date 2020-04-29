@@ -4550,14 +4550,15 @@ cite {
   -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  overflow: clip;
+  overflow: clip;  
 }
 
 .about {
-  position: relative;
+/*  position: relative;
+*/
   width: 100%;
   height: 100vh;
-  min-height: 700px;
+  min-height: 1150px;
   background-image: url(../img/bg_about.jpg);
   background-size: cover;
   background-position: 50% 50%;
@@ -4567,14 +4568,14 @@ cite {
 .about .author {
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
-  margin-top: 4rem;
+  margin-top: 6rem;
 }
 
 .about .author .author_image {
   float: none;
   display: block;
   margin: 0 auto 1.75rem;
-  width: 35%;
+  width: 25%;
   height: auto;
   /* margin-left: 33%; */
 }
