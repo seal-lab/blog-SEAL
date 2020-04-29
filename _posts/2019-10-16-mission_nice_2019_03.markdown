@@ -76,14 +76,15 @@ Toutes ces mesures forment ce qu'on appelle la **vérité terrain**, on pourra e
   
 Fin de la deuxième plongée et donc fin de cette mission à Nice 😭: on remballe dans la nuit à la lueur du lampadaire 🌙 La journée n'est pas terminée 😴: il faut encore tout repacker pour le train de demain.  
 
-> Et le test de la caméra 360° dans tout ça ? Et bah c'est pas mal du tout, à part un problème de buée qui arrive au bout d'un peu plus de 30 min qu'il faudra qu'on règle, on est plutôt content.
+> Et le test de la caméra 360° dans tout ça ? Et bah c'est pas mal du tout, à part un problème de buée qui arrive au bout d'un peu plus de 30 min qu'il faudra qu'on règle, on est plutôt content. Jugez vous-même 😎 
+
+<center>
+<iframe style="width: 90%; min-height:400px;" src="https://www.youtube.com/embed/CyKTRCqloiE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 
-Voici une vidéo qui donne un aperçu du rendu de la caméra 360° 
 
-
-
-*&#x21E6; Voir le post précédent* : [Mission Nice 2019 &#x266F;02]({% post_url 2019-10-15-mission_nice_2019_02 %})
+<br/> *&#x21E6; Voir le post précédent* : [Mission Nice 2019 &#x266F;02]({% post_url 2019-10-15-mission_nice_2019_02 %})
 
 
 
