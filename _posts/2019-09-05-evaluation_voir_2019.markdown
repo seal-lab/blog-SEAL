@@ -34,9 +34,8 @@ Les étudiants ont eu à disposition des **vidéos** de différentes trajectoire
 > Et aujourd'hui, c'est le jour J : c'est parti pour un créneau de 3 heures dans la cours de l'Épita. Heureusement, il ne pleut pas ! ... Mais ce n'est pas un hasard hein, c'est de la compétence organisationnelle 😏
 
 
-
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2nUTAQYIWks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 90%; min-height:400px;" src="https://www.youtube.com/embed/2nUTAQYIWks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 
