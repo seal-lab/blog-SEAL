@@ -4393,7 +4393,6 @@ cite {
   color: #262626;
 }
 
-
 .author .author_info .author_title::before, .author .author_info .author_title::after {
   content: " — ";
 }
@@ -4540,116 +4539,77 @@ cite {
   text-decoration: underline;
 }
 
-/*
 .about_box {
   position: absolute;
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
-  width: 600px;
-  max-width: 90%;
+  width: 70%;
+  height: 100%;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  overflow: auto;
-}*/
+  overflow: clip;
+}
 
 .about {
   position: relative;
   width: 100%;
-  height: 100vh; 
-  min-height: 1150px; /* 700px;*/
+  height: 100vh;
+  min-height: 700px;
   background-image: url(../img/bg_about.jpg);
-  background-size: cover; 
+  background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
 
-.about .author_image {
-  float:none;
+.about .author {
+  -webkit-border-radius: 0.5rem;
+          border-radius: 0.5rem;
+  margin-top: 4rem;
+}
+
+.about .author .author_image {
+  float: none;
   display: block;
+  margin: 0 auto 1.75rem;
   width: 35%;
   height: auto;
-  margin-left: 33%;
-    -webkit-transform: translate(0%, -55%);
-        -ms-transform: translate(0%, -55%);
-            transform: translate(0%, -55%); 
+  /* margin-left: 33%; */
 }
 
-
-.about .author {
-  -webkit-border-radius: 0.6rem;
-          border-radius: 0.6rem;
-  margin-bottom: 1rem;
-  width: 60%;
-  margin-left: auto; 
-  margin-right: auto;
-  -webkit-transform: translate(0%, 15%);
-      -ms-transform: translate(0%, 15%);
-          transform: translate(0%, 15%);
-}
-
-
-.about .about_title {
-    -webkit-transform: translate(0%, -22%);
-        -ms-transform: translate(0%, -22%);
-            transform: translate(0%, -22%);
-  text-align:center;
-  margin-bottom:-13em;
+.about .author .author_info {
+  padding: 0;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  text-align: center;
 }
 
 .about .about_images {
-    margin-top:-1em;
-}
-
-
-
-.about .about_title p {
-  margin-left: auto; 
-  margin-right: auto;
-  width: 95%;
-  text-align: justify; /*text-align:left;*/
-  font-size: 0.98rem;
-  
+  margin-top:-1em;
 }
 
 .about .about_title .about_images p {
-  text-align:center;
+  text-align: center;
 }
 
 .about blockquote {
   margin-top:-1em;
   margin-bottom:-1em;
-  margin-left: auto; 
+  margin-left: 1em; 
   margin-right: auto;
   width: 90%;
-  text-align:left;
-  padding:0;
+  text-align: left;
+  padding:0 1rem;
 }
 
-
-
-/*
-.about .author .author_image {
-  float: none;
-  display: block;
-  margin: 0 auto 1.75rem;
-}
-*/
-
-/*.about .author .author_info {
-  padding: 0;
-*//* text-align: center;*/
-  /*}*/
-
-  /*
 .about .about_social {
   -webkit-border-radius: 0.5rem;
           border-radius: 0.5rem;
   overflow: hidden;
 }
-*/
+
 .about .about_social .social_footer {
   padding: 0;
   margin: 0;
@@ -4658,15 +4618,13 @@ cite {
 
 .about .about_social .social_footer a {
   font-size: 1rem;
-/*  color: #262626; */
-/*  background-color: #ffffff;*/
+  color: #262626;
+  background-color: #ffffff;
 }
 
 .about .about_social .social_footer a:hover {
-  color: #0090fc; /*#c0334a;*/
+  color: #0090fc;
 }
-
-
 
 .contact {
   width: 100%;

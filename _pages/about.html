@@ -4,46 +4,49 @@ title: About
 permalink: /about/
 ---
 
-<section>
-  <a href="{{site.baseurl}}/" class="button_back"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back</a>
-  <div class="about"> <!--Background image-->
-	 
-     <div class="author"> <!--Box-->
-
-	  <div class="author_image">
-		  <img src="{{site.baseurl}}/assets/img/logo_seal.png"  width="100" alt="SEAL logo">
-	  </div>
-	  
-	  
-	  <div class="about_title">
-	  	<h2>— SEAL Research Team —</h2>
-	  	<h3><em>"Sense, Explore, Analyse &amp; Learn"</em></h3>
+<section class="about">
+	<a href="{{site.baseurl}}/" class="button_back"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back</a>
+	
+	<div class="about_box">
 		
-        <p>Fondée en 2018, l'équipe SEAL de l’ÉPITA conçoit, développe et opère sur le terrain des <strong>robots d'exploration</strong>. La mission de ces drones aériens, terrestres, de surface ou sous-marins : <strong>acquérir des données</strong> pour reconstruire en 3D les environnements explorés ou élaborer des cartes thématiques.</p>
+		<div class="author">
+			
+			<div class="author_image">
+				<img src="{{site.baseurl}}/assets/img/logo_seal.png" width="100" alt="SEAL logo">
+			</div> <!-- End author_image -->
+			
+			<div class="author_info">
+				<h2 class="author_title">SEAL Research Team</h2>
+				<h3><em>"Sense, Explore, Analyse &amp; Learn"</em></h3>
+				
+				<div class="author_subtitle">
+					
+					<p>Fondée en 2018, l'équipe SEAL de l’ÉPITA conçoit, développe et opère sur le terrain des <strong>robots d'exploration</strong>. La mission de ces drones aériens, terrestres, de surface ou sous-marins : <strong>acquérir des données</strong> pour reconstruire en 3D les environnements explorés ou élaborer des cartes thématiques.</p>
+					
+					<blockquote><p>Observer, explorer et analyser la Terre depuis l’espace jusqu’au fond des océans</p></blockquote>
+					
+					<p>L'approche de l'équipe est fondamentalement <strong>transverse</strong> et se situe à la croisée de la <strong>robotique</strong>, de la <strong>vision par ordinateur</strong> et de la <strong>télédétection rapprochée</strong>. Du point de vue de l'ingénierie, le champs d'activité va du <strong>très bas niveau</strong> (électronique) au <strong>très au niveau</strong> (reconstruction 3D) et s’entremêle avec l’organisation de campagnes de tests sur le <strong>terrain</strong> pour valider les prototypes.</p>
+					
+					<blockquote><p>L'<em>undergraduate research</em> offre l'opportunité aux étudiants d'apprendre sur des projets hors normes, concrets et complexes</p></blockquote>
+					
+					<p>La pédagogie se situe au <strong>c&oelig;ur</strong> du projet de recherche, les deux s’alimentant continuellement l’un l’autre, et une équipe d’une douzaine d’<strong>étudiants</strong> par an issus du cycle ingénieur travaille en <strong>collaboration</strong> avec les enseignants-chercheurs sur les problématiques de la <strong>robotique d’exploration</strong>.</p>
+					
+					<div class="about_images">
+						<img src="{{site.baseurl}}/assets/img/team_air.jpg" width="300" alt="SEAL Team Air">  <img src="{{site.baseurl}}/assets/img/team_underwater.jpg"  width="300" alt="SEAL Team Underwater">
+						
+						<p class="about_legend"> <em>Les 2 enseignants chercheurs de l’équipe, dans l’air et dans l’eau, <br/>Laurent Beaudoin & Loïca Avanthey, aka « les 2L »</em></p>
+					</div>
+					
+				</div> <!-- End author_subtitle -->
+				
+			</div> <!-- End author_info -->
+			
+		</div> <!-- End author -->
 		
-	  <blockquote><p>Observer, explorer et analyser la Terre depuis l’espace jusqu’au fond des océans</p></blockquote>
-	  
-      <p>L'approche de l'équipe est fondamentalement <strong>transverse</strong> et se situe à la croisée de la <strong>robotique</strong>, de la <strong>vision par ordinateur</strong> et de la <strong>télédétection rapprochée</strong>. Du point de vue de l'ingénierie, le champs d'activité va du <strong>très bas niveau</strong> (électronique) au <strong>très au niveau</strong> (reconstruction 3D) et s’entremêle avec l’organisation de campagnes de tests sur le <strong>terrain</strong> pour valider les prototypes.</p>
-	  
-	  <blockquote><p>L'<em>undergraduate research</em> offre l'opportunité aux étudiants d'apprendre sur des projets hors normes, concrets et complexes</p></blockquote>
-      
-	  <p>La pédagogie se situe au <strong>c&oelig;ur</strong> du projet de recherche, les deux s’alimentant continuellement l’un l’autre, et une équipe d’une douzaine d’<strong>étudiants</strong> par an issus du cycle ingénieur travaille en <strong>collaboration</strong> avec les enseignants-chercheurs sur les problématiques de la <strong>robotique d’exploration</strong>.</p>
-	  
-	  
-	  <div class="about_images">
-		  <img src="{{site.baseurl}}/assets/img/team_air.jpg"  width="300" alt="SEAL Team Air">  <img src="{{site.baseurl}}/assets/img/team_underwater.jpg"  width="300" alt="SEAL Team Underwater">
-		  
-		  <p class="about_legend"> <em>Les 2 enseignants chercheurs de l’équipe, dans l’air et dans l’eau, <br/>Laurent Beaudoin & Loïca Avanthey, aka « les 2L »</em></p>
-	  </div>
+		<div class="about_social">
+			{% include social_footer.html %}
+		</div>	
 		
-	  </div> <!--class about_title-->
-	  
-	</div> <!--class author-->
- 
-  </div> <!--class about-->
-  
-  <div class="about_social">
-    {% include social_footer.html %}
-  </div>
-  
+	</div> <!-- End about_box -->
+	
 </section>
