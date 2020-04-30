@@ -4555,8 +4555,7 @@ cite {
 }
 
 .about {
-/*  position: relative;
-*/
+  position: relative;
   width: 100%;
   height: 100vh;
   min-height: 1150px;
@@ -4615,21 +4614,23 @@ cite {
 }
 
 .about .about_social {
-  -webkit-border-radius: 0.5rem;
-          border-radius: 0.5rem;
+  position: relative;
+  display: block;
+  width: 100%;
   overflow: hidden;
 }
 
-.about .about_social .social_footer {
-  padding: 0;
-  margin: 0;
+.about_social .social_footer {
+  position: relative;
+  padding-bottom: 0;
   border: none;
 }
 
 .about .about_social .social_footer a {
-  font-size: 1rem;
-  color: #262626;
-  background-color: #ffffff;
+  font-size: 2rem;
+  padding: 0.5em 0.7em;
+  /* color: #262626; */
+  /* background-color: #ffffff; */
 }
 
 .about .about_social .social_footer a:hover {
