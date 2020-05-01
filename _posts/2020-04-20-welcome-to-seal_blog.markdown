@@ -19,5 +19,5 @@ Nous y raconterons au fil de l'eau les **aventures** de l'équipe, tant sur nos 
 Have fun 😁
 
 
-PS: Vous ne nous connaissez-pas 😲? Il va falloir y remédier... 🧐 &#x21E8; Voir qui est [l'équipe SEAL](/about/) <br/>
-PPS: Merci à Ouwéis, l'un de nos étudiants, pour avoir travaillé avec nous sur la mise en place de cette plateforme 👍 Good job 😉 
+**PS:** Vous ne nous connaissez-pas 😲? Il va falloir y remédier... 🧐 &#x21E8; Voir qui est [l'équipe SEAL](/about/) <br/>
+**PPS:** Merci à Ouwéis, l'un de nos étudiants, pour avoir travaillé avec nous sur la mise en place de cette plateforme 👍 Good job 😉 
