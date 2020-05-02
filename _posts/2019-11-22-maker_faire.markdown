@@ -40,7 +40,11 @@ Il était également possible de visionner 🕶 [le film 360° de l'Épita]({% p
 
 > Une journée intense, bien remplie, riche et passionnante 😁 on espère que ça vous a plu !
 
-*&#x21E8; Les lycéens peuvent retrouver notre atelier araignée d'initiation à la robotique lors des journées d'immersion de l'Épita 😉*
+*&#x21E8; Les lycéens peuvent retrouver notre atelier araignée d'initiation à la robotique lors des [journées d'immersion]({% post_url 2020-03-07-epita_inside %}) de l'Épita 😉*
+
+
+
+
 
 
 
