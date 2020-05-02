@@ -38,7 +38,7 @@ Pour l'occasion, tout le monde participe : les **candidats** évidemment, mais a
 En attendant, on souhaite **bon courage** aux **candidats** pour cette dernière ligne droite ! 
 
 
-*&#x21E8; Découvrez la nouvelle équipe étudiante 2020*
+*&#x21E8; Découvrez [la nouvelle équipe étudiante 2020]({% post_url 2020-01-31-nouvelle_equipe_etudiante %})*
 
 
 
