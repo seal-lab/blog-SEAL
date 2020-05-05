@@ -2,7 +2,7 @@
 layout: post
 title: "Ouverture du blog"
 img: new_blog.jpg # Add image post (optional)
-date: 2020-05-04 10:28:39 +0200
+date: 2020-05-05 16:00:00 +0200
 description:  Ouverture du blog SEAL
 categories: [Lab]
 tags: [Lab life]
