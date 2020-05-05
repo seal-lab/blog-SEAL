@@ -5,7 +5,7 @@ img: ERL_2019/students_team_02.jpg # Add image post (optional)
 date: 2019-07-19 15:00:00 +0100
 description:  Remise des prix  (SEAL&#x40;ERL2019, &#x266F;11)
 categories: [Concours]
-tags: [Underwater robot, Ground robot, ERL Contest]
+tags: [Underwater robot, Ground robot, Contest]
 ---
 # SEAL&#x40;ERL -  Remise des prix 
  

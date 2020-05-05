@@ -5,7 +5,7 @@ img: ERL_2019/grand_challenge_day_1_land.jpg # Add image post (optional)
 date: 2019-07-18 15:00:00 +0100
 description:  Grand Challenge - Day 1 land  (SEAL&#x40;ERL2019, &#x266F;10)
 categories: [Concours]
-tags: [Ground robot, ERL Contest]
+tags: [Ground robot, Contest]
 ---
 
 

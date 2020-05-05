@@ -5,7 +5,7 @@ img: ERL_2019/entrainements.jpg # Add image post (optional)
 date: 2019-07-15 10:00:00 +0100
 description: Entrainements (SEAL&#x40;ERL2019, &#x266F;03)
 categories: [Concours]
-tags: [Underwater robot, Ground robot, ERL Contest]
+tags: [Underwater robot, Ground robot, Contest]
 ---
 
 

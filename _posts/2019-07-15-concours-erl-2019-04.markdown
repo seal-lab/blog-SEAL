@@ -5,7 +5,7 @@ img: ERL_2019/ryujin_safety_check.jpg # Add image post (optional)
 date: 2019-07-15 13:00:00 +0100
 description: Underwater vehicle's safety check&#58; check!(SEAL&#x40;ERL2019, &#x266F;04)
 categories: [Concours]
-tags: [Underwater robot, ERL Contest]
+tags: [Underwater robot, Contest]
 ---
 
 

@@ -5,7 +5,7 @@ img:  escape_game_2020/escape_game_seal.jpg # Add image post (optional)
 date: 2020-02-18 18:00:00 +0100
 description: Escape Game pour découvrir l'école à destination des lycéens 
 categories: [Lab]
-tags: [Lab Life]
+tags: [Lab life]
 --- 
 
 

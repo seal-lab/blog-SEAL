@@ -5,7 +5,7 @@ img: recrutement_seal_2019/seal_haggle.jpg # Add image post (optional)
 date: 2020-01-22 18:00:00 +0100
 description: Dernière épreuve du recrutement des étudiants pour intégrer l'équipe SEAL
 categories: [Lab]
-tags: [Lab Life]
+tags: [Lab life]
 --- 
 
 

@@ -5,7 +5,7 @@ img: ERL_2019/grand_challenge_day_1_sea.jpg # Add image post (optional)
 date: 2019-07-18 12:00:00 +0100
 description:  Grand Challenge - Day 1 sea  (SEAL&#x40;ERL2019, &#x266F;09)
 categories: [Concours]
-tags: [Underwater robot, ERL Contest]
+tags: [Underwater robot, Contest]
 ---
 
 

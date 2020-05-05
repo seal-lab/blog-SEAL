@@ -5,7 +5,7 @@ img: ERL_2019/tente_seal_travail.jpg # Add image post (optional)
 date: 2019-07-14 10:00:00 +0100
 description: Arrivée au concours européen de robotique d'exploration ERL (SEAL&#x40;ERL2019, &#x266F;02)
 categories: [Concours]
-tags: [Underwater robot, Ground robot, ERL Contest]
+tags: [Underwater robot, Ground robot, Contest]
 ---
 
 

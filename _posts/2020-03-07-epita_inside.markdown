@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Epita Inside 2020"
+title: "Épita Inside 2020"
 img:  epita_inside_2020/epita_inside_2020.jpg # Add image post (optional)
 date: 2020-03-07 18:00:00 +0100
 description: Ateliers pour découvrir l'école à destination des lycéens 
 categories: [Lab]
-tags: [Lab Life]
+tags: [Lab life]
 --- 
 
 

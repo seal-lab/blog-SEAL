@@ -5,7 +5,7 @@ img: ERL_2019/first_points.jpg # Add image post (optional)
 date: 2019-07-16 16:00:00 +0100
 description:  Des points de gagnés !(SEAL&#x40;ERL2019, &#x266F;06)
 categories: [Concours]
-tags: [Ground robot, ERL Contest]
+tags: [Ground robot, Contest]
 ---
 
 

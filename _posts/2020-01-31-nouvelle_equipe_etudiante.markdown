@@ -5,7 +5,7 @@ img:  recrutement_seal_2019/welcome_to_seal_team.jpg # Add image post (optional)
 date: 2020-01-31 10:00:00 +0100
 description: Bienvenue à la nouvelle équipe étudiante SEAL
 categories: [Lab]
-tags: [Lab Life]
+tags: [Lab life]
 --- 
 
 
