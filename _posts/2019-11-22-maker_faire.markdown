@@ -40,7 +40,12 @@ Il était également possible de visionner 🕶 [le film 360° de l'Épita]({% p
 
 > Une journée intense, bien remplie, riche et passionnante 😁 on espère que ça vous a plu !
 
-*&#x21E8; Les lycéens peuvent retrouver notre atelier araignée d'initiation à la robotique lors des [journées d'immersion]({% post_url 2020-03-07-epita_inside %}) de l'Épita 😉*
+<center>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmakerfaireparis%2Fvideos%2F3016613965036029%2F&show_text=0&width=560" style="width: 90%; min-height:450px; border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<br/><strong>Interview pendant le salon</strong>
+</center>
+
+<br/>*&#x21E8; Les lycéens peuvent retrouver notre atelier araignée d'initiation à la robotique lors des [journées d'immersion]({% post_url 2020-03-07-epita_inside %}) de l'Épita 😉*
 
 
 

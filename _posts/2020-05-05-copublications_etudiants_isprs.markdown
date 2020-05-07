@@ -24,7 +24,7 @@ Il s'agit de **deux articles** 📃qui ont été acceptés par le commité de s�
 Bravo à **Charles**, **Sara** et **Raphaël** pour leur participation à ces travaux 👏!
 
 
-> Le **deuxième** papier, lui, traite du **portage d'Ardupilot**, un auto-pilot 🎮open-source, sur une nouvelle famille de micro-contrôleurs, les **ESP32**, pour obtenir une architecture bas-niveau universelle pour des robots multi-milieux a lui été sélectionné pour les **Archives** de l'ISPRS. 
+> Le **deuxième** papier, lui, traite du **portage d'Ardupilot**, un auto-pilot 🎮open-source, sur une nouvelle famille de micro-contrôleurs, les **ESP32**, pour obtenir une architecture bas-niveau universelle pour des robots multi-milieux et a été sélectionné pour les **Archives** de l'ISPRS. 
 
 <p style="background:#dbe0ef; border-top:2px solid #aeb8de; border-bottom:2px solid #aeb8de; padding:1em 1em 1em 1em;">
 "<em>Porting Ardupilot to ESP32: Towards a Universal Open-Source Architecture for Agile and Easily Replicable Multi-Domains Mapping Robots</em>", Laurent Beaudoin, Loïca Avanthey et Charles Villard dans <strong>International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</strong>, Nice, France, 2020.</p>  

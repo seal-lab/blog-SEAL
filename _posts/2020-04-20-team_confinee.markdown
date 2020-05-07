@@ -22,11 +22,11 @@ Même si les **cours à distance**, ce n'est pas si simple 😰 et qu'une grosse
 ![image](/assets/img/team_confinee_04_2020/team_confinee_01.jpg){: style="width:24%;"}
 ![image](/assets/img/team_confinee_04_2020/team_confinee_02.jpg){: style="width:24%;"}
 ![image](/assets/img/team_confinee_04_2020/team_confinee_03.jpg){: style="width:24%;"}
-![image](/assets/img/team_confinee_04_2020/team_confinee_03.jpg){: style="width:24%;"}<br/>
-![image](/assets/img/team_confinee_04_2020/team_confinee_03.jpg){: style="width:24%;"}
-![image](/assets/img/team_confinee_04_2020/team_confinee_03.jpg){: style="width:24%;"}
-![image](/assets/img/team_confinee_04_2020/team_confinee_03.jpg){: style="width:24%;"}
-![image](/assets/img/team_confinee_04_2020/team_confinee_03.jpg){: style="width:24%;"}<br/>
+![image](/assets/img/team_confinee_04_2020/team_confinee_04.jpg){: style="width:24%;"}<br/>
+![image](/assets/img/team_confinee_04_2020/team_confinee_05.jpg){: style="width:24%;"}
+![image](/assets/img/team_confinee_04_2020/team_confinee_05.jpg){: style="width:24%;"}
+![image](/assets/img/team_confinee_04_2020/team_confinee_05.jpg){: style="width:24%;"}
+![image](/assets/img/team_confinee_04_2020/team_confinee_05.jpg){: style="width:24%;"}<br/>
 **👋Les enseignants-chercheurs et les étudiants de l'équipe SEAL confinés, en télétravail 👋**
 {: refdef}
 
@@ -56,7 +56,7 @@ Sur nos machines, le support d'une visière s'imprime en moyenne en 1h30 🕜il 
 {: refdef}
 
 
-> Nous avons produit et distribué au total 595 visières 🤗(chiffre mis à jour le 03/05) avec 3-4 imprimantes. À ce rythme, les machines sont mises à rude épreuve et nous sommes obligés de les ménager quelques heures par jours pour qu'elles ne nous lâchent pas 🙄
+> Nous avons produit et distribué au total 718 visières 🤗(chiffres mis à jour le 07/05) avec 3-4 imprimantes. À ce rythme, les machines sont mises à rude épreuve et nous sommes obligés de les ménager quelques heures par jours pour qu'elles ne nous lâchent pas 🙄
 
 D'autres **personnels** de l'Épita des différents sites, ainsi que des **étudiants** équipés d'imprimantes 3D sont également mobilisés pour produire des **visières** dans leur département 👍
 
