@@ -4,21 +4,16 @@
   {% else %}
     <span class="disabled">Prev</span>
   {% endif %}
-
-  {% if paginator.page == 1 %}
-    <span class="active">1</span>
-  {% else %}
-    <a href="{{paginator.first_page_path}}">1</a>
-  {% endif %}
-
-  {% for count in (2..paginator.total_pages) %}
-
-    {% if count == paginator.page %}
-      <span class="active">{{ count }}</span>
+  
+  {% if paginator.page_trail %}
+  {% for trail in paginator.page_trail %}
+    {% if trail.num == paginator.page %}
+      <span class="active">{{ trail.num }}</span>
     {% else %}
-      <a href="{{site.baseurl}}/page{{ count }}">{{ count }}</a>
+        <a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
     {% endif %}
   {% endfor %}
+  {% endif %}
 
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next</a>
