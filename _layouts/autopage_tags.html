@@ -15,7 +15,7 @@ permalink: /tags/
 <!--  cycles through tag list and creates header row of all tags used in site with accompanying per-tag counts...-->
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    <li ><a href="{{site.baseurl}}/tag/{{ this_word | cgi_escape | replace: '+', '-' }}" class="tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
+    <li {% if this_word == page.autopages.display_name %} style='border: 1px solid #000000; background-color: #000000; -webkit-box-shadow: 0 2px 0 #000000; box-shadow: 0 2px 0 #000000;' {% endif %}><a href="{{site.baseurl}}/tag/{{ this_word | cgi_escape | replace: '+', '-' }}" class="tag">{{ this_word }} <span>({{ site.tags[this_word].size }})</span></a></li>
   {% endunless %}{% endfor %}
   </ul>
 
