@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Produces a cleaner folder structure when using categories
 # permalink: /:year/:month/:title.html
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog-SEAL" # the subpath of your site, e.g. /blog
 url: "seal-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
