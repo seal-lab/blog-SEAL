@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # permalink: /:year/:month/:title.html
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "seal-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: banner # add banner video. Add your video file to the folder video
@@ -106,4 +106,3 @@ include: [_pages]
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
