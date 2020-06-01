@@ -15,8 +15,8 @@ Après la **tempête** (orage, cascade de pluie et froid), qui a découragé les
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/preparatifs_01.jpg){: style="width:33%;"} ![image](/assets/img/ERL_2019/preparatifs_02.jpg){: style="width:33%;"} ![image](/assets/img/ERL_2019/preparatifs_03.jpg){: style="width:33%;"}<br/>
-![image](/assets/img/ERL_2019/preparatifs_04.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/preparatifs_05.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/preparatifs_01.jpg){: style="width:33%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/preparatifs_02.jpg){: style="width:33%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/preparatifs_03.jpg){: style="width:33%;"}<br/>
+![image]({{site.baseurl}}/assets/img/ERL_2019/preparatifs_04.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/preparatifs_05.jpg){: style="width:49%;"}<br/> 
 **Montage du robot sous-marin, fixation caméra interne, ajout de nouveaux éléments, etc.**
 {: refdef}
 
@@ -30,8 +30,8 @@ Après la **tempête** (orage, cascade de pluie et froid), qui a découragé les
 
 	
 {:refdef: style="text-align: center;"}
-![My Image](/assets/img/ERL_2019/tests_01.jpg){: style="width:49%;"} ![My Image](/assets/img/ERL_2019/tests_02.jpg){: style="width:49%;"}<br/>
-![My Image](/assets/img/ERL_2019/tests_03.jpg){: style="width:49%;"} ![My Image](/assets/img/ERL_2019/tests_04.jpg){: style="width:49%;"}<br/>
+![My Image]({{site.baseurl}}/assets/img/ERL_2019/tests_01.jpg){: style="width:49%;"} ![My Image]({{site.baseurl}}/assets/img/ERL_2019/tests_02.jpg){: style="width:49%;"}<br/>
+![My Image]({{site.baseurl}}/assets/img/ERL_2019/tests_03.jpg){: style="width:49%;"} ![My Image]({{site.baseurl}}/assets/img/ERL_2019/tests_04.jpg){: style="width:49%;"}<br/>
 **Tests en piscine, vérification de l’étanchéité et ajustement des poids**
 {: refdef}
 

@@ -16,7 +16,7 @@ On part **tôt** 😪 ce matin pour une virée sous-marine. On récupère blocs 
 > On cherche veinement un lieu de mise à l'eau : plan A, B, C, D, E... 😟 On va finir par être à court de lettres ! Ça bastonne de partout, et le temps file...
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/houle_01.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/houle_02.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/houle_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/houle_02.jpg){: style="width:49%;"}<br/>
 **La petite brume blanche sur la plage, c'est les remous. C'est joli, mais pas très praticable...**
 {: refdef}
 
@@ -30,14 +30,14 @@ Au bout de **plusieures heures** à arpenter la côte, on finit par trouver une 
 De la **posidonnie** morte partout en **suspension** qui tourbillonne dans tous les sens (avec nous aussi car on est brassé par le ressac) heureusement qu'on est dans moins d'1 m d'eau car on y perdrai le haut du bas. En s'éloignant un peu du bord, la **visibilité** s'améliore ! Ouf. D'une part on va pouvoir s'orienter et ne pas se perdre, d'autre part ça laisse une chance pour les **prises de vues**...
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/lieu_plongee_mardi.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_mardi_01.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/lieu_plongee_mardi.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_mardi_01.jpg){: style="width:49%;"}<br/>
 **L'apparence trompeuse... Heureusement, en avançant un peu, on arrive à voir un petit peu plus loin que le bout de son masque**
 {: refdef}
 
 On **explore** un peu la zone pour voir où se poser. Il n'y a pas beaucoup de **fond** < 5 m, donc on ressent les mouvements de la surface. Et il y a pas mal de **bateaux**, ce n'est pas terrible terrible. On opte pour se mettre à l'abri d'un voilier ancré qui n'a pas l'intention de bouger pour effectuer les acquisitions d'étalonnage. 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/coque.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_mardi_02.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/coque.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_mardi_02.jpg){: style="width:49%;"}<br/>
 **Sous l'&oelig;il de la coque du voilier acquisition à différentes distances de la mire d'étalonnage**
 {: refdef}
 
@@ -54,8 +54,8 @@ Après cette première plongée, il reste un peu de temps avant le coucher du so
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/catamaran_deploiement_05.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/catamaran_deploiement_06.jpg){: style="width:49%;"}<br/>
-![image](/assets/img/Nice_10_2019/catamaran_deploiement_07.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/catamaran_deploiement_08.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/catamaran_deploiement_05.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/catamaran_deploiement_06.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/catamaran_deploiement_07.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/catamaran_deploiement_08.jpg){: style="width:49%;"}<br/>
 **Il serait peut-être temps de rentrer, non 👻? La prochaine fois on prend les frontales et il faut qu'on pense à rajouter des loupiotes à Kraken, comme celles de Ryu 😁**
 {: refdef}
 

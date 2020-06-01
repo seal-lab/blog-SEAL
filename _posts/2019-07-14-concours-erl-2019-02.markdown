@@ -18,7 +18,7 @@ Dans l'arène marine, même dans les meilleures conditions, il y a des **vagues*
 
 Notre équipe est le **challenger** de cette édition car elle y participe pour la première fois, sa **moyenne d'âge** est la plus basse (et de loin : les autres équipes sont composées de doctorants, post-doctorants et professionnels) et ses robots sont les plus **petits** (nombre de capteurs limité, mais plus d'agilité), les moins coûteux (il faut donc compenser par un code très performant) et construits de zéro (certains véhicules roulants notamment sont achetés clé en main et possèdent déjà beaucoup de fonctionnalités qui permettent de passer facilement aux tâches très haut niveau).
 
-| ![image](/assets/img/ERL_2019/epita_ryujin_sous-marin.jpg){: style="width:100%;"} | ![image](/assets/img/ERL_2019/epita_robot_terrestre.jpg){: style="width:100%;"} |
+| ![image]({{site.baseurl}}/assets/img/ERL_2019/epita_ryujin_sous-marin.jpg){: style="width:100%;"} | ![image]({{site.baseurl}}/assets/img/ERL_2019/epita_robot_terrestre.jpg){: style="width:100%;"} |
 
 **Les deux robots, sous-marin et terrestre, présentés par notre équipe**{: style="display: block; text-align:center;"}
 
@@ -28,13 +28,13 @@ Notre équipe est le **challenger** de cette édition car elle y participe pour 
 Nos **principaux concurrents** sont : University of Applied Science of Kiel (Allemagne), University of Firenze (Italie), University of Bath (Angleterre), University of Sciences and Technologies of Wroclaw (Pologne), Telerob Company (Allemagne), etc.
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/concurrent_sous-marin_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/concurrent_sous-marin_02.jpg){: style="width:49%;"}
+![image]({{site.baseurl}}/assets/img/ERL_2019/concurrent_sous-marin_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/concurrent_sous-marin_02.jpg){: style="width:49%;"}
 **Deux robots sous-marins présentés par des équipes concurrentes**
 {: refdef}
 
 	
 {:refdef: style="text-align: center;"}
-![My Image](/assets/img/ERL_2019/concurrent_terrestre_01.jpg){: style="width:67.5%;"} ![My Image](/assets/img/ERL_2019/concurrent_terrestre_02.jpg){: style="width:30%;"}
+![My Image]({{site.baseurl}}/assets/img/ERL_2019/concurrent_terrestre_01.jpg){: style="width:67.5%;"} ![My Image]({{site.baseurl}}/assets/img/ERL_2019/concurrent_terrestre_02.jpg){: style="width:30%;"}
 **Deux robots terrestres présentés par des équipes concurrentes**
 {: refdef}
 

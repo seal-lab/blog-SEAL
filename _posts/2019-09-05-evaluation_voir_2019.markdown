@@ -17,14 +17,14 @@ Le cours **VOIR** (Vision par Ordinateur) de la majeure **GISTRE** (Génie Infor
 > On est reparti de la **plateforme roulante** conçue pour l'évaluation du cours **Télédétection** (vecteurs, capteurs et applications) et on cherche toujours à suivre une **trajectoire**, mais cette fois-ci, on n'est plus en navigation à l'aveugle... Avec tout ce qu'on a appris, on va pouvoir faire un **asservissement vision** !
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/VOIR_2019/voiture_tele.jpg){: style="width:49%;"} ![image](/assets/img/VOIR_2019/kit_voir.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/VOIR_2019/voiture_tele.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/VOIR_2019/kit_voir.jpg){: style="width:49%;"}<br/> 
 **La voiture à l'issue du module Télédétection et le kit du matériel à rajouter pour la vision** 
 {: refdef}
 
 Pour l'occasion, les **plots** de couleurs utilisés pour marquer la trajectoire sont un peu plus gros (et plus nombreux), mais cette fois-ci le tracé de la trajectoire finale est **inconnu**. 20 portes à passer, un point la porte ! Ok, ok, il y a aussi un rapport à rendre 😉
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/VOIR_2019/voiture_voir.jpg){: style="width:49%;"} ![image](/assets/img/VOIR_2019/eval_voir.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/VOIR_2019/voiture_voir.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/VOIR_2019/eval_voir.jpg){: style="width:49%;"}<br/> 
 **Une fois le tout monté, il n'y a plus qu'à !**
 {: refdef}
 

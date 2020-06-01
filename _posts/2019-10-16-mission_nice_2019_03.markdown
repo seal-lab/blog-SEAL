@@ -15,7 +15,7 @@ Dernier jour de mission ce jeudi. Comme on l'a anticipé, l'état de la **mer** 
 
   
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/lieu_plongee_jeudi_matin.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_01.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/lieu_plongee_jeudi_matin.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_01.jpg){: style="width:49%;"}<br/>
 **Voici le lieu de plongée de ce matin. Ça parait calme hein 🙄🌴? Parés à plonger 👌👎!**
 {: refdef}
 
@@ -25,7 +25,7 @@ La zone est un **tombant**, d'abord progressif puis à ça descend **à pic**. L
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/plongee_jeudi_02.jpg){: style="width:56%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_03.jpg){: style="width:42.5%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_02.jpg){: style="width:56%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_03.jpg){: style="width:42.5%;"}<br/>
 **On est encore dans un herbier de posidonnies, mais la configuration de la pente fait que les poissons 🐟passent un peu moins fréquemment devant le damier**
 {: refdef}
 
@@ -33,7 +33,7 @@ La zone est un **tombant**, d'abord progressif puis à ça descend **à pic**. L
 Après ces acquisitions, on continue à descendre le long du **tombant**. La partie à pic est creusée de multiples **cavités** et **grottes** sous-marines dont les paroies sont tapissées de **corail**. C'est parfait pour faire nos tests de **qualité** d'acquisition 📷 En effet, il est prévu que notre banc caméra soit utilisé courant juin pour une mission profonde sur l'étude des coraux !
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/plongee_jeudi_04.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_05.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_04.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_05.jpg){: style="width:49%;"}<br/>
 **Le long du tombant et à l'entrée d'une grotte 😮**
 {: refdef}
 
@@ -42,12 +42,12 @@ Sur le **rendu** des images dans des conditions d'éclairage **artificiel non ho
 > Mais il y a encore des réglages à faire, car il y a beaucoup (trop) d'images floues ! Et le robot, même s'il peut aller doucement, sera quand même en déplacement...
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/plongee_jeudi_06.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_07.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_06.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_07.jpg){: style="width:49%;"}<br/>
 **Exemple de rendu des images : une image nette et un joli flou artistique 🧐**
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/plongee_jeudi_08.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_09.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_08.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_09.jpg){: style="width:49%;"}<br/>
 **Fin de la plongée du matin 😉👍**
 {: refdef}
 
@@ -59,8 +59,8 @@ Pour la deuxième plongée, on change de lieu, car pour tester l'**équipement**
 On **explore** rapidement les alentours pour trouver un espace avec un peu de **relief** sans trop s'éloigner de notre point de départ. Les fonds sont peu profonds (< 4 m), il va falloir faire avec les **remous** de surface. On sélectionne une zone avec quelques **rochers** qui fera l'affaire pour le test et on procède à l'équipement.
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/plongee_jeudi_10.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_11.jpg){: style="width:49%;"}<br/>
-![image](/assets/img/Nice_10_2019/plongee_jeudi_12.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_13.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_10.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_11.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_12.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_13.jpg){: style="width:49%;"}<br/>
 **Installation des mires, mesure de leur profondeur et des distances entre les mires (3 mesures par mires)**
 {: refdef}
  
@@ -69,7 +69,7 @@ Toutes ces mesures forment ce qu'on appelle la **vérité terrain**, on pourra e
 > Il y a encore quelques points à améliorer pour accélérer la procédure, mais le résultat est pas mal 😎 On a réalisé la phase d'acquistion avant la phase de mesure pour profiter un maximum de la luminosité qui baisse à vue d'&oelig;il 😏 
  
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/plongee_jeudi_14.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/plongee_jeudi_15.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_14.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/plongee_jeudi_15.jpg){: style="width:49%;"}<br/>
 **Campagne d'acquisition sur la zone équipée des mires**
 {: refdef}
  

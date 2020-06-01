@@ -15,7 +15,7 @@ tags: [Ground robot, Contest]
 Après Ryujin, c'est maintenant au tour de **Mabouya**, notre robot terrestre, de passer au scan des impitoyables juges. Et après quelques modifications exigées comme le changement d'un bouton d'arrêt d'urgence plus gros et plus facile d'accès, il obtient son **feu vert** ! 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/ground_safety_check_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/ground_safety_check_02.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/ground_safety_check_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/ground_safety_check_02.jpg){: style="width:49%;"}<br/> 
 **Land vehicle’s safety check : ok !**
 {: refdef}
 
@@ -24,12 +24,12 @@ Mais sa **première ronde** à l'extérieur ne va pas très loin : il y a de nom
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/first_ground_run_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/first_ground_run_02.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/first_ground_run_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/first_ground_run_02.jpg){: style="width:49%;"}<br/> 
 **The big bad conteneurs**
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/first_ground_run_03.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/first_ground_run_04.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/first_ground_run_03.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/first_ground_run_04.jpg){: style="width:49%;"}<br/> 
 **L’entrée dans l’arène extérieure se fait par la rampe et la porte**
 {: refdef}	
 

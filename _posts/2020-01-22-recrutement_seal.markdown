@@ -20,14 +20,14 @@ Pour ceux qui réussissent vaillemment, la **seconde épreuve** va évaluer leur
 > Enfin, l'ultime épreuve permet d'évaluer les aptitudes indispensables sur le terrain 🥾: improvisation, collaboration, gestion du stress, etc.
 
 
-Et quoi de mieux pour cela qu'une **mise en situation** ? Bon rassurez-vous, on ne les emmène pas se congeler au bord de l'eau en plein hiver ❄️(ça c'est pour après, quand ils seront intégrés au labo 😜)... Nous utilisons pour cela notre **Serious Game** fait maison : le **SEAL-Haggle-Robotique**. Nous nous sommes inspirés de ces **jeux de négociation** pour les remodeler à notre sauce dans un **contexte robotique** : saurez-vous construire votre **robot** pour mener à bien la **mission** dans le temps donné 🔔? 
+Et quoi de mieux pour cela qu'une **mise en situation** ? Bon rassurez-vous, on ne les emmène pas se congeler au bord de l'eau en plein hiver ❄️ (ça c'est pour après, quand ils seront intégrés au labo 😜)... Nous utilisons pour cela notre **Serious Game** fait maison : le **SEAL-Haggle-Robotique**. Nous nous sommes inspirés de ces **jeux de négociation** pour les remodeler à notre sauce dans un **contexte robotique** : saurez-vous construire votre **robot** pour mener à bien la **mission** dans le temps donné 🔔? 
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/recrutement_seal_2019/seal_haggle_robotique_recrutement_01.jpg){: style="width:49%;"}
-![image](/assets/img/recrutement_seal_2019/seal_haggle_robotique_recrutement_03.jpg){: style="width:49%;"}<br/>
-![image](/assets/img/recrutement_seal_2019/seal_haggle_robotique_recrutement_02.jpg){: style="width:49%;"}
-![image](/assets/img/recrutement_seal_2019/seal_haggle_robotique_recrutement_04.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/recrutement_seal_2019/seal_haggle_robotique_recrutement_01.jpg){: style="width:49%;"}
+![image]({{site.baseurl}}/assets/img/recrutement_seal_2019/seal_haggle_robotique_recrutement_03.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/recrutement_seal_2019/seal_haggle_robotique_recrutement_02.jpg){: style="width:49%;"}
+![image]({{site.baseurl}}/assets/img/recrutement_seal_2019/seal_haggle_robotique_recrutement_04.jpg){: style="width:49%;"}<br/>
 **C'est parti pour un run de 2h30 ⏳!**
 {: refdef}
 

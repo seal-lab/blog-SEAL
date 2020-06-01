@@ -15,22 +15,22 @@ L'équipe SEAL a le **plaisir** de vous annoncer que son robot sous-marin, **Ryu
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/underwater_safety_check_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/underwater_safety_check_02.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/underwater_safety_check_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/underwater_safety_check_02.jpg){: style="width:49%;"}<br/> 
 **Ryujin sous l’oeil des juges lors du safety check**
 {: refdef}
 
 
 	
 {:refdef: style="text-align: center;"}
-![My Image](/assets/img/ERL_2019/first_underwater_run_01.jpg){: style="width:49%;"} ![My Image](/assets/img/ERL_2019/first_underwater_run_02.jpg){: style="width:27.5%;"}<br/>
-![My Image](/assets/img/ERL_2019/first_underwater_run_03.jpg){: style="width:24.5%;"} ![My Image](/assets/img/ERL_2019/first_underwater_run_04.jpg){: style="width:49%;"} ![My Image](/assets/img/ERL_2019/first_underwater_run_05.jpg){: style="width:24.5%;"}<br/>
+![My Image]({{site.baseurl}}/assets/img/ERL_2019/first_underwater_run_01.jpg){: style="width:49%;"} ![My Image]({{site.baseurl}}/assets/img/ERL_2019/first_underwater_run_02.jpg){: style="width:27.5%;"}<br/>
+![My Image]({{site.baseurl}}/assets/img/ERL_2019/first_underwater_run_03.jpg){: style="width:24.5%;"} ![My Image]({{site.baseurl}}/assets/img/ERL_2019/first_underwater_run_04.jpg){: style="width:49%;"} ![My Image]({{site.baseurl}}/assets/img/ERL_2019/first_underwater_run_05.jpg){: style="width:24.5%;"}<br/>
 **Parés à partir en mer pour le premier run !**
 {: refdef}
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/first_underwater_run_06.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/first_underwater_run_07.jpg){: style="width:49%;"}<br/> 
-![image](/assets/img/ERL_2019/first_underwater_run_08.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/first_underwater_run_09.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/first_underwater_run_06.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/first_underwater_run_07.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/first_underwater_run_08.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/first_underwater_run_09.jpg){: style="width:49%;"}<br/> 
 **Ryu dans le grand bain 😋**
 {: refdef}
 

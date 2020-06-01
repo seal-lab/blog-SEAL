@@ -12,19 +12,19 @@ tags: [Biodiversity, Citizen science]
 # Recensement de la biodiversité
 
 
-C'est les **vacances** et on entre dans le c&oelig;ur de la saison des **tempêtes** 🌀alors pourquoi ne pas en profiter pour se pencher un peu sur la **biodiversité** 🌎? Avec les **échouages** c'est l'occasion d'observer sur les côtes tout un tas d'**espèces** qui sont habituellement moins accessibles. 
+C'est les **vacances** et on entre dans le c&oelig;ur de la saison des **tempêtes** 🌀 alors pourquoi ne pas en profiter pour se pencher un peu sur la **biodiversité** 🌎? Avec les **échouages** c'est l'occasion d'observer sur les côtes tout un tas d'**espèces** qui sont habituellement moins accessibles. 
 
 > Et l'établissement des cartes de répartition des espèces ne passe pas uniquement par une collecte d'information via des robots ! 
 
 Un humain équipé d'un **appareil photo** peut très bien faire l'affaire. Ok, tout seul, pas tant que ça, mais ça change tout si on entre dans le cadre des **sciences participatives** ! Les résultats obtenus ne s'exploitent pas de la même manière que le cartographie systématique car les protocoles sont différents, mais ils apportent souvent des éclairages différents et complémentaires. 
 
 
-> ![image](/assets/img/biodiversite_12_2019/inaturalist_logo.jpg){: style="float:right; padding-left:15px; margin-left:15px; width:25%;"} L'application sur laquelle on soumet l'ensemble de nos observations c'est iNaturalist, car elle accepte les individus appartenant à tous les règnes du vivant et ses codes ainsi que sa base de données sont open-sources 👍!    
+> ![image]({{site.baseurl}}/assets/img/biodiversite_12_2019/inaturalist_logo.jpg){: style="float:right; padding-left:15px; margin-left:15px; width:25%;"} L'application sur laquelle on soumet l'ensemble de nos observations c'est iNaturalist, car elle accepte les individus appartenant à tous les règnes du vivant et ses codes ainsi que sa base de données sont open-sources 👍!    
 
 Créée par l'**Académie des sciences de Californie** (l'un des dix plus grands musées d'histoire naturelle au monde), **iNaturalist** rassemble une **communauté** très **dynamique** : plusieurs dizaines de milliers d'**observations** par jour réalisées par plusieurs milliers d'**observateurs** à travers le **monde entier** 😮 Et depuis quelques temps, on recense chaque année quelques centaines d'**articles** publiés dans des **journaux scientifiques** 📖 et exploitant ces données collectées. 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/biodiversite_12_2019/inaturalist_world_data.jpg){: style="width:90%;"}<br/>
+![image]({{site.baseurl}}/assets/img/biodiversite_12_2019/inaturalist_world_data.jpg){: style="width:90%;"}<br/>
 **Les observations mondiales à ce jour**
 {: refdef}
 
@@ -37,9 +37,9 @@ C'est suffisant pour soumettre les données, si on connaît l'espèce ou le genr
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/biodiversite_12_2019/physalie.jpg){: style="width:33%;"}
-![image](/assets/img/biodiversite_12_2019/velelle.jpg){: style="width:33%;"}
-![image](/assets/img/biodiversite_12_2019/anatifes.jpg){: style="width:33%;"}<br/>
+![image]({{site.baseurl}}/assets/img/biodiversite_12_2019/physalie.jpg){: style="width:33%;"}
+![image]({{site.baseurl}}/assets/img/biodiversite_12_2019/velelle.jpg){: style="width:33%;"}
+![image]({{site.baseurl}}/assets/img/biodiversite_12_2019/anatifes.jpg){: style="width:33%;"}<br/>
 **Des physalies, des vélelles et des anatifes ! Partout, par centaines de milliers 😱!**
 {: refdef}
 
@@ -47,22 +47,22 @@ Les **physalies** (<em>Physalia physalis</em>) que l'on connaît peut-être plus
 
 > Quant aux anatifes communs (<em>Lepas anatifera</em>), ils vivent en haute mer, fixés sur des objets flottants et sont donc eux aussi soumis au gré des vents 💨
 
-Tant qu'on est occupé à observer, on peut noter quelques classiques du littoral Atlantique. Des capsules d'&#x153;ufs de **raies bouclées** (<em>Raja clavata</em>) qui sont aujourd'hui une **espèce menacée** ❗️Des capsules ovigères de **pourpres petite pierre** (<em>Nucella Lapillus</em>), un gastéropode 🐚considéré comme une **espèce-sentinelle** 🚩(sensible à certains polluants) et donc utilisé comme **bio-indicateur**. Et des pseudorécifs d'**hermelles** (<em>Sabellaria alveolata</em>), des vers marins "ingénieurs" qui construisent des tubes en cimentant du sable et forment ainsi des **réservoirs de biodiversité** 🔵pouvant abriter plus de 50 espèces différentes.  
+Tant qu'on est occupé à observer, on peut noter quelques classiques du littoral Atlantique. Des capsules d'&#x153;ufs de **raies bouclées** (<em>Raja clavata</em>) qui sont aujourd'hui une **espèce menacée** ❗️Des capsules ovigères de **pourpres petite pierre** (<em>Nucella Lapillus</em>), un gastéropode 🐚considéré comme une **espèce-sentinelle** 🚩(sensible à certains polluants) et donc utilisé comme **bio-indicateur**. Et des pseudorécifs d'**hermelles** (<em>Sabellaria alveolata</em>), des vers marins "ingénieurs" qui construisent des tubes en cimentant du sable et forment ainsi des **réservoirs de biodiversité** 🔵 pouvant abriter plus de 50 espèces différentes.  
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/biodiversite_12_2019/raie.jpg){: style="width:33%;"}
-![image](/assets/img/biodiversite_12_2019/pourpre.jpg){: style="width:33%;"}
-![image](/assets/img/biodiversite_12_2019/hermelles.jpg){: style="width:33%;"}<br/>
+![image]({{site.baseurl}}/assets/img/biodiversite_12_2019/raie.jpg){: style="width:33%;"}
+![image]({{site.baseurl}}/assets/img/biodiversite_12_2019/pourpre.jpg){: style="width:33%;"}
+![image]({{site.baseurl}}/assets/img/biodiversite_12_2019/hermelles.jpg){: style="width:33%;"}<br/>
 **Capsule d'&#x153;uf (oothèque) de raie bouclée, capsules ovigères de pourpres et récifs d'hermelles**
 {: refdef}
 
 
-> Et voilà pour la petite séquence **biodiversité**, ayez l'&#x153;il 👁lors de vos prochaines balades !
+> Et voilà pour la petite séquence **biodiversité**, ayez l'&#x153;il 👁 lors de vos prochaines balades !
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/biodiversite_12_2019/inaturalist_our_data.jpg){: style="width:90%;"}<br/>
+![image]({{site.baseurl}}/assets/img/biodiversite_12_2019/inaturalist_our_data.jpg){: style="width:90%;"}<br/>
 **On termine sur un petit aperçu de nos contributions 2019 sur iNaturaliste, en classification taxonomique**
 {: refdef}
 

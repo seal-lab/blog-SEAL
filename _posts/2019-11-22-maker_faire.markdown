@@ -17,7 +17,7 @@ Ce week-end, c'est le salon du **Maker Faire** à Paris. Cet événement **mondi
 > Pour cette édition, ça se déroule à la Cité des Sciences et de l'Industrie et la journée d'ouverture, le vendredi, est consacré à l'éducation !  
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/MakerFaire_2019/salon_01.jpg){: style="width:70%;"}<br/>
+![image]({{site.baseurl}}/assets/img/MakerFaire_2019/salon_01.jpg){: style="width:70%;"}<br/>
 **Et on y était 👋 Bienvenue sur le stand de l'Épita 😃!**
 {: refdef}
 
@@ -26,7 +26,7 @@ Pour l'occasion, l'équipe a sorti ses différents **robots** et des **vidéos**
 
  
 {:refdef: style="text-align: center;"}
-![image](/assets/img/MakerFaire_2019/salon_02.jpg){: style="width:49%;"} ![image](/assets/img/MakerFaire_2019/salon_03.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/MakerFaire_2019/salon_02.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/MakerFaire_2019/salon_03.jpg){: style="width:49%;"}<br/>
 **Ça programme, ça test...**
 {: refdef}
 
@@ -34,7 +34,7 @@ Pour l'occasion, l'équipe a sorti ses différents **robots** et des **vidéos**
 Il était également possible de visionner 🕶 [le film 360° de l'Épita]({% post_url 2019-09-18-tournage_360_epita %}) en immersion grâce à nos **casques** de **réalité virtuelle**.
  
 {:refdef: style="text-align: center;"}
-![image](/assets/img/MakerFaire_2019/salon_04.jpg){: style="width:49%;"} ![image](/assets/img/MakerFaire_2019/salon_05.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/MakerFaire_2019/salon_04.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/MakerFaire_2019/salon_05.jpg){: style="width:49%;"}<br/>
 **Ça cause robot, ça visionne à 360°...**
 {: refdef} 
 

@@ -15,7 +15,7 @@ Côté sous-marin, Ryujin a participé à **1 run** en totale **autonomie**. Mai
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/second_underwater_run_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/second_underwater_run_02.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/second_underwater_run_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/second_underwater_run_02.jpg){: style="width:49%;"}<br/> 
 **Deuxième run sous-marin : premiers pas en autonomie**
 {: refdef}
 

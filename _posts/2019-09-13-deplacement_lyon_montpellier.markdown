@@ -14,7 +14,7 @@ tags: [Sensors, Education, Research]
 C'est la **semaine de la recherche** à l'Épita. À cette occasion, les équipes présentent leur travaux aux étudiants en fin du **cycle préparatoire**. En plus de la présentation sur le site de **Paris**, chaque équipe se déplace physiquement dans l'un des sites préparatoires en **région** : pour l'équipe SEAL, le rendez-vous est fixé à **Lyon** !
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Lyon_Montpellier_09_2019/presentation_recherche_paris_lyon.jpg){: style="width:60%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Lyon_Montpellier_09_2019/presentation_recherche_paris_lyon.jpg){: style="width:60%;"}<br/>
 **SEAL&#x40;Lyon 😊**
 {: refdef}
 
@@ -27,8 +27,8 @@ On profite du déplacement pour faire un crochet par **Montpellier** et rencontr
 En marge de ces réunions, on organise une **campagne d'acquisition** avec notre nouvelle charge utile pour observer si le taux de **synchronisation** que nous avons réussi à obtenir est suffisant pour figer le **dynamisme** du milieu **sous-marin** ce qui permettra de **reconstruire en 3D** les éléments en mouvement. 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Lyon_Montpellier_09_2019/capteur.jpg){: style="width:49%;"}
-![image](/assets/img/Lyon_Montpellier_09_2019/acquisition.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Lyon_Montpellier_09_2019/capteur.jpg){: style="width:49%;"}
+![image]({{site.baseurl}}/assets/img/Lyon_Montpellier_09_2019/acquisition.jpg){: style="width:49%;"}<br/>
 **Montage temporaire du banc (les racks ne sont pas encore terminés) et prises de vues**
 {: refdef}
 
@@ -36,13 +36,13 @@ La mer est un peu **agitée** et il n'est pas garanti que l'on trouve les sujets
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Lyon_Montpellier_09_2019/bureau_01.jpg){: style="width:49%;"}
-![image](/assets/img/Lyon_Montpellier_09_2019/bureau_02.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Lyon_Montpellier_09_2019/bureau_01.jpg){: style="width:49%;"}
+![image]({{site.baseurl}}/assets/img/Lyon_Montpellier_09_2019/bureau_02.jpg){: style="width:49%;"}<br/>
 **Un bureau un peu particulier 🙃**
 {: refdef}
 
 
-> ![image](/assets/img/Lyon_Montpellier_09_2019/poisson_vache.jpg){: style="float:right; padding-left:15px; margin-left:15px; width:15%;"} Petite mention spéciale pour le petit poisson vache (<em>Lactoria cornuta</em>) du Seaquarium, très curieux et très intrigué par notre montage 🐠! 
+> ![image]({{site.baseurl}}/assets/img/Lyon_Montpellier_09_2019/poisson_vache.jpg){: style="float:right; padding-left:15px; margin-left:15px; width:15%;"} Petite mention spéciale pour le petit poisson vache (<em>Lactoria cornuta</em>) du Seaquarium, très curieux et très intrigué par notre montage 🐠! 
 
 
 On se rend également sur un de nos autres lieux de mission dans la région pour tester, cette fois-ci, la **qualité** des prises de vues en présence d'un **éclairage artificiel** pour analyser les améliorations à apporter aux **paramètres** de prises de vues pour être capable de reconstruire en 3D des **grottes**.
@@ -50,8 +50,8 @@ On se rend également sur un de nos autres lieux de mission dans la région pour
 Les **problématiques** de ce type d'environnement sont proches de celles de nos travaux sous-marins, car il n'y a pas d'accès au signal **GPS** et l'**éclairage** est altéré.
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Lyon_Montpellier_09_2019/grotte_01.jpg){: style="width:55%;"}
-![image](/assets/img/Lyon_Montpellier_09_2019/grotte_02.jpg){: style="width:31%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Lyon_Montpellier_09_2019/grotte_01.jpg){: style="width:55%;"}
+![image]({{site.baseurl}}/assets/img/Lyon_Montpellier_09_2019/grotte_02.jpg){: style="width:31%;"}<br/>
 **Acquisition d'images dans l'optique de pouvoir cartographier en 3D ces boyaux émergés ou immergés**
 {: refdef}
 
@@ -59,7 +59,7 @@ Pour terminer ces trois jours bien remplis, on effectue un **repérage** sur un 
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Lyon_Montpellier_09_2019/ruines.jpg){: style="width:60%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Lyon_Montpellier_09_2019/ruines.jpg){: style="width:60%;"}<br/>
 **Future zone de mission**
 {: refdef}
 

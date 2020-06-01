@@ -16,14 +16,14 @@ La concentration en **sel** extrêmement élevée des piscines sur le quai due �
 > Des équipes ont dû **abandonner** la compétition : la complexité de l'environnement sous-marin ne pardonne pas 😥
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/team_work_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/team_work_02.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/team_work_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/team_work_02.jpg){: style="width:49%;"}<br/> 
 **Il n’y a pas de pause à ERL : work, work, work !**
 {: refdef}
 
 Conclusion, sur le terrain, le **home made** paye 😏: nous avons conçu nos moteurs pour qu'ils puissent tourner même à très haute salinité et pour qu'ils soient réparables en toute circonstance !
   
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/tests_05.jpg){: style="width:60%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/tests_05.jpg){: style="width:60%;"}<br/> 
 **Ryu, calibré pour la mer morte 😎!**
 {: refdef}  
 

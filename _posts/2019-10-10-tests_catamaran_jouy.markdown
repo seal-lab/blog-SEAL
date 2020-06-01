@@ -19,7 +19,7 @@ On embarque donc une partie de l'équipe sur notre **zone d'essai** à Jouy-en-J
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Jouy_10_2019/test_cata_01.jpg){: style="width:49%;"} ![image](/assets/img/Jouy_10_2019/test_cata_02.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Jouy_10_2019/test_cata_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Jouy_10_2019/test_cata_02.jpg){: style="width:49%;"}<br/>
 **Matériel packé 👌: en route ! Installation sur la zone de test**
 {: refdef}
 
@@ -27,7 +27,7 @@ On se déploie sur la zone et on commence les **premiers tests**. Contrôle des 
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Jouy_10_2019/test_cata_03.jpg){: style="width:49%;"} ![image](/assets/img/Jouy_10_2019/test_cata_04.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Jouy_10_2019/test_cata_03.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Jouy_10_2019/test_cata_04.jpg){: style="width:49%;"}<br/>
 **Mise à l'eau et premiers tests**
 {: refdef}
 
@@ -37,7 +37,7 @@ Le **mode piloté** semble opérationnel. Nous testons ensuite le **mode autonom
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Jouy_10_2019/test_cata_05.jpg){: style="width:49%;"} ![image](/assets/img/Jouy_10_2019/test_cata_06.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Jouy_10_2019/test_cata_05.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Jouy_10_2019/test_cata_06.jpg){: style="width:49%;"}<br/>
 **Tests de pilotage et tests en mode autonome (asservissement position GPS)**
 {: refdef}
 

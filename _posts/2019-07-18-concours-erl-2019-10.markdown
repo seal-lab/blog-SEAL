@@ -14,12 +14,12 @@ tags: [Ground robot, Contest]
 Toujours pour le **Grand Challenge**, mais côté **terrestre**, afin de régler le problème de communication, une **spatule** de cuisine a été montée avec succès sur le robot terrestre pour rehausser l'antenne. 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/grand_challenge_land_ready_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_land_ready_02.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/grand_challenge_land_ready_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/grand_challenge_land_ready_02.jpg){: style="width:49%;"}<br/> 
 **Installation de la spatule-antenne : on capte mieux 🤩!**<br/>
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/grand_challenge_land_run_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_land_run_02.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/grand_challenge_land_run_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/grand_challenge_land_run_02.jpg){: style="width:49%;"}<br/> 
 **Petit tour dans l'arène extérieure : la position des éléments change tous les jours**<br/>
 {: refdef}
 
@@ -29,7 +29,7 @@ Toujours pour le **Grand Challenge**, mais côté **terrestre**, afin de régler
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/grand_challenge_land_run_03.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_land_run_04.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/grand_challenge_land_run_03.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/grand_challenge_land_run_04.jpg){: style="width:49%;"}<br/> 
 **Première entrée du robot dans l’arène intérieure : Spatula Power !**<br/>
 {: refdef}
 

@@ -14,7 +14,7 @@ tags: [Underwater robot, Contest]
 Nous arrivons aux phases finales : le "**Grand Challenge**" pendant lequel les **deux robots** sont en action **simultanément** (ce qui divise en deux notre équipe et nous rend la tâche complexe).
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/grand_challenge_underwater_ready_01.jpg){: style="width:60%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/grand_challenge_underwater_ready_01.jpg){: style="width:60%;"}<br/> 
 **Ready for the run of the Grand Challenge !**
 {: refdef}  
 
@@ -22,7 +22,7 @@ Nous arrivons aux phases finales : le "**Grand Challenge**" pendant lequel les *
 Côté **sous-marin**, les problèmes de cap et de motorisation de la veille ont été résolus 😃! Ryu est de nouveau à l'eau. Mais pendant le run un nouveau **problème moteur** est apparu 😑 il reste 15h pour trouver une solution… 😤
   
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/grand_challenge_underwater_run_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/grand_challenge_underwater_run_02.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/grand_challenge_underwater_run_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/grand_challenge_underwater_run_02.jpg){: style="width:49%;"}<br/> 
 **Ryu en autonomie suffisament proche de la surface pour qu'on puisse le voir**<br/>
 *(avant le problème moteur)*
 {: refdef}

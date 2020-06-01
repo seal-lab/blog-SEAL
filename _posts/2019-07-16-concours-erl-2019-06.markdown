@@ -15,8 +15,8 @@ Notre robot terrestre a participé à **2 runs** en une journée. L'équipe a en
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/ERL_2019/second_ground_run_01.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/second_ground_run_02.jpg){: style="width:49%;"}<br/> 
-![image](/assets/img/ERL_2019/second_ground_run_03.jpg){: style="width:49%;"} ![image](/assets/img/ERL_2019/second_ground_run_04.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/second_ground_run_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/second_ground_run_02.jpg){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/ERL_2019/second_ground_run_03.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/ERL_2019/second_ground_run_04.jpg){: style="width:49%;"}<br/> 
 **On est entré dans l’arène extérieure 😁!**
 {: refdef}
 

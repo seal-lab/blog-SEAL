@@ -14,7 +14,7 @@ tags: [Surface robot, Sensors, Research]
 On est partis par le **train** 🚄 avec 100 Kg de matériel sur le dos 💪 direction **Nice** pour une mission de **3 jours**. 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/voyage_01.jpg){: style="width:29%;"} ![image](/assets/img/Nice_10_2019/voyage_02.jpg){: style="width:29%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/voyage_01.jpg){: style="width:29%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/voyage_02.jpg){: style="width:29%;"}<br/>
 **1 robot sous-marin, 1 catamaran, les charges utiles, les mires et le matos de plongée : faire des robots légers, compacts et démontables ce n'est pas qu'un choix, c'est aussi une nécessité !**
 {: refdef}
 
@@ -28,7 +28,7 @@ Dernière de la **saison** pour la partie sous-marine, cette sortie terrain est 
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/orage_01.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/orage_02.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/orage_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/orage_02.jpg){: style="width:49%;"}<br/>
 **Route coupée par un éboulement en cours de dégagement devant nous 😳 les cours d'eau placides se sont transformés en torrents furieux et envahissent les voies de circulation 😓**
 {: refdef}
 
@@ -36,7 +36,7 @@ En fin d'après-midi, l'orage s'éloigne et le vent, toujours très fort, a dég
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/catamaran_cheminement_01.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/catamaran_cheminement_02.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/catamaran_cheminement_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/catamaran_cheminement_02.jpg){: style="width:49%;"}<br/>
 **On valide le catamaran en mode jetpack pour se déplacer ! Par contre ça bastonne tout le long de la côte...**
 {: refdef}
 
@@ -46,7 +46,7 @@ On fini par trouver une zone à peu près abritée et où la houle n'est pas tro
 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/catamaran_deploiement_01.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/catamaran_deploiement_02.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/catamaran_deploiement_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/catamaran_deploiement_02.jpg){: style="width:49%;"}<br/>
 **Test de pilotage, dans la mer cette fois-ci 😊**
 {: refdef}
 
@@ -56,7 +56,7 @@ Les changements apportés depuis le dernier [test terrain]({% post_url 2019-10-1
 > Dès que l'on passe en mode automatique, ne serait-ce que pour maintenir la position courante, le catamaran se met à tourner en rond 🤪 Pourtant, lorsqu'il est en mode manuel, le cap mesuré est stable 🤔 Il va falloir creuser ! 
 
 {:refdef: style="text-align: center;"}
-![image](/assets/img/Nice_10_2019/catamaran_deploiement_03.jpg){: style="width:49%;"} ![image](/assets/img/Nice_10_2019/catamaran_deploiement_04.jpg){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_10_2019/catamaran_deploiement_03.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_10_2019/catamaran_deploiement_04.jpg){: style="width:49%;"}<br/>
 **Le petit Kraken remonte bien la houle et le vent ! Son utilisation marine est validée 👌**
 {: refdef}
 

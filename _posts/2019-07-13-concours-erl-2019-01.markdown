@@ -15,7 +15,7 @@ tags: [Underwater robot, Ground robot, Contest]
 
 > Cette manche porte sur la collaboration entre des robots terrestres et sous-marins.
 
-![image](/assets/img/ERL_2019/flags.jpg){: style="float:left; padding-right:15px; margin-right:15px; width:35%;"}
+![image]({{site.baseurl}}/assets/img/ERL_2019/flags.jpg){: style="float:left; padding-right:15px; margin-right:15px; width:35%;"}
 * **Le lieu** : la base militaire de l'OTAN (CMRE — Centre for Maritime Research and Experimentation). 
 * **Le scénario** : un bateau a perdu le contrôle lors de son entrée dans le port. Il a endommagé un pipeline sous-marin (le premier robot doit repérer les dégâts et identifier le pipeline endommagé) et la valve terrestre alimentant le pipeline en question doit être coupée pour stopper la propagation des produits dangereux (mission du second robot).
  
@@ -23,7 +23,7 @@ Une **cartographie post-accident** doit être réalisée pour analyser les dég�
  
 Et bien entendu, les robots doivent agir seuls, en **totale autonomie**, en découvrant leur environnement et en évitant les nombreux obstacles. 
 
-![image](/assets/img/ERL_2019/students_team_01.jpg){: style="float:none; display: block; margin-left:auto; margin-right:auto; padding:15px; width:80%;"}
+![image]({{site.baseurl}}/assets/img/ERL_2019/students_team_01.jpg){: style="float:none; display: block; margin-left:auto; margin-right:auto; padding:15px; width:80%;"}
 **Bonne chance à notre équipe !**{: style="display: block; text-align:center;"}
 
 	
