@@ -48,7 +48,7 @@ website: # you website
 facebook_url: https://www.facebook.com/sealresearch/
 
 # Tracker
-analytics:
+analytics: UA-168189198-1
 
 # Site configuration for the Auto-Pages feature
 autopages:
