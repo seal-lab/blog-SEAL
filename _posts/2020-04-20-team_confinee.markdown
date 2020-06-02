@@ -25,7 +25,8 @@ Même si les **cours à distance**, ce n'est pas si simple 😰 et qu'une grosse
 ![image]({{site.baseurl}}/assets/img/team_confinee_04_2020/team_confinee_04.jpg){: style="width:24%;"}<br/>
 ![image]({{site.baseurl}}/assets/img/team_confinee_04_2020/team_confinee_05.jpg){: style="width:24%;"}
 ![image]({{site.baseurl}}/assets/img/team_confinee_04_2020/team_confinee_06.jpg){: style="width:24%;"}
-![image]({{site.baseurl}}/assets/img/team_confinee_04_2020/team_confinee_07.jpg){: style="width:24%;"}<br/>
+![image]({{site.baseurl}}/assets/img/team_confinee_04_2020/team_confinee_07.jpg){: style="width:24%;"}
+![image]({{site.baseurl}}/assets/img/team_confinee_04_2020/team_confinee_08.jpg){: style="width:24%;"}<br/>
 <!-- ![image]({{site.baseurl}}/assets/img/team_confinee_04_2020/team_confinee_06.jpg){: style="width:24%;"} -->
 **👋 Les enseignants-chercheurs et les étudiants de l'équipe SEAL confinés, en télétravail 👋**
 {: refdef}
