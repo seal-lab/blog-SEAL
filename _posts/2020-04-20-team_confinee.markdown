@@ -62,7 +62,7 @@ Sur nos machines, le support d'une visière s'imprime en moyenne en 1h30 🕜 il
 **Tournée de livraison**
 {: refdef}
 
-> Nous avons produit et distribué au total 855 visières 🤗(chiffre mis à jour le 01/06) avec 3-4 imprimantes. À ce rythme, les machines sont mises à rude épreuve et nous sommes obligés de les ménager quelques heures par jours pour qu'elles ne nous lâchent pas 🙄
+> Nous avons produit et distribué au total 855 visières 🤗 (chiffre mis à jour le 01/06) avec 3-4 imprimantes. À ce rythme, les machines sont mises à rude épreuve et nous sommes obligés de les ménager quelques heures par jours pour qu'elles ne nous lâchent pas 🙄
 
 D'autres **personnels** de l'Épita des différents sites, ainsi que des **étudiants** équipés d'imprimantes 3D sont également mobilisés pour produire des **visières** dans leur département 👍
 
