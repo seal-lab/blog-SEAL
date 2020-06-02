@@ -22,4 +22,4 @@ Et maintenant que vous êtes **là**, pour ne pas vous laisser repartir les **ma
 
 
 **PS:** Vous ne nous connaissez-pas 😲? Il va falloir y remédier... 🧐 &#x21E8; Voir qui est [l'équipe SEAL](/about/) <br/>
-**PPS:** Merci à Ouwéis, l'un de nos étudiants, pour avoir travaillé avec nous sur la mise en place de cette plateforme 👍 Good job 😉 
+**PPS:** Merci à Ouwéis, l'un de nos étudiants, pour avoir travaillé avec nous sur la mise en place de cette plateforme 😉 Et merci à Mark de l'équipe Sécurité du LSE pour le déploiement 🤗 Good job everyone 👍  
