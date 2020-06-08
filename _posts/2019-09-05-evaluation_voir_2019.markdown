@@ -12,7 +12,7 @@ tags: [Ground robot, Education]
 # Jour J pour l'évaluation du module Vision par Ordinateur 
  
 
-Le cours **VOIR** (Vision par Ordinateur) de la majeure **GISTRE** (Génie Informatique des Systèmes Temps Réel et Embarqués) de l'Épita s'est achevé un peu avant l'été. L'**évaluation** du module qui se fait sous forme de **projet** par groupe de 4 s'est déroulée aujourd'hui.
+Le cours **VOIR** (Vision par Ordinateur) de la majeure **GISTRE** (Génie Informatique des Systèmes Temps Réel et Embarqués) de l'EPITA s'est achevé un peu avant l'été. L'**évaluation** du module qui se fait sous forme de **projet** par groupe de 4 s'est déroulée aujourd'hui.
 
 > On est reparti de la **plateforme roulante** conçue pour l'évaluation du cours **Télédétection** (vecteurs, capteurs et applications) et on cherche toujours à suivre une **trajectoire**, mais cette fois-ci, on n'est plus en navigation à l'aveugle... Avec tout ce qu'on a appris, on va pouvoir faire un **asservissement vision** !
 
@@ -31,7 +31,7 @@ Pour l'occasion, les **plots** de couleurs utilisés pour marquer la trajectoire
 
 Les étudiants ont eu à disposition des **vidéos** de différentes trajectoires effectuées pour s'**entrainer** à la détection et peaufiner leurs solutions algorithmiques. Le tout doit pouvoir tourner en quasi **temps-réel** sur une **Raspberry Pi**. On leur a aussi laisser quelques plots pour qu'ils puissent tester leurs asservissements.
 
-> Et aujourd'hui, c'est le jour J : c'est parti pour un créneau de 3 heures dans la cours de l'Épita. Heureusement, il ne pleut pas ! ... Mais ce n'est pas un hasard hein, c'est de la compétence organisationnelle 😏
+> Et aujourd'hui, c'est le jour J : c'est parti pour un créneau de 3 heures dans la cours de l'EPITA. Heureusement, il ne pleut pas ! ... Mais ce n'est pas un hasard hein, c'est de la compétence organisationnelle 😏
 
 
 <center>

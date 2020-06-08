@@ -37,7 +37,7 @@ Bravo également à leurs concurrents 😉 Et merci à nos **partenaires** pour 
 
 
 {:refdef: style="text-align: center;"}
-**L'aventure vous a plu ?**<br/>**L'équipe SEAL de l'Épita recrute des étudiants dès la première année d'école d'ingénieur.**<br/> **Alors, pourquoi pas vous dans quelques années ?**
+**L'aventure vous a plu ?**<br/>**L'équipe SEAL de l'EPITA recrute des étudiants dès la première année d'école d'ingénieur.**<br/> **Alors, pourquoi pas vous dans quelques années ?**
 {: refdef}
 
 

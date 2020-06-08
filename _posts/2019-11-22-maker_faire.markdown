@@ -18,7 +18,7 @@ Ce week-end, c'est le salon du **Maker Faire** à Paris. Cet événement **mondi
 
 {:refdef: style="text-align: center;"}
 ![image]({{site.baseurl}}/assets/img/MakerFaire_2019/salon_01.jpg){: style="width:70%;"}<br/>
-**Et on y était 👋 Bienvenue sur le stand de l'Épita 😃!**
+**Et on y était 👋 Bienvenue sur le stand de l'EPITA 😃!**
 {: refdef}
 
 

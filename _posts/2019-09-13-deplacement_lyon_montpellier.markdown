@@ -11,7 +11,7 @@ tags: [Sensors, Education, Research]
 
 # Déplacements à Lyon et Montpellier
 
-C'est la **semaine de la recherche** à l'Épita. À cette occasion, les équipes présentent leur travaux aux étudiants en fin du **cycle préparatoire**. En plus de la présentation sur le site de **Paris**, chaque équipe se déplace physiquement dans l'un des sites préparatoires en **région** : pour l'équipe SEAL, le rendez-vous est fixé à **Lyon** !
+C'est la **semaine de la recherche** à l'EPITA. À cette occasion, les équipes présentent leur travaux aux étudiants en fin du **cycle préparatoire**. En plus de la présentation sur le site de **Paris**, chaque équipe se déplace physiquement dans l'un des sites préparatoires en **région** : pour l'équipe SEAL, le rendez-vous est fixé à **Lyon** !
 
 {:refdef: style="text-align: center;"}
 ![image]({{site.baseurl}}/assets/img/Lyon_Montpellier_09_2019/presentation_recherche_paris_lyon.jpg){: style="width:60%;"}<br/>

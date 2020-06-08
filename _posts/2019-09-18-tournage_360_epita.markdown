@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tournage 360° Épita"
+title: "Tournage 360° EPITA"
 img: tournage_360_epita_09_2019.jpg # Add image post (optional)
 date: 2019-09-18 18:00:00 +0100
 description: Tournage d'une vidéo 360° pour présenter l'Épita
@@ -9,9 +9,9 @@ tags: [Lab life, Underwater robot]
 --- 
 
 
-# Tournage d'une vidéo 360° pour présenter l'Épita
+# Tournage d'une vidéo 360° pour présenter l'EPITA
 
-Aujourd'hui, une équipe de **tournage** 🎥 se déplace à l'école pour réaliser une **vidéo à 360°** de présentation de l'Épita.
+Aujourd'hui, une équipe de **tournage** 🎥 se déplace à l'école pour réaliser une **vidéo à 360°** de présentation de l'EPITA.
 
 > L'équipe SEAL s'est mobilisée pour proposer une démonstration de son robot sous-marin, Ryujin, dans la petite piscine du lab. 
 
