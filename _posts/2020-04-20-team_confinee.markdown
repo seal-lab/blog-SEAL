@@ -64,7 +64,7 @@ Sur nos machines, le support d'une visière s'imprime en moyenne en 1h30 🕜 il
 
 > Nous avons produit et distribué au total 855 visières 🤗 (chiffre mis à jour le 01/06) avec 3-4 imprimantes. À ce rythme, les machines sont mises à rude épreuve et nous sommes obligés de les ménager quelques heures par jours pour qu'elles ne nous lâchent pas 🙄
 
-D'autres **personnels** de l'Épita des différents sites, ainsi que des **étudiants** équipés d'imprimantes 3D sont également mobilisés pour produire des **visières** dans leur département 👍
+D'autres **personnels** de l'EPITA des différents sites, ainsi que des **étudiants** équipés d'imprimantes 3D sont également mobilisés pour produire des **visières** dans leur département 👍
 
 
 <!-- ## Folding@Home -->
@@ -79,7 +79,7 @@ Par ailleurs, nous avons mis les **étudiants** de notre équipe à **contributi
 </center>
 
 <br/>
-> Les salles machines de l'Épita, inutilisées à cause de la fermeture des campus, ont également été mises à contribution pour l'occasion ! 👍
+> Les salles machines de l'EPITA, inutilisées à cause de la fermeture des campus, ont également été mises à contribution pour l'occasion ! 👍
 
 Grâce à tous les **contributeurs**, des calculs qui prendraient **plusieurs centaines d'années** à un ordinateur classique peuvent se faire en **quelques semaines** 😮! Le **super-calculateur** ainsi créé est plus **rapide** que les **7** premiers superordinateurs du monde **cumulés** 👏 Une autre facette des **[sciences participatives]({% post_url 2019-12-27-inaturalist %})** comme on les aime 😉!    
 

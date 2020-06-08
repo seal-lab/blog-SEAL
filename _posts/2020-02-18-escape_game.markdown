@@ -9,10 +9,10 @@ tags: [Lab life]
 --- 
 
 
-# Des lycéens participent à l'Escape Game de l'Épita pour découvrir l'école
+# Des lycéens participent à l'Escape Game de l'EPITA pour découvrir l'école
 
 
-Deuxième édition de l'Escape Game "**<em>Alerte : cyber-attaque à l’hôpital</em>**" de l'Épita avec de **nouveaux décors** mais aussi des **nouvelles épreuves**. Les **équipes de recherche** sont de nouveau mobilisées pour animer le jeu et l'équipe SEAL est sur le pont 👌! 
+Deuxième édition de l'Escape Game "**<em>Alerte : cyber-attaque à l’hôpital</em>**" de l'EPITA avec de **nouveaux décors** mais aussi des **nouvelles épreuves**. Les **équipes de recherche** sont de nouveau mobilisées pour animer le jeu et l'équipe SEAL est sur le pont 👌! 
 
 
 {:refdef: style="text-align: center;"}

@@ -31,7 +31,7 @@ Pour l'occasion, l'équipe a sorti ses différents **robots** et des **vidéos**
 {: refdef}
 
 
-Il était également possible de visionner 🕶 [le film 360° de l'Épita]({% post_url 2019-09-18-tournage_360_epita %}) en immersion grâce à nos **casques** de **réalité virtuelle**.
+Il était également possible de visionner 🕶 [le film 360° de l'EPITA]({% post_url 2019-09-18-tournage_360_epita %}) en immersion grâce à nos **casques** de **réalité virtuelle**.
  
 {:refdef: style="text-align: center;"}
 ![image]({{site.baseurl}}/assets/img/MakerFaire_2019/salon_04.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/MakerFaire_2019/salon_05.jpg){: style="width:49%;"}<br/>
@@ -45,7 +45,7 @@ Il était également possible de visionner 🕶 [le film 360° de l'Épita]({% p
 <br/><strong>Interview pendant le salon</strong>
 </center>
 
-<br/>*&#x21E8; Les lycéens peuvent retrouver notre atelier araignée d'initiation à la robotique lors des [journées d'immersion]({% post_url 2020-03-07-epita_inside %}) de l'Épita 😉*
+<br/>*&#x21E8; Les lycéens peuvent retrouver notre atelier araignée d'initiation à la robotique lors des [journées d'immersion]({% post_url 2020-03-07-epita_inside %}) de l'EPITA 😉*
 
 
 

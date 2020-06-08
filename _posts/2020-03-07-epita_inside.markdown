@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Épita Inside 2020"
+title: "EPITA Inside 2020"
 img:  epita_inside_2020/epita_inside_2020.jpg # Add image post (optional)
 date: 2020-03-07 18:00:00 +0100
 description: Ateliers pour découvrir l'école à destination des lycéens 
@@ -9,10 +9,10 @@ tags: [Lab life]
 --- 
 
 
-# Des lycéens participent à Épita Inside pour découvrir l'école
+# Des lycéens participent à EPITA Inside pour découvrir l'école
 
 
-Aujourd'hui, c'est **Épita Inside**, une **journée d'immersion** à destination des **lycéens** un peu spéciale pour mieux comprendre les **domaines** des métiers du **numérique**, de l’**informatique** et de l’**innovation**. 
+Aujourd'hui, c'est **EPITA Inside**, une **journée d'immersion** à destination des **lycéens** un peu spéciale pour mieux comprendre les **domaines** des métiers du **numérique**, de l’**informatique** et de l’**innovation**. 
 
 > Conférences 💬 et ateliers ⚒ sont au programme de cette riche journée. L'équipe SEAL, pour sa part, anime l'atelier "🕷Spider Master🕷" 
 
