@@ -47,6 +47,7 @@ Sur les trajectoires automatiques, il va falloir retravailler car les tests n'on
 
 
 *&#x21E8; Voir* : [la mission à Nice 2019]({% post_url 2019-10-14-mission_nice_2019_01 %})<br/>
+*&#x21E8; Voir* : [le post suivant sur les tests du catamaran à Jouy-en-Josas]({% post_url 2020-09-11-tests_catamaran_jouy_02 %})<br/>
 
 
 
