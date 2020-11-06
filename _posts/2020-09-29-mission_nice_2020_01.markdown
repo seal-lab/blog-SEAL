@@ -1,0 +1,83 @@
+---
+layout: post
+title: "Mission Nice 2020 &#x266F;01"
+img: Nice_09_2020/mission_nice_mardi.jpg # Add image post (optional)
+date: 2020-09-29 18:00:00 +0100
+description: Trois jours de mission à Nice (&#x266F;01)
+categories: [Recherche]
+tags: [Surface robot, Sensors, Research]
+--- 
+
+
+# Premier jour de mission à Nice
+
+Nous voilà repartis pour **Nice** avec **Kraken**, notre **catamaran**, pour une nouvelle **mission** de tests en mer. Cette année, on fait le trajet en voiture 🚙 plutôt qu'en train 🚅, et comme on a encore un peu plus de matériel que l'[année dernière]({% post_url 2019-10-14-mission_nice_2019_01 %}) à transporter, ce choix s'est avéré fort avisé malgré les 10-12h de transit 😅! 
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_depart.jpg){: style="width:55%;"}<br/>
+**On était à 100 Kg 💪 par le train, là... 🙄 on a renoncé à peser... 😜**
+{: refdef}
+
+
+Les **objectifs** de cette mission sont d'une part de voir si les **changements** effectués sur le robot depuis l'année dernière sont **validés** sur nos **zones de tests marines** et d'autre part pouvoir rapporter des **couples d'images synchronisées** 📷 d'un fond équipé (mires pour former les points de contrôle + réseau de mesures 📐 pour avoir la vérité terrain), **géolocalisés** 📍 et acquis sur **trajectoires automatiques** ➿. 
+
+
+> On a décalé notre départ d'une semaine en **dernière minute** 😖 car les **prévisions météorologiques** à moins de trois jours annonçaient de la **pluie** en continu 🌧️ sur toute la semaine dernière et beaucoup de **vent** 💨 (finalement ça n'a pas été aussi terrible qu'annoncé 😩 mais on ne pouvait pas prendre le risque 😓). 
+
+
+Après l'**installation** et la **préparation** du matériel, on passe louer les blocs puis direction le **Cap d'Antibe** pour effectuer la **plongée de réadaptation**‍ 👨‍🚀 On profite de ce temps nécessaire d'un point de vue **sécurité** pour tester, en plus du matériel de plongée, tout le **matériel d'acquisition**, mais aussi pour **explorer** de nouveaux fonds 🤠 qui deviendront peut-être des **futures zones d'expérimentation**. 
+
+> 🧐 L'**expérience** l'a montré à maintes reprises : il est important que nous ayons des **plans de replis** en fonction de la météo 🌤️. 
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_mardi_plongee_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_mardi_plongee_02.jpg){: style="width:49%;"}<br/>
+**Parrés à plonger 👌 Woahh 😮 ça existe une mer calme pour entrer dans l'eau ? On n'est pas habitués 😛!**
+{: refdef}
+
+Nous partons de la plage de la **Pointe Ouest** pour une heure et demi ⏱️ de plongée. Les **nuages** couvrent un peu le ciel ⛅ ce qui réduit la **visibilité** sous l'eau, mais la **mer** est plutôt **calme**. 
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_mardi_plongee_03.png){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_mardi_plongee_04.png){: style="width:49%;"}<br/>
+**👎 C'est parti  ! 😁🤙**
+{: refdef}
+
+
+
+
+Le matériel **fonctionne** bien, les nouveaux pieds téléscopiques sont **pratiques**, la [nouvelle version du banc PiCam]({% post_url 2020-09-11-tests_catamaran_jouy_02 %}) a le **comportement attendu** et il n'y a plus de **buée** sur la caméra à 360° 👌 La **diversité** des fonds nous permet de prendre des vidéos que nous pourrons utiliser pour **tester des algorithmes** ou pour des **projets pédagogiques**.
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_mardi_fonds_01.png){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_mardi_fonds_02.png){: style="width:49%;"}<br/>
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_mardi_fonds_03.png){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_mardi_fonds_04.png){: style="width:49%;"}<br/>
+**Exemples de fonds au-dessus desquels on a enregistré des vidéos 🎥 de survols pour tester la détection d'amers par exemple pour des algorithmes de navigation**
+{: refdef}
+
+
+
+> On n'oublie pas les petits prélèvements (photographiques 📸) de **faune** 🐠 et **flore** 🌱 pour les [observatoires de la biodiversité]({% post_url 2019-12-27-inaturalist %}) 🌎.
+
+Au cours de la plongée, en plus des habituels castagnoles, sars, saupes, mérous, méduses, serrans, girelles, apogons et rascasses, on a croisé une bébé **murène**, des **dorades royales**, une jolie **seiche** dansante et un **poisson lézard** qui a surgit hors de son camouflage ensablé. 
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_mardi_faune_01.png){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_mardi_faune_02.png){: style="width:49%;"}<br/>
+**Une jolie seiche qui s'éloigne prudement en marche arrière et un petit poisson lézard qui s'est désablé**
+{: refdef}
+
+
+
+**Fin de plongée** (même pas froid 😬) : humains et matériels sont **prêts** pour les tests du lendemain 👌! Retour au camp de base. 
+
+<!-- *&#x21E8; Lire la suite* : [Mission Nice 2020 &#x266F;02]({% post_url 2019-10-15-mission_nice_2019_02 %})<br/> -->
+*&#x21E6; Revivre* : [la mission de Nice 2019]({% post_url 2019-10-14-mission_nice_2019_01 %})<br/>
+
+
+
+
+
+
+
+
