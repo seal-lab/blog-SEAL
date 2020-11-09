@@ -62,7 +62,8 @@ Les changements apportés depuis le dernier [test terrain]({% post_url 2019-10-1
 
 Retour au camp de base. On va voir ce qui peut être résolu durant la nuit tout en préparant la **mission sous-marine**. 
 
-*&#x21E8; Lire la suite* : [Mission Nice 2019 &#x266F;02]({% post_url 2019-10-15-mission_nice_2019_02 %})
+*&#x21E8; Lire la suite* : [Mission Nice 2019 &#x266F;02]({% post_url 2019-10-15-mission_nice_2019_02 %})<br/>
+*&#x21E8; Voir la* : [Mission à Nice 2020]({% post_url 2020-09-29-mission_nice_2020_01 %})<br/>
 
 
 

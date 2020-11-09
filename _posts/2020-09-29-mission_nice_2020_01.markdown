@@ -47,7 +47,7 @@ Nous partons de la plage de la **Pointe Ouest** pour une heure et demi ⏱️ de
 
 
 
-Le matériel **fonctionne** bien, les nouveaux pieds téléscopiques sont **pratiques**, la [nouvelle version du banc PiCam]({% post_url 2020-09-11-tests_catamaran_jouy_02 %}) a le **comportement attendu** et il n'y a plus de **buée** sur la caméra à 360° 👌 La **diversité** des fonds nous permet de prendre des vidéos que nous pourrons utiliser pour **tester des algorithmes** ou pour des **projets pédagogiques**.
+Le matériel **fonctionne** bien, les nouveaux pieds téléscopiques sont **pratiques**, la [nouvelle version du banc PiCam]({% post_url 2020-09-11-tests_catamaran_jouy_02 %}) a le **comportement attendu** et il n'y a plus de **buée** sur la caméra à 360° 👌 La **diversité** des fonds nous permet de prendre des vidéos 🎞️ que nous pourrons utiliser pour **tester des algorithmes** ou pour des **projets pédagogiques**.
 
 {:refdef: style="text-align: center;"}
 ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_mardi_fonds_01.png){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_mardi_fonds_02.png){: style="width:49%;"}<br/>
@@ -71,7 +71,7 @@ Au cours de la plongée, en plus des habituels castagnoles, sars, saupes, mérou
 
 **Fin de plongée** (même pas froid 😬) : humains et matériels sont **prêts** pour les tests du lendemain 👌! Retour au camp de base. 
 
-<!-- *&#x21E8; Lire la suite* : [Mission Nice 2020 &#x266F;02]({% post_url 2019-10-15-mission_nice_2019_02 %})<br/> -->
+*&#x21E8; Lire la suite* : [Mission Nice 2020 &#x266F;02]({% post_url 2020-09-30-mission_nice_2020_02 %})<br/>
 *&#x21E6; Revivre* : [la mission de Nice 2019]({% post_url 2019-10-14-mission_nice_2019_01 %})<br/>
 
 
