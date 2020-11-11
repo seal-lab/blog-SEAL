@@ -1,0 +1,143 @@
+---
+layout: post
+title: "Mission Nice 2020 &#x266F;03"
+img: Nice_09_2020/mission_nice_jeudi.png # Add image post (optional)
+date: 2020-10-01 18:00:00 +0100
+description: Trois jours de mission à Nice (&#x266F;03)
+categories: [Recherche]
+tags: [Surface robot, Sensors, Research]
+--- 
+
+
+# Troisième jour de mission à Nice
+
+La **dégradation météo** 🌧️ prévue en fin de semaine se précise et ça ne sera pas une **simple perturbation** : les niveaux d'**alertes** 📣 montent crescendo sur la région. Ok, 🙄 on est coutumier des événements météorologiques **exceptionnels** en mission... 
+
+> 🤔 On se souvient des intempéries dilluviennes 🌧️ qui avaient provoqué de terribles innondations 😓 sur la côte méditerrannéene en **octobre 2015** et qui nous avaient poussés à faire route 🚙 jusqu'à Collioure 🏔️ pour finaliser la mission (vigilence orange 🔶). 
+
+Ou encore, on se souvient de **Leslie**, l'**ouragan zombie** 🌀 qui avait attendu des semaines avant de se décider à accoster la péninsule ibérique en provoquant un **épisode cévenole** mémorable 😰 pendant [notre mission à **Montpellier** en **octobre 2018**]({% post_url 2020-04-25-aqueduc_castries %}) (vigilence orange 🔶).
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/souvenirs_2015.jpg){: style="width:33%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/souvenirs_2018.png){: style="width:33%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/souvenirs_2019.jpg){: style="width:33%;"}<br/>
+**Octobres 2015 et 2018 sur la côte d'améthyste et octobre 2019 sur la côte de la riviera**
+{: refdef}
+
+
+> Et puis on se souvient aussi de la puissante ligne de **grains orageux** ⛈️ venue de l'ouest qui avait traversé la France et provoqué un important **épisode méditerrannéen** 😳 [l'année dernière à **Nice** (octobre 2019)]({% post_url 2019-10-14-mission_nice_2019_01 %}) en nous laissant une mer démontée 🌊 pour le reste de la semaine (vigilence jaune ⚠️)...
+
+Mais là, on grimpe d'un cran 😱 (pourtant on est parti en septembre...) : **vigilence rouge** 🔴, la **tempête Alex** 🌀 est une **bombe météorologique** 💥, c'est-à-dire une **dépression profonde** qui se forme très rapidement (perte d'une trentaine d’hectopascals en moins de 6 heures) et à proximité des côtes. 
+
+> Bien qu'elle passe sur la Bretagne, ses **bras tentaculaires** 🦑 vont trainer jusqu'au-dessus de la **Méditerranée** qui est encore très chaude à cette époque de l'année. 
+
+Les **vents** 💨 vont se charger massivement en eau, ce qui va déclencher un **épisode méditerranéen exceptionnel** sur la région. Cerise 🍒 sur le gâteau, quand le **coeur dépressionnaire** va arriver au niveau de la Manche, il va rebondir sur un anti-cyclone et faire **demi-tour** ➰ pour en remettre une couche dans l'autre sens...  
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_alerte_meteo_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_alerte_meteo_02.jpg){: style="width:49%;"}<br/> ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_alerte_meteo_03.jpg){: style="width:99%;"}<br/>
+**Les bulletins d'alerte pour aujourd'hui et demain et une vue d'Alex par satellite**
+{: refdef}
+
+
+
+😞 On avait prévu demain d'aller faire des **tests** dans l'arrière pays dans la **vallée de la Vésubie** en fonction de l'état de la mer, mais vu ce qui s'annonce, ❌ c'est en croix (on se rappelle encore de [la route sous l'orage]({% post_url 2019-10-14-mission_nice_2019_01 %})  l'an dernier en montant à Saint-Martin-Vésubie... 😨). 
+
+> Aujourd'hui, c'est donc un peu le dernier jour de mission, alors on tente la manipulation complète : équipement de terrain et parcours automatique de zones. 
+
+
+Entre la veille au soir et le matin, on prépare les **plans de vol** ✈️. On envisage **différentes zones**, à la fois pour leurs **intérêts** et leurs **expositions** variées afin de parer aux imprévus, mais aussi **différents types de parcours** : tests (pour vérifier qu'il n'y a pas de décalage entre les points 📍 sur la carte satellite 🛰️ et les points réels), petit parcours, grand parcours, trajectoires en radiateur ou en colimaçon, etc. 
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_trajectoire_02.png){: style="width:49%;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_trajectoire_03.png){: style="width:49%;"}<br/> 
+**Exemples de tajectoires sur le cap de Nice et sur la zone de l'Aquarium**
+{: refdef}
+
+
+Pour atteindre notre **plateforme de test** au **Cap de Nice**, il faut au moins un bon **demi-kilomètre** 👣 sur le chemin de pierre du **Sentier du Littoral** (il faut rajouter la distance à la voiture 🚙 en fonction de l'endroit où on a trouvé une place pour se garer).
+
+> 😭 Ça fait donc un sacré paquet d'allers-retours pour transporter tout le matériel nécessaire à la manipulation complète 
+
+Rien qu'en comptant les **plombs** des ceintures de plongée et des mires de marquage, on monte à 20 Kg 🏋️‍, alors on **dépasse** allègrement les 100 Kg 💪 si on **rajoute** le robot, la station sol, les outils, le matériel d'équipement de terrain, le matériel de plongée, etc.. 😤 Et c'est sans compter la descente du matériel en **contre-bas** sur la plateforme 🧗‍ et le fait que l'on ne peut pas laisser le matériel **sans surveillance** 👀... 
+
+
+> Pour gagner du temps, on décide de partir de la **plage des Bains Militaires**, à côté du port : la distance pour **décharger** est réduite à 50m, puis on fait le trajet en **kayak** 🛶 pour rejoindre les zones de tests. C'est Archimède qui porte et on peut même rejoindre des zones inaccessibles du bord, comme l'Aquarium !  
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_kayak_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_kayak_02.png){: style="width:49%;"}<br/> 
+**Et les Navy-Shadoks pompaient, pompaient... Laaarguez les amarres : et on pagaie 🚣‍, on pagaie 🚣‍!**
+{: refdef}
+
+Kayak gonflé et matériel chargé, le ciel est globalement **dégagé**, la mer est **calme**, la voiture est garée (malgré le fait que les **places de stationnement** alentours ont toutes été fermées dans la nuit pour cause de risque d'**éboulement**) : on **embarque** pour rejoindre le Cap de Nice 🚣‍! Mais le temps de la **traversée**, la **houle** se forme de minute en minute. Les premiers effets de la tempête 🌀 se font déjà sentir, ça doit fortement secouer en haute-mer 🌊 ! 
+
+> On fait attention pour ne pas se retourner et perdre le matos par 30m de fond... 😳 
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_accostage_01.png){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_accostage_02.png){: style="width:49%;"}<br/> 
+**Arrivés à la plateforme, on décide de débarquer : la route retour par kayak sera impossible car les creux font déjà presque 1 mètre**
+{: refdef}
+
+Les tests seront donc menés depuis la **terre ferme** (😢 au revoir la zone de l'Aquarium pour ce coup-ci). Vu les **conditions**, on tire aussi un trait sur l'**équipement de terrain** en plongée. De toute façon, ça secoue tellement que les **images** seront **inexploitables**.
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_tests_01.png){: style="width:33%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_tests_02.jpg){: style="width:33%;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_tests_03.png){: style="width:33%;"}<br/> 
+**Station sol 🎮 *ready*, plongeur de sécurité 🏊‍ à l'eau : on lance les premières trajectoires**
+{: refdef}
+
+
+ Ça se passe plutôt bien, avec les mêmes petits problèmes repérés hier. Après les **trajectoires d'essai**, on passe aux différentes **trajectoires en radiateur**. Tout se passe comme prévu sur les premiers tests, mais la houle a continuer de se renforcer et à un moment, une grosse **déferlante** passe par dessus le catamaran (et le plongeur) 🐳. 
+
+> Or sa méca (du catamaran, hein, pas du plongeur 😉) est encore au stade du prototype : elle résiste aux petites projections, mais elle n'est pas faite pour la submersion... 🙄
+
+De l'**eau** 💦💦 a dû rentrer dans le système, car la **liaison** avec le robot et la station au sol est **brusquement coupée** ❌. Mais surtout, il semble s'**asservir** sur un point **lointain** qui n'était pas dans la plannification de trajectoire : 🧟 il part plein gaz, cap à l'**Est** (heureusement que ce point mirage 👻 ne s'est pas trouvé en direction du large... 😱) et se prend au passage toutes les vagues de travers .  
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_tests_04.png){: style="width:75%;"}<br/> 
+**Le plongeur 🏊‍ finit par le rattraper et le ramener à la plateforme : *time out...***
+{: refdef}
+
+
+La mer est déchaînée, il est temps de **stopper les tests** 🙅‍ et de commencer à **ramener** le matériel par la voie terrestre. C'est long 😒, c'est lourd 😣, mais au moins le **spectacle des vagues** 🌊 est **magnifique** 😲😊. 
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_fin_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_fin_02.png){: style="width:49%;"}<br/> 
+**Remontée du matériel là-haut sur le chemin... 🦎**
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_fin_03.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_fin_04.jpg){: style="width:49%;"}<br/> 
+**Puis ce sont les allers-retours 😤 : plus que la moitié... Et ça y est, c'est le dernier trajet, yay 😁 !!!**
+{: refdef}
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_vagues_01.jpg){: style="width:33%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_vagues_02.png){: style="width:33%;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_jeudi_vagues_03.png){: style="width:33%;"}<br/> 
+**Les vagues montent à l'assaut du Sentier du Littoral, on confirme : le kayak retour, ce n'était pas possible 🐬!**
+{: refdef}
+
+
+De l'alerte orange, on glisse à l'**alerte rouge**, c'est la **fin** prématurée de la mission. On rend les **blocs** le vendredi et on **packe** tout le matériel. L'**apocalypse** déferle sur la région. Reste maintenant à s'en extraire en sécurité et revenir à Paris, pas simple...  
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_vendredi_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_vendredi_03.png){: style="width:49%;"}<br/> 
+![image]({{site.baseurl}}/assets/img/Nice_09_2020/mission_nice_vendredi_02.jpg){: style="width:99%;"}<br/> 
+<!-- **Les vagues montent à l'assaut du Sentier du Littoral, on confirme 🐬 : le kayak retour, ce n'était pas possible !** -->
+{: refdef}
+
+
+
+
+*&#x21E6; Voir le post précédent* : [Mission Nice 2020 &#x266F;02]({% post_url 2020-09-30-mission_nice_2020_02 %})
+
+
+
+
+
+
+
+

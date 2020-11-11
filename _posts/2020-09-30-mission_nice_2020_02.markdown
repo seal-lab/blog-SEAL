@@ -61,7 +61,7 @@ Voici le **résultat** après **montage** 🕶️ :
 **On a récolté au passage quelques séquences bêtisier, que nous allons pour l'instant classifier top secret...**
 {: refdef}
 
-La conférence touche à sa **fin** : 👋🌏 *bye bye the world!* Heureusement, car les **batteries** de l'ordinateur 💻 étaient elles-aussi sur leur fin (on a de quoi recharger les téléphones sur le terrain, mais on n'est pas encore équipés pour les ordinateurs...). On se **rédéploie** sur notre plateforme de test habituelle qui est à deux pas 👣. 
+La conférence touche à sa **fin** : 👋🌏 *bye bye the world!* Heureusement, car les **batteries** 🔋 de l'ordinateur 💻 étaient elles-aussi sur leur fin (on a de quoi recharger les téléphones sur le terrain, mais on n'est pas encore équipés pour les ordinateurs...). On se **rédéploie** sur notre plateforme de test habituelle qui est à deux pas 👣. 
 
 > 🏃‍🏃‍ Vite, vite, les **nuages** 🌤️ ont subrepticement colonisés le ciel et la luminosité 💡 a suffisament baissé pour que sous l'eau on ait l'impression d'être beaucoup plus profond qu'en réalité... 
 
@@ -96,7 +96,7 @@ De retour au camp de base, on a pu vérifier que les **images** étaient bien pr
  
 
 
-<!-- *&#x21E8; Lire la suite* : [Mission Nice 2020 &#x266F;03]({% post_url 2019-10-16-mission_nice_2019_03 %})<br/> -->
+*&#x21E8; Lire la suite* : [Mission Nice 2020 &#x266F;03]({% post_url 2020-10-01-mission_nice_2020_03 %})<br/> 
 *&#x21E6; Voir le post précédent* : [Mission Nice 2020 &#x266F;01]({% post_url 2020-09-29-mission_nice_2020_01 %})
 
 
