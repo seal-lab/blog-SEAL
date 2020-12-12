@@ -2,7 +2,7 @@
 layout: post
 title: "Recrutement 2021: Liftoff !"
 img: recrutement_seal_2021/recrutement_seal_2021.jpg # Add image post (optional)
-date: 2020-12-12 18:00:00 +0100
+date: 2020-12-12 16:00:00 +0100
 description: Parcours d'étudiants
 categories: [Lab]
 tags: [Lab life]
