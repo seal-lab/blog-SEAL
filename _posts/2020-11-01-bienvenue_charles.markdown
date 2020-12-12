@@ -12,7 +12,7 @@ tags: [Lab life, Research]
 # *Parcours d'étudiants SEAL* #01
 
 
-Nous avons le plaisir ce mois-ci d'**accueillir** au sein de notre équipe **Charles Villard** qui débute sa **thèse de doctorat** pour une durée de **3 ans**. Pour l'occasion, nous lui avons demandé de parler un peu de **lui**, de son **parcours** et de ses **projets**. 
+*Nous avons le plaisir ce mois-ci d'**accueillir** au sein de notre équipe **Charles Villard** qui débute sa **thèse de doctorat** pour une durée de **3 ans**. Pour l'occasion, nous lui avons demandé de parler un peu de **lui**, de son **parcours** et de ses **projets**.*
 
 ## 🎙️ "Peux-tu te présenter ?"
 
@@ -151,8 +151,9 @@ Après la thèse je songe à créer mon entreprise dans les thématiques de ma t
 ![image]({{site.baseurl}}/assets/img/bienvenue_charles_11_2020/charles_and_2L.jpg){: style="width:70%;"}<br/>
 {: refdef}
 
-🎬 Et voilà ! Un grand merci Charles pour avoir participé à cet **interview**, on te souhaite trois belles (et intenses) années de **thèse** avec nous ! En espérant que ton parcours en **inspire** d'autres 😉!
+*🎬 Et voilà ! Un grand merci Charles pour avoir participé à cet **interview**, on te souhaite trois belles (et intenses) années de **thèse** avec nous ! En espérant que ton parcours en **inspire** d'autres 😉!*
 
+<!-- *&#x21E8; Voir le post suivant de la chronique **Parcours d'étudiants SEAL*** : [Martin en stage au LIRMM &#x266F;02]({% post_url 2020-12-12-martin_lirmm_2020 %})<br/> -->
 
 
 

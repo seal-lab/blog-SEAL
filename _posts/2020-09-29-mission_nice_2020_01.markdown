@@ -59,7 +59,7 @@ Le matériel **fonctionne** bien, les nouveaux pieds téléscopiques sont **prat
 
 > On n'oublie pas les petits prélèvements (photographiques 📸) de **faune** 🐠 et **flore** 🌱 pour les [observatoires de la biodiversité]({% post_url 2019-12-27-inaturalist %}) 🌎.
 
-Au cours de la plongée, en plus des habituels castagnoles, sars, saupes, mérous, méduses, serrans, girelles, apogons et rascasses, on a croisé une bébé **murène**, des **dorades royales**, une jolie **seiche** dansante et un **poisson lézard** qui a surgit hors de son camouflage ensablé. 
+Au cours de la plongée, en plus des habituels castagnoles, sars, saupes, mérous, méduses, serrans, girelles, apogons et rascasses, on a croisé une bébé **murène** (*Muraena helena*), des **dorades royales** (*Sparus aurata*), un **oursin granuleux** (*Sphaerechinus granularis*), une jolie **seiche** (*Sepia officinalis*) dansante et un **poisson lézard** (*Synodus saurus*) qui a surgit hors de son camouflage ensablé. 
 
 
 {:refdef: style="text-align: center;"}

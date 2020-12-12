@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recrutement SEAL"
+title: "Recrutement SEAL 2020"
 img: recrutement_seal_2019/seal_haggle.jpg # Add image post (optional)
 date: 2020-01-22 18:00:00 +0100
 description: Dernière épreuve du recrutement des étudiants pour intégrer l'équipe SEAL
@@ -38,8 +38,9 @@ Pour l'occasion, tout le monde participe : les **candidats** évidemment, mais a
 En attendant, on souhaite **bon courage** aux **candidats** pour cette dernière ligne droite ! 
 
 
-*&#x21E8; Découvrez [la nouvelle équipe étudiante 2020]({% post_url 2020-01-31-nouvelle_equipe_etudiante %})*
+*&#x21E8; Découvrez [la nouvelle équipe étudiante 2020]({% post_url 2020-01-31-nouvelle_equipe_etudiante %})*<br/>
 
+*&#x21E8; Voir le post du [recrutement 2021]({% post_url 2020-12-12-recrutement_seal_2021 %})*
 
 
 
