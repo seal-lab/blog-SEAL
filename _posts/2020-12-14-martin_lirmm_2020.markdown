@@ -1,0 +1,159 @@
+---
+layout: post
+title: "Martin en stage au LIRMM"
+img: martin_lirmm_2020/martin_lirmm_2020.jpg # Add image post (optional)
+date: 2020-12-14 08:00:00 +0100
+description: Parcours d'étudiants
+categories: [Lab]
+tags: [Lab life]
+--- 
+
+
+# *Parcours d'étudiants SEAL* #02
+
+*Martin a passé 6 premiers mois dans notre équipe SEAL et après avoir validé sa licence 3 (ING1), il est actuellement en stage pour 4 mois au LIRMM, l'un de nos partenaires de recherche, avant de revenir faire sa majeure à l'école sur le cycle master. Dans cet interview, il nous parle un peu de son parcours et de son expérience au sein de l'un des plus gros laboratoires de robotique sous-marine de France.*
+
+## 🎙️ "Bonjour Martin, peux-tu te présenter ?"
+
+Je m’appelle Martin Labé, je viens de région parisienne. Après un bac scientifique, j’ai fait une prépa PTSI/PT* à Cachan (maths, physique, avec beaucoup de sciences de l’ingénieur) à l’issue de laquelle j’ai intégré l’École de l’Air en tant qu’élève officier par attrait pour les drones, la cybersécurité et leurs enjeux dans notre défense nationale. 
+
+> La découverte de cet environnement m’a beaucoup intéressé et enrichi. 
+
+J’y ai développé rigueur, détermination et entraide, mais je me suis rapidement rendu compte que si l’environnement lié à la Défense m’intéressait, le métier d’officier --- c’est-à-dire de commandement militaire --- n’était pas celui qui me correspondait. 
+
+> J’ai donc décidé d’emprunter une autre voie pour découvrir en profondeur les aspects techniques des domaines qui m’avaient conduit à intégrer l’École de l’Air et c’est pourquoi j’ai choisi de rejoindre l’EPITA.
+
+Après une intégration militaire musclée, la fameuse *piscine* de l’EPITA et l’intense période du début du cycle ingénieur, j’étais assez secoué, mais j’avais encore envie --- allez savoir pourquoi 😉 --- de m’investir davantage, de travailler, de développer, et de rechercher à fond dans un domaine. 
+
+> Quand j’ai découvert les opportunités des laboratoires de l’école, j’ai sauté sur l’occasion, et quand j’ai rencontré l’équipe SEAL j’ai tout de suite voulu travailler avec eux.
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/seal_recrutement_2020_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/seal_recrutement_2020_02.jpg){: style="width:49%;"}<br/>
+**Le *Serious Game* qui tient lieu de dernière épreuve du recrutement : le *SEAL Haggle Robotique***
+{: refdef}
+
+
+## 🎙️ "Comment se sont passés tes 6 premiers mois dans l'équipe SEAL ?"
+
+À l’issue de la sélection sous forme de projets et de serious games, nous avons commencé par une semaine de formation sur les incontournables de la robotique, des concepts généraux à la prise en main des circuits intégrés.
+
+> Nous sommes ensuite rapidement entrés dans le vif du sujet, et ce que j’ai adoré c’est la manière originale de le faire. 
+
+Chacun des étudiants de l’équipe a choisi un domaine, un fil conducteur par rapport à ce qui l'intéressait le plus dans le vaste domaine de la robotique. Ensuite, le travail que nous devions faire paraissait toutes les deux semaines sous forme de challenges. Selon le sujet, un étudiant était désigné comme leader, et nous pouvions ensuite nous répartir comme bon nous semblait. 
+
+> J’ai particulièrement apprécié cette manière de travailler car elle m’a permis de découvrir et d’apprendre dans des domaines variés, toujours en équipe et en écrivant des rapports.
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/travaux_seal_03.png){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/travaux_seal_04.png){: style="width:49%;"}<br/>
+**Travail des étudiants SEAL sur la détection et l'identification automatique basé IA de mires d'étalonnage et de poissons avec Yolo**
+{: refdef}
+
+
+
+J’ai apprécié travailler sur la classification d’espèces de poissons à partir d’acquisitions terrain via des réseaux de neurones, reconstruire des ouvrages (aqueduc, statue, …) en trois dimensions à partir de leur survol en drone, et même reconstruire des pièces mécaniques par fraisage, toujours avec la possibilité de m’investir le plus sur le challenge que je trouvais le plus intéressant.
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/travaux_seal_01.png){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/travaux_seal_02.png){: style="width:49%;"}<br/>
+**Travail des étudiants SEAL sur la [modélisation 3D des hublots]({% post_url 2020-09-11-tests_catamaran_jouy_02 %}) des boîtiers caméras pour la fraiseuse numérique et sur la reconstruction 3D de [l'aqueduc de Castries]({% post_url 2020-04-25-aqueduc_castries %}) avec MicMac**
+{: refdef}
+
+
+## 🎙️ "L'équipe SEAL t'as proposé d'aller faire un stage chez l'un de ses partenaires, le LIRMM, qu'est-ce qui t'as intéressé dans cette opportunité ?"
+
+Premièrement, je voulais découvrir le milieu de la recherche, comprendre sa manière de fonctionner et comment on y travaille. De ce point de vue, je n’ai pas été déçu puisque je me retrouve dans une équipe très hétérogène (enseignant chercheur, ingénieur, doctorant, post-doctorant, entrepreneur, …) où chaque membre a une expertise, une spécialité propre à son domaine qui permet à l’équipe d’avancer de manière très complémentaire.
+
+> Ensuite, étant passionné par la robotique d’exploration, je voulais découvrir ses enjeux actuels dans le monde scientifique et les projets (parfois internationaux) qui portent cette discipline avec les acteurs qu’ils mobilisent.
+
+Faire mon stage dans un laboratoire aussi renommé que le LIRMM était une opportunité exceptionnelle. De plus le fait que le laboratoire soit en France était une chance par rapport à la crise du COVID.
+
+
+## 🎙️ "Sur quoi porte ton sujet de stage ?" 
+
+Je travaille en lien avec plusieurs projets. L’un d’entre eux est le projet KARST. Un robot subaquatique est envoyé dans des galeries souterraines immergées d’eau (les réseaux karstiques). Sa mission est de reconstruire son environnement en trois dimensions, à la fois pour être capable de s’y déplacer de manière autonome (SLAM), mais également pour cartographier l’environnement exploré de manière fiable et pour évaluer le volume d’eau contenu dans ces galeries. 
+
+> Ces informations sont utiles pour l’exploitation de l’eau, mais aussi pour prévoir les risques hydrogéologiques (ie. si ces réservoirs naturels pourront faire tampon lors d’intempéries, de tempêtes, etc…).
+
+Mon sujet de stage porte sur le développement d’un framework dédié à l’utilisation des sonars sur les robots. Comme les eaux peuvent être troublées, l’utilisation de systèmes optiques y est proscrite. On utilise alors plusieurs types de sonars (échosondeurs, sonar à tête rotative, caméra acoustique, ... ) pour faire de la vision acoustique. 
+
+> Ma mission est de proposer de la simplicité et de la généricité afin de gérer toute la chaîne de traitement des données : de leur acquisition, leur structuration, leur filtrage, jusqu’à leur reconstruction en trois dimensions à l’aide d’algorithmes développés en interne.
+
+
+## 🎙️ "Peux-tu nous partager ce que tu as le plus aimé jusqu'à maintenant ?"
+
+Dans le développement du framework, je dois implémenter des algorithmes en utilisant des outils mathématiques parfois assez poussés et c’est souvent de grandes découvertes pour moi. J’ai la chance de pouvoir poser toutes mes questions et de comprendre comment utiliser des outils insoupçonnés jusqu’à présent, comme les nombres hypercomplexes pour les transformations, les fonctions matricielles pour les interpolations, etc.
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/test_terrain_etang_thau_01.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/test_terrain_etang_thau_02.jpg){: style="width:49%;"}<br/>
+**Test du robot REMI du LIRMM à l'étang de Thau avec Adrien Hereau et José Luis Vilchis Medina**
+{: refdef}
+
+
+> D’un tout autre point de vue, j’ai aussi beaucoup apprécié participer aux expérimentations de l’équipe sur leurs robots en conditions réelles à l'étang de Thau. 
+
+C’était particulièrement motivant de tester les dernières avancées de l’équipe, de voir les problèmes que l’on peut rencontrer sur le terrain et les réussites juste avant leurs publications dans des articles scientifiques. J’ai vraiment vécu ça comme un instant joyeux et privilégié échangé avec l’équipe.
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/test_terrain_etang_thau_03.jpg){: style="width:24%;"} ![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/test_terrain_etang_thau_05.jpg){: style="width:24%;"} ![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/test_terrain_etang_thau_04.jpg){: style="width:24%;"} ![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/test_terrain_etang_thau_06.jpg){: style="width:24%;"}<br/>
+**Installation de la station sol, mise à l'eau (30 Kg !) et c'est parti pour les tests !**
+{: refdef}
+
+
+
+## 🎙️ "Quels sont tes challenges du moment ?"
+
+Durant mon stage j’ai pu voir les enjeux en robotique d’exploration de demain. Un défi particulièrement ardu et passionnant est l’autonomie complète lors des missions. 
+
+> Comment donner l’intelligence nécessaire à un robot pour qu’il décide en fonction de son environnement comment continuer au mieux sa mission ? Comment faire face aux évènements et être capable d’y réagir en prenant la meilleure décision ? Comment identifier les choses qui entourent le robot et peuvent entraver la mission ? 
+
+Ce sont autant de questions passionnantes auxquelles je m'intéresse en ce moment. J’essaye pour cela de me former en *machine learning* et je suis un cours en ligne afin de me préparer à travailler sur de telles problématiques.
+
+> Avec le confinement, j’ai mis en pause pas mal de choses, mais j’essaye de rentabiliser cette période un peu particulière pour faire des choses qui me tiennent à cœur et que je n’aurais pas pu faire autrement.
+
+## 🎙️ "Qu'est-ce qui est prévu d'ici la fin de ton stage ?"
+
+D’ici la fin de mon stage, je compte pousser l'implémentation de mon framework suffisamment loin pour intégrer les derniers travaux de l’équipe sur la reconstruction 3D. La stratégie développée au laboratoire est de diminuer les incertitudes des données en croisant les capteurs et en utilisant les éventuelles redondances d’informations. J’espère la voir intégrée dans mon travail avant de partir.
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/karst_terrain.jpg){: style="width:49%;"} ![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/karst_lab.jpg){: style="width:49%;"}<br/>
+**Fin de test, retour au LIRMM et dessalage pour poursuivre les travaux : ce n'est pas le travail qui manque !**
+{: refdef}
+
+
+> Par ailleurs, la période qui arrive est charnière pour l'équipe puisqu’elle va se renouveler. De nombreuses personnes devraient venir se joindre à l’équipe avec des nouvelles perspectives de recherche. J’ai hâte de voir ça.
+
+
+## 🎙️ "Et pour la suite de tes études, qu'est-ce que tu envisages ?"
+
+Le stage m’aura encore plus fait apprécier la robotique d’exploration. J’ai adoré travailler dans ce domaine et y développer autant de compétences transversales. Malgré ma formation initiale très orientée en sciences de l’ingénieur, j’ai surtout confirmé mon intérêt pour ce qui est communément appelé “le haut niveau”, c’est à dire lorsqu’on se sépare des problématiques matérielles du robot et qu’on cherche à fournir de l’abstraction et des fonctionnalités plus poussées.
+
+> Pour l’instant, j’ai l’impression d’avoir mûri mon projet grâce au stage. Néanmoins je pense qu’il me faudra encore un peu de temps avant de le confirmer. 
+
+J’étais assez intéressé par la majeure IMAGE et la majeur RECHERCHE mais finalement, j’aimerais bien m'orienter vers la majeure SCIA (*Sciences Cognitives et Informatique Avancée*) qui est spécialisée en *data science* et en intelligence artificielle. Je suis convaincu que c’est la majeure qui est le plus dans la continuité de ce qui m'intéresse et de ce que je veux faire aujourd’hui.
+
+> Pour la suite je pense que mon stage a définitivement eu de l’influence sur ma manière de réfléchir à mon projet professionnel. 
+
+La recherche m’a particulièrement intéressée, et j’aimerais commencer le début de ma carrière en développant cet aspect. Peut-être dans des laboratoires, dans des ministères ou dans des départements R&D d’entreprises, à vrai dire je ne sais pas trop pour le moment. En revanche j’aimerais beaucoup découvrir cela en allant à l’étranger.
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/martin_lirmm_2020/martin_avenir.jpg){: style="width:70%;"}<br/>
+{: refdef}
+
+
+<br/>
+
+
+*🎬 Et voilà ! Un grand merci Martin pour avoir participé à cet **interview**, on te souhaite une belle fin de stage et on te dit à très bientôt 😉!*
+
+
+<!-- *&#x21E8; Voir le post suivant de la chronique **Parcours d'étudiants SEAL*** : [Apolline en stage à A.I.Mergence &#x266F;03]({% post_url 2020-12-12-apolline_ai_mergence_2020 %})<br/>  -->
+*&#x21E6; Voir le post précédent de la chronique **Parcours d'étudiants SEAL*** : [Bienvenue Charles (&#x266F;01)]({% post_url 2020-11-01-bienvenue_charles %})
+
+
+
+
+
+
+

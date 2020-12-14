@@ -153,7 +153,7 @@ Après la thèse je songe à créer mon entreprise dans les thématiques de ma t
 
 *🎬 Et voilà ! Un grand merci Charles pour avoir participé à cet **interview**, on te souhaite trois belles (et intenses) années de **thèse** avec nous ! En espérant que ton parcours en **inspire** d'autres 😉!*
 
-
+*&#x21E8; Voir le post suivant de la chronique **Parcours d'étudiants SEAL*** : [Martin en stage au LIRMM &#x266F;02]({% post_url 2020-12-14-martin_lirmm_2020 %})<br/>
 
 
 
