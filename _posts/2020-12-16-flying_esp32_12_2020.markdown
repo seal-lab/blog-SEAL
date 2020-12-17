@@ -1,0 +1,109 @@
+---
+layout: post
+title: "Flying ESP32 🚀!"
+img: flying_ESP32_12_2020/flying_ESP32_12_2020.png # Add image post (optional)
+date: 2020-12-16 08:00:00 +0100
+description: Premier vol avec Ardupilot sur ESP32
+categories: [Recherche]
+tags: [Research, Aerial robot, Education]
+--- 
+
+
+# Premier envol de notre drone avec Ardupilot sur ESP32 👌
+
+Pour notre projet d'**architecture commune** entre tous nos robots 🤖 nous nous sommes basés sur le programme **[ArduPilot](https://ardupilot.org/ "Liens vers le projet ArduPilot")**. Il s'agit d'un projet **open-source** regroupant de nombreux **experts** du domaine des **drones légers** et des **modélistes** du monde entier 🌏.
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/flying_ESP32_12_2020/ardupilot_logo.png){: style="width:70%;"}<br/>
+<!-- ** ** -->
+{: refdef}
+
+> ArduPilot est un **autopilote** qui propose des briques d'autonomie complexes pour contrôler 🕹️ des drones multi-hélices 🚁, des avions ✈️, des voitures 🚗 ou des bateaux ⛵, ainsi que des sous-marins 🐳!
+
+Nous avons entrepris de porter ce programme 💻 sur un **nouveau micro-contrôleur** : l'**ESP32**. Celui-ci est très utilisé pour l'IoT et bénéficie d'une large communauté. ArduPilot est en général **uniquement disponible** sur des micro-contrôleurs **STM32** à **architecture ARM** qui nécessitent des cartes électroniques complexes et souvent coûteuses.
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/flying_ESP32_12_2020/ESP32_IMU_PCB.jpg){: style="width:49%;"}
+![image]({{site.baseurl}}/assets/img/flying_ESP32_12_2020/ESP32_CM.jpg){: style="width:49%;"}<br/>
+**L'ESP32, notre centrale d'attitude et la carte que nous avons designée pour aller sur tous nos robots**<br/> 
+(avant et après assemblage)
+{: refdef}
+
+
+> Ce portage facilite donc la construction d'un robot et réduit les coûts pour les briques de base de nos robots multi-milieux. Mais il a amené de nombreux challenges à résoudre ! 
+
+En effet, les **architectures *hardware*** entre l'ESP32 et les STM32 sont très **différentes** et ne disposent pas des mêmes **fonctionnalités**. Par exemple, l'ESP32 a introduit le **multi-cœurs** dans le monde des micro-contrôleurs. Or si on veut l'utiliser pour contrôler des véhicules, la **maîtrise fine du temps** ⏳ devient **primordiale** et il faut donc parfaitement gérer la **parallélisation** des tâches.
+ 
+> Autre problème de taille : venant de l'IoT 🌐 l'ESP32 n'est à l'origine pas taillée pour de la performance 🏃‍♂️⏱️. 
+
+Quelques **défauts** sont donc présents pour notre application tel que le **module I2C *hardware*** qui est très **lent** 🐌 ou le fait qu'il n'y ait pas de **canal DMA** pour copier directement en mémoire les données arrivant des différents capteurs. Dans notre cas, la problématique de l'I2C est particulièrement importante 🧐, car c'est le **bus** qui nous permet de communiquer avec notre **centrale d'attitude**. Ce capteur est **indispensable** pour faire les **asservissements** les plus basiques du véhicule, tels que l'asservissement en assiette, en cap, en accélération ou encore en hauteur. 
+
+> Pour tous nos autres robots, ce n'était pas réellement un problème, mais pour un drone multi-rotors, la vitesse de rafraichissement des données en provenance des capteurs est capitale pour permettre le maintien en l'air 🦅.
+
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/flying_ESP32_12_2020/kraken.jpg){: style="width:32%;"}
+![image]({{site.baseurl}}/assets/img/flying_ESP32_12_2020/ryujin.png){: style="width:32%;"}
+![image]({{site.baseurl}}/assets/img/flying_ESP32_12_2020/mabouya.jpg){: style="width:32%;"}<br/>
+**Tout fonctionne pour Kraken, notre catamaran, Ryujin, notre sous-marin et Mabouya, notre voiture, mais Kiwi, notre drone volant, ne peut pas décoller 😱!**
+{: refdef}
+
+Quant à l'absence de DMA, cela impose de prendre plus de **temps CPU** pour certains bus (😅 heureusement on a deux cœurs 💞).
+
+Mis à part le problème de l'I2C, ces différentes **contraintes** ont été relevées par les **étudiants du laboratoire**, notamment avec le travail de Charles Villard, qui y est maintenant **[doctorant]({% post_url 2020-11-01-bienvenue_charles %})**. Ces **travaux** leur ont permis de **co-publier** un **[article scientifique]({% post_url 2020-05-05-copublications_etudiants_isprs %})** 📃🎓 sur le sujet. 
+
+> Quant au **dernier point bloquant** pour que notre projet puisse fonctionner sur des **drones volants**, ce sont les étudiants d'un **groupe PFE** (*Projet de Fin d'Études*) de la **majeure GISTRE**, spécialisée sur les **systèmes embarqués**, qui se sont penchés dessus.    
+
+
+Le groupe est composé de Loïc Bellonnet-Mottet, Thomas Lupin et Vincent Parizet. En première étape, ils ont mis en place une **procédure de test** ⚖️ avec notre centrale d'attitude pour **mesurer les performances** initiales et à venir. Puis ils ont ***profilé*** 🔎 le code afin d'identifier les différents goulots d'étranglement ralentissant l'échantillonnage des données. 
+
+> Ils ont pu voir, entre autres, une utilisation extensive de listes chaînées, une gestion non optimale des allocations mémoires dynamiques (à éviter au maximum en embarqué) et de nombreuses interruptions dues à la manière d'utiliser les buffers *hardware* du module I2C. 
+
+De plus, en étudiant le comportement *hardware* en lui-même, ils ont constaté quelques défauts empêchant une communication I2C fiable, rapide et stable. 
+
+> Ce dernier point, particulièrement, a orienté le projet vers une solution *software*.  
+
+Ils ont ensuite exploré, implémenté et testé ⚗️ **plusieurs solutions** en s'inspirant des *drivers* de différents OS *open-source* supportant l'ESP32 dont ils ont comparés les performances. Forts des implémentations des différents **OS temps réels** disponibles sur ESP32 (tels RIOT OS), ils ont rassemblé les **optimisations** des différents projets afin d'obtenir un *driver* I2C performant capable de lire les données de la centrale.
+
+  
+> La vitesse mesurée par le banc de test a significativement augmentée 😯 : on a ainsi pu atteindre et dépasser les 400 Hz de lecture, nécessaires au vol d'un drone ! 
+
+
+Sauf que, en passant par une solution *software* plutôt que *hardware*, le protocole se retrouve directement géré par le **CPU**. Il fallait donc **vérifier** que cette implémentation n'était pas **trop gourmande** en **ressources** et permettait bien à Ardupilot de s'exécuter sans que cela **impacte** les autres tâches 🥺🤞...
+  
+
+{:refdef: style="text-align: center;"}
+![image]({{site.baseurl}}/assets/img/flying_ESP32_12_2020/under_test_pilote.jpg){: style="width:49%;"}
+![image]({{site.baseurl}}/assets/img/flying_ESP32_12_2020/under_test_drone.jpg){: style="width:49%;"}<br/>
+**Aujourd'hui, c'était l'heure du verdict avec le test sur la plateforme 🥁!**
+{: refdef}
+
+
+Charles a donc ajouté leur implémentation dans le projet ArduPilot sur ESP32 et a réalisé les **essais de vol** à l'*Under*. Voici la vidéo du résultat, sans réglage des PIDs mais avec un peu de filtrage de données :
+
+
+<center>
+<iframe src="https://www.youtube.com/embed/66Vtt2hcc1Q" style="width: 90%; min-height:450px; border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true" allow="accelerometer; gyroscope;"></iframe>
+<br/><strong>Tout premier vol : sucess 🥳 !!!</strong> 
+</center>
+
+<br/>
+
+Ce premier **vol symbolique** montre la capacité de l'ESP32 à tenir les contraintes des drones volants et la faisabilité du projet ! Et au final, la comparaison de la charge CPU avec et sans l'implémentation montre que le passage à un *driver* *software* est plutôt négligeable sur notre utilisation 🤩. Maintenant il ne reste plus qu'à **régler les configurations classiques** d'un drone pour qu'il puisse répondre à nos besoins de mission : bref, de la routine !
+
+> Bravo aux étudiants impliqués pour la qualité de leur travail 👍👏 !
+
+Ce projet de portage sur ESP32 est en cours de peaufinage : l'objectif est de pouvoir contribuer sur la **branche principale** du projet ArduPilot et donc de faire profiter la **communauté** des avantages et de la simplicité d'utilisation de l'ESP32. 
+
+> N'hésitez pas à venir **contribuer** si ça vous intéresse ! 
+
+
+À suivre donc 😉...
+
+
+
+
+
+
+
