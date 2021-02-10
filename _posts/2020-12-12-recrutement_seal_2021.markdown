@@ -42,6 +42,7 @@ On a donné **carte blanche** 🎤 à nos étudiants actuels dont une partie a p
 Avec nos étudiants, on a tous **hâte** de voir la composition de la **nouvelle équipe** 🤗 ! 
 
 
+*&#x21E8; Découvrez [la nouvelle équipe étudiante 2021]({% post_url 2021-01-18-nouvelle_equipe_etudiante_2021 %})*<br/>
   
 *&#x21E6; Voir le post sur* : [le recrutement de l'année précédente]({% post_url 2020-01-22-recrutement_seal %})
 
