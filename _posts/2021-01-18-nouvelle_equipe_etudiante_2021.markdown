@@ -58,7 +58,7 @@ La **semaine d'intégration** des nouveaux se déroule sur le début du mois de 
 > **Have fun 😁 et bon level-up à tout le monde !**
 
 
-&#x21E6; Voir le post qui présente [l'équipe de l'année dernière (2020)]({% post_url 2020-01-31-nouvelle_equipe_etudiante %})
+*&#x21E6; Voir le post qui présente* [l'équipe de l'année dernière (2020)]({% post_url 2020-01-31-nouvelle_equipe_etudiante %})
 
 
 

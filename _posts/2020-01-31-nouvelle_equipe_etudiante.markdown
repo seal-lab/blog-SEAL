@@ -47,7 +47,7 @@ La **semaine d'intégration** se déroule sur le début février. Au **programme
 > **Have fun 😁 et bon level-up à tout le monde !**
 
 
-*&#x21E8; Voir le post qui présente [la nouvelle équipe 2021]({% post_url 2021-01-18-nouvelle_equipe_etudiante_2021 %})<br/>
+*&#x21E8; Voir le post qui présente* [la nouvelle équipe 2021]({% post_url 2021-01-18-nouvelle_equipe_etudiante_2021 %})<br/>
 
 
 

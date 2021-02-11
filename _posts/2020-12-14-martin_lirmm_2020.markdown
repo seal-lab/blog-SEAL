@@ -149,6 +149,8 @@ La recherche m’a particulièrement intéressée, et j’aimerais commencer le 
 
 
 *&#x21E6; Voir le post précédent de la chronique **Parcours d'étudiants SEAL*** : [Bienvenue Charles (&#x266F;01)]({% post_url 2020-11-01-bienvenue_charles %})
+*&#x21E8; Voir le post suivant de la chronique **Parcours d'étudiants SEAL*** : [Apolline en stage à A.I.Mergence (&#x266F;03)]({% post_url 2021-01-20-apolline_ai_mergence_2020 %})<br/>
+
 
 
 
