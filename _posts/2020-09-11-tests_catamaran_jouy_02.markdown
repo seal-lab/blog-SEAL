@@ -60,5 +60,6 @@ On a aussi terminé les **racks internes** du banc caméras 📷 et rajouté des
  
 
 *&#x21E8; Voir* : [la mission à Nice 2020]({% post_url 2020-09-29-mission_nice_2020_01 %})<br/>
+*&#x21E8; Voir* : [le post suivant sur les tests du catamaran à Jouy-en-Josas]({% post_url 2021-01-25-tests_catamaran_jouy_03 %})<br/>
 *&#x21E6; Revoir* : [la mission à Nice 2019]({% post_url 2019-10-14-mission_nice_2019_01 %})<br/>
-*&#x21E6; Revoir* : [le post précédent sur des tests du catamaran à Jouy-en-Josas]({% post_url 2019-10-10-tests_catamaran_jouy %})<br/>
+*&#x21E6; Revoir* : [le post précédent sur les tests du catamaran à Jouy-en-Josas]({% post_url 2019-10-10-tests_catamaran_jouy %})<br/>
