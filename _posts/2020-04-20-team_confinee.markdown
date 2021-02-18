@@ -35,7 +35,7 @@ Même si les **cours à distance**, ce n'est pas si simple 😰 et qu'une grosse
 <!-- ## Production de visières de protection -->
 En plus du travail **quotidien**, les deux enseignants-chercheurs de l'équipe ont rappatrié chez eux les **imprimantes 3D** de l'école et impriment **jours et nuits** 🌓des **visières de protection** 🛡à destination du **personnel soignant** et des acteurs des secteurs indispensables en contact avec du public. 
 
-> Nous nous sommes intégrés au réseau citoyen **[Visière Solidaire](https://visieresolidaire.org/fr/ "Liens vers Visière Solidaire")** qui rassemble les makers ⚙️ bénévoles par département sur l'ensemble du territoire pour coordonner la réponse aux demandes locales et nous intervenons dans le 94 et le 92. 
+> Nous nous sommes intégrés au réseau citoyen **[Visière Solidaire](https://visieresolidaire.org/fr/ "Lien vers Visière Solidaire")** qui rassemble les makers ⚙️ bénévoles par département sur l'ensemble du territoire pour coordonner la réponse aux demandes locales et nous intervenons dans le 94 et le 92. 
 
 
 On fabrique **3 modèles** de visières correspondant à différents **usages**. Nous les avons testés et sélectionnés à partir de **fichiers open-sources** qui sont partagés partout dans le monde 🌎 et qui sont améliorés au jour le jour pour optimiser 🛠 le confort et la vitesse d'impression. 
