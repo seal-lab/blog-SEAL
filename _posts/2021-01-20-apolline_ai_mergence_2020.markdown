@@ -73,7 +73,7 @@ Le laboratoire SEAL m’a fait gagner en autonomie et en compétences. J’ai ac
 ## 🎙️ "Tu es actuellement en stage de 5 mois à mi-parcours du cycle ingénieur, peux-tu nous parler un peu de ton entreprise ?"
 
 ![image]({{site.baseurl}}/assets/img/apolline_ai_mergence_2020/ai_mergence_01.jpg){: style="float:left; padding-right:15px; margin-right:15px; width:35%;"}
-Je suis actuellement en stage chez A.I.Mergence, une Startup française spécialisée dans la robotique autonome et l’intelligence artificielle, fondée en 2015 par Théophile Gonos (Docteur en intelligence artificielle) et Serge Gongora (Ingénieur en électromécanique). Elle est située dans le 13ème arrondissement de Paris à Station F. 
+Je suis actuellement en stage chez [A.I.Mergence](https://www.ai-mergence.com/fr/ "Lien vers A.I.Mergence"){:target="_blank"}, une Startup française spécialisée dans la robotique autonome et l’intelligence artificielle, fondée en 2015 par Théophile Gonos (Docteur en intelligence artificielle) et Serge Gongora (Ingénieur en électromécanique). Elle est située dans le 13ème arrondissement de Paris à Station F. 
 
 > A.I.Mergence développe un robot mobile de sécurité et de surveillance pour les entreprises, capable de protéger les espaces intérieurs contre tous types de menaces (intrusions, dégâts domestiques).
 

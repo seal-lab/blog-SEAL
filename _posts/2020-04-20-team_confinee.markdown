@@ -35,7 +35,7 @@ Même si les **cours à distance**, ce n'est pas si simple 😰 et qu'une grosse
 <!-- ## Production de visières de protection -->
 En plus du travail **quotidien**, les deux enseignants-chercheurs de l'équipe ont rappatrié chez eux les **imprimantes 3D** de l'école et impriment **jours et nuits** 🌓des **visières de protection** 🛡à destination du **personnel soignant** et des acteurs des secteurs indispensables en contact avec du public. 
 
-> Nous nous sommes intégrés au réseau citoyen **[Visière Solidaire](https://visieresolidaire.org/fr/ "Lien vers Visière Solidaire")** qui rassemble les makers ⚙️ bénévoles par département sur l'ensemble du territoire pour coordonner la réponse aux demandes locales et nous intervenons dans le 94 et le 92. 
+> Nous nous sommes intégrés au réseau citoyen **[Visière Solidaire](https://visieresolidaire.org/fr/ "Lien vers Visière Solidaire"){:target="_blank"}** qui rassemble les makers ⚙️ bénévoles par département sur l'ensemble du territoire pour coordonner la réponse aux demandes locales et nous intervenons dans le 94 et le 92. 
 
 
 On fabrique **3 modèles** de visières correspondant à différents **usages**. Nous les avons testés et sélectionnés à partir de **fichiers open-sources** qui sont partagés partout dans le monde 🌎 et qui sont améliorés au jour le jour pour optimiser 🛠 le confort et la vitesse d'impression. 
@@ -69,7 +69,7 @@ D'autres **personnels** de l'EPITA des différents sites, ainsi que des **étudi
 
 <!-- ## Folding@Home -->
 
-Par ailleurs, nous avons mis les **étudiants** de notre équipe à **contribution** sur un projet à portée un peu moins immmédiate qui concerne plutôt le domaine des **sciences fondamentales** 🔬: **[Folding&#x40;Home](https://foldingathome.org/start-folding/ "Liens vers Folding@Home")**. Créé il y a 20&#x202F;ans par l'**Université de Stanford**, l'idée de ce projet est d'exploiter le **temps de calcul libre** des ordinateurs 🖥 des participants pour créer un **super-calculateur** 💪 mondial. 
+Par ailleurs, nous avons mis les **étudiants** de notre équipe à **contribution** sur un projet à portée un peu moins immmédiate qui concerne plutôt le domaine des **sciences fondamentales** 🔬: **[Folding&#x40;Home](https://foldingathome.org/start-folding/ "Liens vers Folding@Home"){:target="_blank"}**. Créé il y a 20&#x202F;ans par l'**Université de Stanford**, l'idée de ce projet est d'exploiter le **temps de calcul libre** des ordinateurs 🖥 des participants pour créer un **super-calculateur** 💪 mondial. 
 
 > L'objectif est de pouvoir simuler le **repliement des protéines** dans des conditions variées (température, pression, etc.) pour mieux comprendre ces comportements et permettre le développement de nouveaux médicaments dans le cadre de différentes maladies dont Alzheimer, Parkinson, différents types de cancers et COVID-19. 
 

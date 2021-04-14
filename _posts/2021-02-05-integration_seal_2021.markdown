@@ -5,7 +5,7 @@ img: integration_seal_2021/integration_seal_2021.jpg # Add image post (optional)
 date: 2021-02-05 08:00:00 +0100
 description: Parcours d'étudiants
 categories: [Lab]
-tags: [Lab life, Education, Ground Robot]
+tags: [Lab life, Education, Ground robot]
 --- 
 
 
