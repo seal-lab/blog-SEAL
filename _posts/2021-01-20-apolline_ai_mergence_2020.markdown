@@ -130,7 +130,8 @@ Grâce à ce stage, j’ai pu confirmer mes envies de spécialisation dans la ma
 *🎬 Et voilà ! On te remercie Apolline d'avoir participé à cet **interview**, on te souhaite une belle fin de stage et on te dit à très vite au labo 😉!*
 
 
-*&#x21E6; Voir le post précédent de la chronique **Parcours d'étudiants SEAL*** : [Martin en stage au LIRMM (&#x266F;02)]({% post_url 2020-12-14-martin_lirmm_2020 %})
+*&#x21E6; Voir le post précédent de la chronique **Parcours d'étudiants SEAL*** : [Martin en stage au LIRMM (&#x266F;02)]({% post_url 2020-12-14-martin_lirmm_2020 %})<br/>
+*&#x21E8; Voir le post suivant de la chronique **Parcours d'étudiants SEAL*** : [Corentin en majeure Intelligence Artificielle (&#x266F;04)]({% post_url 2021-03-23-corentin_majeure_intelligence_artificielle_2021 %})<br/>
 
 
 
